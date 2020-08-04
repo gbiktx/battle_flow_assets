@@ -1,0 +1,34 @@
+{
+  "greatCups": [
+    { "name": "all", "title": "All Pokemon", "mainColor": "0xff263AA3" },
+    { "name": "catacomb", "title": "Catacomb Cup", "mainColor": "0xff6E6D71" },
+    {
+      "name": "sinister-mirror",
+      "title": "Sinister Mirror",
+      "mainColor": "0xff342E45"
+    },
+    {
+      "name": "ferocious-mirror",
+      "title": "Ferocious Mirror",
+      "mainColor": "0xff811B21"
+    },
+    {
+      "name": "timeless-mirror",
+      "title": "Timeless Mirror",
+      "mainColor": "0xffCE8316"
+    },
+    {
+      "name": "sorcerous-mirror",
+      "title": "Sorcerous Mirror",
+      "mainColor": "0xff3BAFCF"
+    }
+  ],
+  "ultraCups": [
+    { "name": "all", "title": "All Pokemon", "mainColor": "0xffC89809" }
+  ],
+  "masterCups": [
+    { "name": "all", "title": "All Pokemon", "mainColor": "0xff441696" },
+    { "name": "premier", "title": "Premier Cup", "mainColor": "0xff441696" }
+  ],
+  "appVersion": "1.0"
+}
