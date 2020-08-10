@@ -24,7 +24,8 @@
     }
   ],
   "ultraCups": [
-    { "name": "all", "title": "All Pokemon", "mainColor": "0xffC89809" }
+    { "name": "all", "title": "All Pokemon", "mainColor": "0xffC89809" },
+    { "name": "premier", "title": "Premier Cup", "mainColor": "0xffC89809" }
   ],
   "masterCups": [
     { "name": "all", "title": "All Pokemon", "mainColor": "0xff441696" },
