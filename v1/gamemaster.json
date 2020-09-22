@@ -5697,7 +5697,7 @@
             "cp1500": [24.5, 6, 10, 13],
             "cp2500": [40, 15, 15, 15]
         },
-		"tags": "shadow"
+		"tags": ["shadow"]
     }, {
         "dex": 206,
         "speciesName": "Dunsparce",
