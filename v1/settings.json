@@ -1,19 +1,65 @@
 {
-  "greatCups": [
-    { "name": "all", "title": "All Pokemon", "mainColor": "0xff263AA3" },
+  "leagues": [
+    "Little League",
+    "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
+    "500",
+    "Great League",
+    "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
+    "1500",
+    "Ultra League",
+    "https://gab07.github.io/pvpoke_mobile_res/images/leagues/ultra_league.png",
+    "2500",
+    "Master League",
+    "https://gab07.github.io/pvpoke_mobile_res/images/leagues/master_league.png",
+    "10000"
+  ],
+  "littleCups": [
     {
-      "name": "sunrise",
-      "title": "Sunrise Cup",
-      "mainColor": "0xffAA2F0A"
+      "name": "little",
+      "title": "Little Cup",
+      "mainColor": "0xff263AA3"
+    }
+  ],
+  "greatCups": [
+    {
+      "name": "all",
+      "title": "All Pokemon",
+      "mainColor": "0xff263AA3"
+    },
+    {
+      "name": "kanto",
+      "title": "Kanto Pokemon",
+      "mainColor": "0xff263AA3"
+    },
+    {
+      "name": "marsh",
+      "title": "Marsh Cup",
+      "mainColor": "0xffD2CE16"
     }
   ],
   "ultraCups": [
-    { "name": "all", "title": "All Pokemon", "mainColor": "0xffC89809" },
-    { "name": "premier", "title": "Premier Cup", "mainColor": "0xffC89809" }
+    {
+      "name": "all",
+      "title": "All Pokemon",
+      "mainColor": "0xffC89809"
+    },
+    {
+      "name": "premier",
+      "title": "Premier Cup",
+      "mainColor": "0xffC89809"
+    }
   ],
   "masterCups": [
-    { "name": "all", "title": "All Pokemon", "mainColor": "0xff441696" },
-    { "name": "premier", "title": "Premier Cup", "mainColor": "0xff441696" }
+    {
+      "name": "all",
+      "title": "All Pokemon",
+      "mainColor": "0xff441696"
+    },
+    {
+      "name": "premier",
+      "title": "Premier Cup",
+      "mainColor": "0xff441696"
+    }
   ],
   "appVersion": "1.0"
 }
