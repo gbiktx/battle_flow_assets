@@ -1,17 +1,25 @@
 {
   "leagues": [
-    "Little League",
-    "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
-    "500",
-    "Great League",
-    "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
-    "1500",
-    "Ultra League",
-    "https://gab07.github.io/pvpoke_mobile_res/images/leagues/ultra_league.png",
-    "2500",
-    "Master League",
-    "https://gab07.github.io/pvpoke_mobile_res/images/leagues/master_league.png",
-    "10000"
+    {
+      "name": "Little League",
+      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
+      "cpLimit": "500"
+    },
+    {
+      "name": "Great League",
+      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
+      "cpLimit": "1500"
+    },
+    {
+      "name": "Ultra League",
+      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/ultra_league.png",
+      "cpLimit": "2500"
+    },
+    {
+      "name": "Master League",
+      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/master_league.png",
+      "cpLimit": "10000"
+    }
   ],
   "littleCups": [
     {
