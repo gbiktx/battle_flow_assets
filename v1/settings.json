@@ -1,11 +1,6 @@
 {
   "leagues": [
     {
-      "name": "Little League",
-      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/cups/premier.png",
-      "cpLimit": "500"
-    },
-    {
       "name": "Great League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
       "cpLimit": "1500"
@@ -21,13 +16,6 @@
       "cpLimit": "10000"
     }
   ],
-  "littleCups": [
-    {
-      "name": "little",
-      "title": "Little Cup",
-      "mainColor": "0xff263AA3"
-    }
-  ],
   "greatCups": [
     {
       "name": "all",
@@ -35,14 +23,14 @@
       "mainColor": "0xff263AA3"
     },
     {
-      "name": "kanto",
-      "title": "Kanto Pokemon",
-      "mainColor": "0xff263AA3"
+      "name": "holiday",
+      "title": "Holiday Cup",
+      "mainColor": "0xff00873E"
     },
     {
-      "name": "marsh",
-      "title": "Marsh Cup",
-      "mainColor": "0xffD2CE16"
+      "name": "nightfall",
+      "title": "Nightfall Cup",
+      "mainColor": "0xffC4C7EB"
     }
   ],
   "ultraCups": [
@@ -66,6 +54,11 @@
     {
       "name": "premier",
       "title": "Premier Cup",
+      "mainColor": "0xff441696"
+    },
+    {
+      "name": "classic",
+      "title": "Classic Cup",
       "mainColor": "0xff441696"
     }
   ],
