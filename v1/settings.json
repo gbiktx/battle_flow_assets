@@ -21,16 +21,6 @@
       "name": "all",
       "title": "All Pokemon",
       "mainColor": "0xff263AA3"
-    },
-    {
-      "name": "holiday",
-      "title": "Holiday Cup",
-      "mainColor": "0xff00873E"
-    },
-    {
-      "name": "nightfall",
-      "title": "Nightfall Cup",
-      "mainColor": "0xffC4C7EB"
     }
   ],
   "ultraCups": [
