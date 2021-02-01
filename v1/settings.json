@@ -19,14 +19,18 @@
   "greatCups": [
     {
       "name": "all",
-      "title": "All Pokemon",
+      "title": "Great League",
       "mainColor": "0xff263AA3"
+    }, {
+      "name": "labyrinth",
+      "title": "Silph Labyrinth Cup",
+      "mainColor": "0xff1B84D2"
     }
   ],
   "ultraCups": [
     {
       "name": "all",
-      "title": "All Pokemon",
+      "title": "Ultra League",
       "mainColor": "0xffC89809"
     },
     {
@@ -38,7 +42,7 @@
   "masterCups": [
     {
       "name": "all",
-      "title": "All Pokemon",
+      "title": "Master League",
       "mainColor": "0xff441696"
     },
     {
