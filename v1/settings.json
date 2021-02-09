@@ -25,6 +25,10 @@
       "name": "labyrinth",
       "title": "Silph Labyrinth Cup",
       "mainColor": "0xff1B84D2"
+    },{
+      "name": "love",
+      "title": "Love Cup",
+      "mainColor": "0xffE91E63"
     }
   ],
   "ultraCups": [
