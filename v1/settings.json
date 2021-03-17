@@ -21,7 +21,18 @@
       "name": "all",
       "title": "Great League",
       "mainColor": "0xff263AA3"
-    },{
+    },
+    {
+      "name": "retro",
+      "title": "Retro Cup",
+      "mainColor": "0xff263AA3"
+    },
+    {
+      "name": "labyrinth",
+      "title": "Silph Labyrinth Cup",
+      "mainColor": "0xff1B84D2"
+    },
+    {
       "name": "vortex",
       "title": "Silph Vortex Cup",
       "mainColor": "0xff87195d"
