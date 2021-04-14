@@ -28,9 +28,14 @@
       "mainColor": "0xff263AA3"
     },
     {
-      "name": "vortex",
-      "title": "Silph Vortex Cup",
-      "mainColor": "0xff87195d"
+      "name": "remix",
+      "title": "GBL Remix Cup",
+      "mainColor": "0xff263AA3"
+    },
+    {
+      "name": "prismatic",
+      "title": "Silph Prismatic Cup",
+      "mainColor": "0xffc51e56;"
     }
   ],
   "ultraCups": [
