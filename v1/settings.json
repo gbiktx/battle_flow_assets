@@ -28,14 +28,14 @@
       "mainColor": "0xff263AA3"
     },
     {
-      "name": "remix",
-      "title": "GBL Remix Cup",
-      "mainColor": "0xff263AA3"
+      "name": "commander",
+      "title": "Silph Commander Cup",
+      "mainColor": "0xffF96D17"
     },
     {
-      "name": "prismatic",
-      "title": "Silph Prismatic Cup",
-      "mainColor": "0xffc51e56"
+      "name": "factions",
+      "title": "Silph Factions",
+      "mainColor": "0xff56ADAC"
     }
   ],
   "ultraCups": [
@@ -54,11 +54,6 @@
     {
       "name": "all",
       "title": "Master League",
-      "mainColor": "0xff441696"
-    },
-    {
-      "name": "premier",
-      "title": "Premier Cup",
       "mainColor": "0xff441696"
     },
     {
