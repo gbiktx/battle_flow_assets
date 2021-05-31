@@ -1,6 +1,11 @@
 {
   "leagues": [
     {
+      "name": "Little League",
+      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/cups/premier.png",
+      "cpLimit": "500"
+    },
+    {
       "name": "Great League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
       "cpLimit": "1500"
@@ -15,6 +20,12 @@
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/master_league.png",
       "cpLimit": "10000"
     }
+  ], "littleCups": [
+    {
+      "name": "element",
+      "title": "Element Cup",
+      "mainColor": "0xff263AA3"
+    }
   ],
   "greatCups": [
     {
@@ -23,19 +34,9 @@
       "mainColor": "0xff263AA3"
     },
     {
-      "name": "retro",
-      "title": "Retro Cup",
-      "mainColor": "0xff263AA3"
-    },
-    {
-      "name": "commander",
-      "title": "Silph Commander Cup",
-      "mainColor": "0xffF96D17"
-    },
-    {
-      "name": "factions",
-      "title": "Silph Factions",
-      "mainColor": "0xff56ADAC"
+      "name": "venture",
+      "title": "Venture Cup",
+      "mainColor": "0xff6AABA5"
     }
   ],
   "ultraCups": [
