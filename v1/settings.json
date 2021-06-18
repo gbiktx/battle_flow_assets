@@ -1,11 +1,5 @@
 {
-  "leagues": [
-    {
-      "name": "Little League",
-      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/cups/premier.png",
-      "cpLimit": "500"
-    },
-    {
+  "leagues": [{
       "name": "Great League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
       "cpLimit": "1500"
@@ -19,16 +13,14 @@
       "name": "Master League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/master_league.png",
       "cpLimit": "10000"
-    }
-  ], "littleCups": [
+    },
     {
-      "name": "element",
-      "title": "Element Cup",
-      "mainColor": "0xff263AA3"
+      "name": "Little League",
+      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/cups/premier.png",
+      "cpLimit": "500"
     }
   ],
-  "greatCups": [
-    {
+  "greatCups": [{
       "name": "all",
       "title": "Great League",
       "mainColor": "0xff263AA3"
@@ -39,8 +31,7 @@
       "mainColor": "0xff6AABA5"
     }
   ],
-  "ultraCups": [
-    {
+  "ultraCups": [{
       "name": "all",
       "title": "Ultra League",
       "mainColor": "0xffC89809"
@@ -51,8 +42,7 @@
       "mainColor": "0xffC89809"
     }
   ],
-  "masterCups": [
-    {
+  "masterCups": [{
       "name": "all",
       "title": "Master League",
       "mainColor": "0xff441696"
@@ -63,5 +53,10 @@
       "mainColor": "0xff441696"
     }
   ],
-  "appVersion": "1.0"
+  "littleCups": [{
+    "name": "element",
+    "title": "Element Cup",
+    "mainColor": "0xff263AA3"
+  }],
+  "appVersion": "0.1"
 }
