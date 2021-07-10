@@ -26,14 +26,29 @@
       "mainColor": "0xff263AA3"
     },
     {
-      "name": "venture",
-      "title": "Venture Cup",
+      "name": "remix",
+      "title": "Great Cup (Remix)",
+      "mainColor": "0xff6AABA5"
+    },
+    {
+      "name": "factions",
+      "title": "Factions Cup",
+      "mainColor": "0xff6AABA5"
+    },
+    {
+      "name": "nightfall",
+      "title": "Nightfall Cup",
       "mainColor": "0xff6AABA5"
     }
   ],
   "ultraCups": [{
       "name": "all",
       "title": "Ultra League",
+      "mainColor": "0xffC89809"
+    },
+    {
+      "name": "remix",
+      "title": "Ultra League (Remix)",
       "mainColor": "0xffC89809"
     },
     {
@@ -58,5 +73,5 @@
     "title": "Element Cup",
     "mainColor": "0xff263AA3"
   }],
-  "appVersion": "0.1"
+  "appVersion": "0.12"
 }
