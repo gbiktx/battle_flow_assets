@@ -27,17 +27,21 @@
     },
     {
       "name": "remix",
-      "title": "Great Cup (Remix)",
+      "title": "Great League (Remix)",
       "mainColor": "0xff6AABA5"
     },
     {
       "name": "factions",
-      "title": "Factions Cup",
+      "title": "Dungeon Cup",
       "mainColor": "0xff6AABA5"
     },
     {
       "name": "nightfall",
       "title": "Nightfall Cup",
+      "mainColor": "0xff6AABA5"
+    }, {
+      "name": "halloween",
+      "title": "Halloween Cup",
       "mainColor": "0xff6AABA5"
     }
   ],
@@ -66,12 +70,16 @@
       "name": "classic",
       "title": "Classic Cup",
       "mainColor": "0xff441696"
+    }, {
+      "name": "premierclassic",
+      "title": "Premier Classic Cup",
+      "mainColor": "0xff441696"
     }
   ],
   "littleCups": [{
-    "name": "element",
-    "title": "Element Cup",
+    "name": "littlejungle",
+    "title": "Jungle Cup",
     "mainColor": "0xff263AA3"
   }],
-  "appVersion": "0.12"
+  "appVersion": "0.13"
 }
