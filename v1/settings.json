@@ -31,6 +31,11 @@
       "mainColor": "0xff6AABA5"
     },
     {
+      "name": "lunar",
+      "title": "Lunar Cup",
+      "mainColor": "0xff098595"
+    },
+    {
       "name": "factions",
       "title": "Dungeon Cup",
       "mainColor": "0xff6AABA5"
