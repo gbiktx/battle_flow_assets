@@ -25,44 +25,12 @@
       "title": "Great League",
       "mainColor": "0xff263AA3"
     },
-    {
-      "name": "remix",
-      "title": "Great League (Remix)",
-      "mainColor": "0xff6AABA5"
-    },
-    {
-      "name": "lunar",
-      "title": "Lunar Cup",
-      "mainColor": "0xff098595"
-    },
-    {
-      "name": "factions",
-      "title": "Dungeon Cup",
-      "mainColor": "0xff6AABA5"
-    },
-    {
-      "name": "nightfall",
-      "title": "Nightfall Cup",
-      "mainColor": "0xff6AABA5"
-    }, {
-      "name": "halloween",
-      "title": "Halloween Cup",
-      "mainColor": "0xff6AABA5"
-    }
+
+
   ],
   "ultraCups": [{
       "name": "all",
       "title": "Ultra League",
-      "mainColor": "0xffC89809"
-    },
-    {
-      "name": "remix",
-      "title": "Ultra League (Remix)",
-      "mainColor": "0xffC89809"
-    },
-    {
-      "name": "premier",
-      "title": "Premier Cup",
       "mainColor": "0xffC89809"
     }
   ],
@@ -75,16 +43,8 @@
       "name": "classic",
       "title": "Classic Cup",
       "mainColor": "0xff441696"
-    }, {
-      "name": "premierclassic",
-      "title": "Premier Classic Cup",
-      "mainColor": "0xff441696"
     }
   ],
-  "littleCups": [{
-    "name": "littlejungle",
-    "title": "Jungle Cup",
-    "mainColor": "0xff263AA3"
-  }],
+  "littleCups": [],
   "appVersion": "0.13"
 }
