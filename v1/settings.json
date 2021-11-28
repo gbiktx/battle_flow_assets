@@ -24,16 +24,13 @@
       "name": "all",
       "title": "Great League",
       "mainColor": "0xff263AA3"
-    },
-
-
-  ],
-  "ultraCups": [{
-      "name": "all",
-      "title": "Ultra League",
-      "mainColor": "0xffC89809"
     }
   ],
+  "ultraCups": [{
+    "name": "all",
+    "title": "Ultra League",
+    "mainColor": "0xffC89809"
+  }],
   "masterCups": [{
       "name": "all",
       "title": "Master League",
