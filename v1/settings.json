@@ -24,13 +24,24 @@
       "name": "all",
       "title": "Great League",
       "mainColor": "0xff263AA3"
+    },
+    {
+      "name": "sinnoh",
+      "title": "Sinnoh Cup",
+      "mainColor": "0xff263AA3"
     }
   ],
   "ultraCups": [{
-    "name": "all",
-    "title": "Ultra League",
-    "mainColor": "0xffC89809"
-  }],
+      "name": "all",
+      "title": "Ultra League",
+      "mainColor": "0xffC89809"
+    },
+    {
+      "name": "premierclassic",
+      "title": "Ultra League Premier Classic",
+      "mainColor": "0xffC89809"
+    }
+  ],
   "masterCups": [{
       "name": "all",
       "title": "Master League",
