@@ -26,8 +26,13 @@
       "mainColor": "0xff263AA3"
     },
     {
-      "name": "sinnoh",
-      "title": "Sinnoh Cup",
+      "name": "love",
+      "title": "Love Cup",
+      "mainColor": "0xff263AA3"
+    },
+    {
+      "name": "johto",
+      "title": "Johto Cup",
       "mainColor": "0xff263AA3"
     }
   ],
@@ -50,6 +55,11 @@
     {
       "name": "classic",
       "title": "Classic Cup",
+      "mainColor": "0xff441696"
+    },
+    {
+      "name": "premierclassic",
+      "title": "Premier Classic Cup",
       "mainColor": "0xff441696"
     }
   ],
