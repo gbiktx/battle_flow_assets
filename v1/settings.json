@@ -26,8 +26,18 @@
       "mainColor": "0xff263AA3"
     },
     {
-      "name": "johto",
-      "title": "Johto Cup",
+      "name": "retro",
+      "title": "Retro Cup",
+      "mainColor": "0xff263AA3"
+    },
+    {
+      "name": "kanto",
+      "title": "Kanto Cup",
+      "mainColor": "0xff263AA3"
+    },
+    {
+      "name": "flying",
+      "title": "Flying Cup",
       "mainColor": "0xff263AA3"
     }
   ],
