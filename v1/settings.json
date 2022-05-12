@@ -16,7 +16,7 @@
     },
     {
       "name": "Little League",
-      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/cups/premier.png",
+      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/little_league.png",
       "cpLimit": "500"
     }
   ],
@@ -68,6 +68,12 @@
       "mainColor": "0xff441696"
     }
   ],
-  "littleCups": [],
+  "littleCups": [
+    {
+      "name": "element",
+      "title": "Element Cup",
+      "mainColor": "0xff441696"
+    }
+  ],
   "appVersion": "0.13"
 }
