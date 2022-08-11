@@ -24,6 +24,14 @@
     "name": "all",
     "title": "Great League",
     "mainColor": "0xff263AA3"
+  },{
+    "name": "summer",
+    "title": "Summer Cup",
+    "mainColor": "0xff263AA3"
+  },{
+    "name": "fighting",
+    "title": "Fighting Cup",
+    "mainColor": "0xff263AA3"
   }],
   "ultraCups": [{
     "name": "all",
@@ -40,5 +48,5 @@
     "title": "Element Cup",
     "mainColor": "0xff263AA3"
   }],
-  "appVersion": "0.14"
+  "appVersion": "0.15"
 }
