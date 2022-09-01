@@ -24,14 +24,6 @@
     "name": "all",
     "title": "Great League",
     "mainColor": "0xff263AA3"
-  },{
-    "name": "summer",
-    "title": "Summer Cup",
-    "mainColor": "0xff263AA3"
-  },{
-    "name": "fighting",
-    "title": "Fighting Cup",
-    "mainColor": "0xff263AA3"
   }],
   "ultraCups": [{
     "name": "all",
@@ -44,9 +36,9 @@
     "mainColor": "0xff441696"
   }],
   "littleCups": [{
-    "name": "element",
-    "title": "Element Cup",
+    "name": "littlejungleremix",
+    "title": "Little Jungle Remix Cup",
     "mainColor": "0xff263AA3"
   }],
-  "appVersion": "0.15"
+  "appVersion": "0.16"
 }
