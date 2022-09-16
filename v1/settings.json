@@ -29,6 +29,14 @@
     "name": "all",
     "title": "Ultra League",
     "mainColor": "0xffC89809"
+  }, {
+    "name": "weather",
+    "title": "Weather Cup",
+    "mainColor": "0xff263AA3"
+  },{
+    "name": "premierclassic",
+    "title": "Ultra Premier Classic",
+    "mainColor": "0xffC89809"
   }],
   "masterCups": [{
     "name": "all",
@@ -40,5 +48,5 @@
     "title": "Little Jungle Remix Cup",
     "mainColor": "0xff263AA3"
   }],
-  "appVersion": "0.16"
+  "appVersion": "0.17"
 }
