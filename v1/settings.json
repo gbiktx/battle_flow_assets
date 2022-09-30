@@ -47,6 +47,11 @@
     "title": "Master League",
     "mainColor": "0xff441696",
     "cpLimit":"10000"
+  },{
+    "name": "premierclassic",
+    "title": "Premier Classic",
+    "mainColor": "0xff441696",
+    "cpLimit":"10000"
   }],
   "littleCups": [{
     "name": "littlejungleremix",
