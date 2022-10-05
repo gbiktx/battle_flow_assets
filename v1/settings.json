@@ -25,6 +25,11 @@
     "title": "Great League",
     "mainColor": "0xff263AA3",
     "cpLimit":"1500"
+  },{
+    "name": "evolution",
+    "title": "Evolution Cup",
+    "mainColor": "0xff263AA3",
+    "cpLimit":"1500"
   }],
   "ultraCups": [{
     "name": "all",
