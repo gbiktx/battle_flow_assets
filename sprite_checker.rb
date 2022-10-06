@@ -1,4 +1,5 @@
 require 'json'
+require_relative 'env'
 
 puts "Opening PvPoke Game Master..."
 file = File.open("v1/gamemaster.json")
@@ -25,10 +26,7 @@ json['pokemon'].each { |p|
     if speciesId == "mr_mime_galarian"
         name = speciesId.split('_');
         spriteName = "#{dex}-#{name[2]}";
-        next
-    end
-        
-    if (speciesId.include?("_") &&
+    elsif (speciesId.include?("_") &&
             dex != 29 && # Nidoran Female
             dex != 32 && # Nidoran Male
             dex != 122 && # Nidoran Male
@@ -48,7 +46,7 @@ json['pokemon'].each { |p|
         spriteName = "#{dex}";
     end
 
-    unless (File.file?("/Users/gabrielaguirre/Desktop/projects/flutter/resources/pvpoke_mobile/pvpoke_mobile_res/images/sprites/#{spriteName}.png"))
+    unless (File.file?("#{Env::SPRITES_PATH}#{spriteName}.png"))
         if (p['released']) 
             required.push("name: #{id} sprite: #{spriteName}")
         else
