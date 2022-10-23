@@ -24,45 +24,35 @@
     "name": "all",
     "title": "Great League",
     "mainColor": "0xff263AA3",
-    "cpLimit":"1500"
-  },{
-    "name": "evolution",
-    "title": "Evolution Cup",
+    "cpLimit": "1500"
+  }, {
+    "name": "halloween",
+    "title": "Halloween League",
     "mainColor": "0xff263AA3",
-    "cpLimit":"1500"
+    "cpLimit": "1500"
+  }, {
+    "name": "willpower",
+    "title": "Willpower Cup",
+    "mainColor": "0xff263AA3",
+    "cpLimit": "1500"
   }],
   "ultraCups": [{
     "name": "all",
     "title": "Ultra League",
     "mainColor": "0xffC89809",
-    "cpLimit":"2500"
-  }, {
-    "name": "weather",
-    "title": "Weather Cup",
-    "mainColor": "0xff263AA3",
-    "cpLimit":"2500"
-  },{
-    "name": "premierclassic",
-    "title": "Ultra Premier Classic",
-    "mainColor": "0xffC89809",
-    "cpLimit":"2500"
+    "cpLimit": "2500"
   }],
   "masterCups": [{
     "name": "all",
     "title": "Master League",
     "mainColor": "0xff441696",
-    "cpLimit":"10000"
-  },{
-    "name": "premierclassic",
-    "title": "Premier Classic",
-    "mainColor": "0xff441696",
-    "cpLimit":"10000"
+    "cpLimit": "10000"
   }],
   "littleCups": [{
     "name": "littlejungleremix",
     "title": "Little Jungle Remix Cup",
     "mainColor": "0xff263AA3",
-    "cpLimit":"500"
+    "cpLimit": "500"
   }],
-  "appVersion": "0.17"
+  "appVersion": "0.18"
 }
