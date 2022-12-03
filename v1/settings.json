@@ -26,13 +26,13 @@
     "mainColor": "0xff263AA3",
     "cpLimit": "1500"
   }, {
-    "name": "halloween",
-    "title": "Halloween Cup",
+    "name": "remix",
+    "title": "Remix Cup",
     "mainColor": "0xff263AA3",
     "cpLimit": "1500"
-  }, {
-    "name": "willpower",
-    "title": "Willpower Cup",
+  },{
+    "name": "fightingremix",
+    "title": "Fighting Remix Cup",
     "mainColor": "0xff263AA3",
     "cpLimit": "1500"
   }],
