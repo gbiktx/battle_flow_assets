@@ -26,13 +26,8 @@
     "mainColor": "0xff263AA3",
     "cpLimit": "1500"
   }, {
-    "name": "remix",
-    "title": "Remix Cup",
-    "mainColor": "0xff263AA3",
-    "cpLimit": "1500"
-  },{
-    "name": "fightingremix",
-    "title": "Fighting Remix Cup",
+    "name": "holiday",
+    "title": "Holiday Cup",
     "mainColor": "0xff263AA3",
     "cpLimit": "1500"
   }],
@@ -41,16 +36,31 @@
     "title": "Ultra League",
     "mainColor": "0xffC89809",
     "cpLimit": "2500"
+  }, {
+    "name": "holiday",
+    "title": "Holiday Cup",
+    "mainColor": "0xffC89809",
+    "cpLimit": "2500"
+  }, {
+    "name": "premierclassic",
+    "title": "Premier Classic",
+    "mainColor": "0xffC89809",
+    "cpLimit": "2500"
   }],
   "masterCups": [{
     "name": "all",
     "title": "Master League",
     "mainColor": "0xff441696",
     "cpLimit": "10000"
+  }, {
+    "name": "premierclassic",
+    "title": "Premier Classic",
+    "mainColor": "0xff441696",
+    "cpLimit": "10000"
   }],
   "littleCups": [{
-    "name": "littlejungleremix",
-    "title": "Little Jungle Remix Cup",
+    "name": "all",
+    "title": "Little Cup",
     "mainColor": "0xff263AA3",
     "cpLimit": "500"
   }],
