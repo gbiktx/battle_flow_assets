@@ -1,5 +1,6 @@
 {
-  "leagues": [{
+  "leagues": [
+    {
       "name": "Great League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
       "cpLimit": "1500"
@@ -20,49 +21,61 @@
       "cpLimit": "500"
     }
   ],
-  "greatCups": [{
-    "name": "all",
-    "title": "Great League",
-    "mainColor": "0xff263AA3",
-    "cpLimit": "1500"
-  }, {
-    "name": "holiday",
-    "title": "Holiday Cup",
-    "mainColor": "0xff263AA3",
-    "cpLimit": "1500"
-  }],
-  "ultraCups": [{
-    "name": "all",
-    "title": "Ultra League",
-    "mainColor": "0xffC89809",
-    "cpLimit": "2500"
-  }, {
-    "name": "holiday",
-    "title": "Holiday Cup",
-    "mainColor": "0xffC89809",
-    "cpLimit": "2500"
-  }, {
-    "name": "premierclassic",
-    "title": "Premier Classic",
-    "mainColor": "0xffC89809",
-    "cpLimit": "2500"
-  }],
-  "masterCups": [{
-    "name": "all",
-    "title": "Master League",
-    "mainColor": "0xff441696",
-    "cpLimit": "10000"
-  }, {
-    "name": "premierclassic",
-    "title": "Premier Classic",
-    "mainColor": "0xff441696",
-    "cpLimit": "10000"
-  }],
-  "littleCups": [{
-    "name": "all",
-    "title": "Little Cup",
-    "mainColor": "0xff263AA3",
-    "cpLimit": "500"
-  }],
+  "greatCups": [
+    {
+      "name": "all",
+      "title": "Great League",
+      "mainColor": "0xff263AA3",
+      "cpLimit": "1500"
+    },
+    {
+      "name": "color",
+      "title": "Color Cup",
+      "mainColor": "0xff263AA3",
+      "cpLimit": "1500"
+    },
+    {
+      "name": "psychic",
+      "title": "Psychic Cup",
+      "mainColor": "0xff263AA3",
+      "cpLimit": "1500"
+    }
+  ],
+  "ultraCups": [
+    {
+      "name": "all",
+      "title": "Ultra League",
+      "mainColor": "0xffC89809",
+      "cpLimit": "2500"
+    },
+    {
+      "name": "fantasy",
+      "title": "Fantasy Cup",
+      "mainColor": "0xffC89809",
+      "cpLimit": "2500"
+    }
+  ],
+  "masterCups": [
+    {
+      "name": "all",
+      "title": "Master League",
+      "mainColor": "0xff441696",
+      "cpLimit": "10000"
+    },
+    {
+      "name": "premierclassic",
+      "title": "Premier Classic",
+      "mainColor": "0xff441696",
+      "cpLimit": "10000"
+    }
+  ],
+  "littleCups": [
+    {
+      "name": "all",
+      "title": "Little Cup",
+      "mainColor": "0xff263AA3",
+      "cpLimit": "500"
+    }
+  ],
   "appVersion": "0.18"
 }
