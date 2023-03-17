@@ -29,12 +29,6 @@
       "cpLimit": "1500"
     },
     {
-      "name": "color",
-      "title": "Color Cup",
-      "mainColor": "0xff263AA3",
-      "cpLimit": "1500"
-    },
-    {
       "name": "psychic",
       "title": "Psychic Cup",
       "mainColor": "0xff263AA3",
