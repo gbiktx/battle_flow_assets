@@ -29,8 +29,14 @@
       "cpLimit": "1500"
     },
     {
-      "name": "summer",
-      "title": "Summer Cup",
+      "name": "retro",
+      "title": "Retro Cup",
+      "mainColor": "0xff263AA3",
+      "cpLimit": "1500"
+    },
+    {
+      "name": "single",
+      "title": "Single Type Cup",
       "mainColor": "0xff263AA3",
       "cpLimit": "1500"
     }
