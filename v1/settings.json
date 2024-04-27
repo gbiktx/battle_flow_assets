@@ -29,14 +29,8 @@
       "cpLimit": "1500"
     },
     {
-      "name": "retro",
-      "title": "Retro Cup",
-      "mainColor": "0xff263AA3",
-      "cpLimit": "1500"
-    },
-    {
-      "name": "single",
-      "title": "Single Type Cup",
+      "name": "remix",
+      "title": "Great League Remix",
       "mainColor": "0xff263AA3",
       "cpLimit": "1500"
     }
@@ -46,12 +40,6 @@
       "name": "all",
       "title": "Ultra League",
       "mainColor": "0xffC89809",
-      "cpLimit": "2500"
-    },
-    {
-      "name": "summer",
-      "title": "Summer Cup",
-      "mainColor": "0xff263AA3",
       "cpLimit": "2500"
     }
   ],
@@ -63,22 +51,16 @@
       "cpLimit": "10000"
     },
     {
-      "name": "premierclassic",
-      "title": "Premier Classic",
+      "name": "premier",
+      "title": "Master Premier",
       "mainColor": "0xff441696",
       "cpLimit": "10000"
     }
   ],
   "littleCups": [
     {
-      "name": "little",
-      "title": "Little Cup",
-      "mainColor": "0xff263AA3",
-      "cpLimit": "500"
-    },
-    {
-      "name": "element",
-      "title": "Element Cup",
+      "name": "littlecatch",
+      "title": "Little Catch",
       "mainColor": "0xff263AA3",
       "cpLimit": "500"
     }
