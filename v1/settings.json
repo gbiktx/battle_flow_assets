@@ -3,35 +3,36 @@
     {
       "name": "Great League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
-      "cpLimit": "1500"
+      "cpLimit": "1500",
+      "mainColor": "0xff3A62DE",
+      "accentColor": "0xffD23433"
     },
     {
       "name": "Ultra League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/ultra_league.png",
-      "cpLimit": "2500"
+      "cpLimit": "2500",
+      "mainColor": "0xff3F4C54",
+      "accentColor": "0xffE4CA31"
     },
     {
       "name": "Master League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/master_league.png",
-      "cpLimit": "10000"
+      "cpLimit": "10000",
+      "mainColor": "0xff3F4C54",
+      "accentColor": "0xffE4CA31"
     },
     {
       "name": "Little League",
       "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/little_league.png",
-      "cpLimit": "500"
+      "cpLimit": "500",
+      "mainColor": "0xffF79386",
+      "accentColor": "0xffF4C357"
     }
   ],
   "greatCups": [
     {
       "name": "all",
       "title": "Great League",
-      "mainColor": "0xff263AA3",
-      "cpLimit": "1500"
-    },
-    {
-      "name": "fossil",
-      "title": "Fossil Cup",
-      "mainColor": "0xff263AA3",
       "cpLimit": "1500"
     }
   ],
@@ -39,7 +40,6 @@
     {
       "name": "all",
       "title": "Ultra League",
-      "mainColor": "0xffC89809",
       "cpLimit": "2500"
     }
   ],
@@ -47,15 +47,12 @@
     {
       "name": "all",
       "title": "Master League",
-      "mainColor": "0xff441696",
-      "cpLimit": "10000"
     }
   ],
   "littleCups": [
     {
       "name": "all",
       "title": "Little Cup",
-      "mainColor": "0xff263AA3",
       "cpLimit": "500"
     }
   ],
