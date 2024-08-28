@@ -46,7 +46,8 @@
   "masterCups": [
     {
       "name": "all",
-      "title": "Master League"
+      "title": "Master League",
+      "cpLimit": "10000"
     }
   ],
   "littleCups": [
