@@ -55,6 +55,11 @@
       "name": "all",
       "title": "Little Cup",
       "cpLimit": "500"
+    },
+    {
+      "name": "galar",
+      "title": "Little Galar Cup",
+      "cpLimit": "500"
     }
   ],
   "appVersion": "0.18"
