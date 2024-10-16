@@ -1,7 +1,7 @@
 require 'json'
 
 puts "Opening PvPoke Game Master..."
-file = File.open('/Users/gabrielaguirre/Desktop/projects/php/pvpoke/src/data/gamemaster.json')
+file = File.open('/Users/gabrielaguirre/Developer/projects/php/pvpoke/src/data/gamemaster.json')
 
 puts "Fetching Contents"
 content = file.read

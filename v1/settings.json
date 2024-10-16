@@ -34,6 +34,20 @@
       "name": "all",
       "title": "Great League",
       "cpLimit": "1500"
+    },
+    {
+      "name": "remix",
+      "title": "Great League Remix",
+      "cpLimit": "1500"
+    },
+    {
+      "name": "sunshine",
+      "title": "Sunshine Cup",
+      "cpLimit": "1500"
+    },{
+      "name": "halloween",
+      "title": "Halloween Cup",
+      "cpLimit": "1500"
     }
   ],
   "ultraCups": [
@@ -57,8 +71,8 @@
       "cpLimit": "500"
     },
     {
-      "name": "galar",
-      "title": "Little Galar Cup",
+      "name": "halloween",
+      "title": "Halloween Cup",
       "cpLimit": "500"
     }
   ],
