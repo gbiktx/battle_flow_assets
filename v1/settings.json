@@ -2,28 +2,28 @@
   "leagues": [
     {
       "name": "Great League",
-      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/great_league.png",
+      "badgeUrl": "",
       "cpLimit": "1500",
       "mainColor": "0xff3A62DE",
       "accentColor": "0xffD23433"
     },
     {
       "name": "Ultra League",
-      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/ultra_league.png",
+      "badgeUrl": "",
       "cpLimit": "2500",
       "mainColor": "0xff3F4C54",
       "accentColor": "0xffE4CA31"
     },
     {
       "name": "Master League",
-      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/master_league.png",
+      "badgeUrl": "",
       "cpLimit": "10000",
       "mainColor": "0xff3F4C54",
       "accentColor": "0xffE4CA31"
     },
     {
       "name": "Little League",
-      "badgeUrl": "https://gab07.github.io/pvpoke_mobile_res/images/leagues/little_league.png",
+      "badgeUrl": "",
       "cpLimit": "500",
       "mainColor": "0xffF79386",
       "accentColor": "0xffF4C357"
@@ -37,16 +37,7 @@
     },
     {
       "name": "remix",
-      "title": "Great League Remix",
-      "cpLimit": "1500"
-    },
-    {
-      "name": "sunshine",
-      "title": "Sunshine Cup",
-      "cpLimit": "1500"
-    },{
-      "name": "halloween",
-      "title": "Halloween Cup",
+      "title": "Remix Cup",
       "cpLimit": "1500"
     }
   ],
@@ -68,11 +59,6 @@
     {
       "name": "all",
       "title": "Little Cup",
-      "cpLimit": "500"
-    },
-    {
-      "name": "halloween",
-      "title": "Halloween Cup",
       "cpLimit": "500"
     }
   ],

@@ -1,7 +1,8 @@
 require 'json'
+require_relative 'env'
 
 puts "Opening PvPoke Game Master..."
-file = File.open('/Users/gabrielaguirre/Developer/projects/php/pvpoke/src/data/gamemaster.json')
+file = File.open("#{Env::GAME_MASTER_PATH}gamemaster.json")
 
 puts "Fetching Contents"
 content = file.read
