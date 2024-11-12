@@ -36,8 +36,13 @@
       "cpLimit": "1500"
     },
     {
-      "name": "remix",
-      "title": "Remix Cup",
+      "name": "retro",
+      "title": "Retro Cup",
+      "cpLimit": "1500"
+    },
+    {
+      "name": "willpower",
+      "title": "Willpower Cup",
       "cpLimit": "1500"
     }
   ],
@@ -53,6 +58,11 @@
       "name": "all",
       "title": "Master League",
       "cpLimit": "10000"
+    },
+    {
+      "name": "premier",
+      "title": "Master Premier",
+      "cpLimit": "10000"
     }
   ],
   "littleCups": [
@@ -62,5 +72,5 @@
       "cpLimit": "500"
     }
   ],
-  "appVersion": "0.19"
+  "appVersion": "0.20"
 }
