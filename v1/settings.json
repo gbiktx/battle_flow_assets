@@ -3,74 +3,73 @@
     {
       "name": "Great League",
       "badgeUrl": "",
-      "cpLimit": "1500",
-      "mainColor": "0xff3A62DE",
-      "accentColor": "0xffD23433"
+      "cpLimit": "1500"
     },
     {
       "name": "Ultra League",
       "badgeUrl": "",
-      "cpLimit": "2500",
-      "mainColor": "0xff3F4C54",
-      "accentColor": "0xffE4CA31"
+      "cpLimit": "2500"
     },
     {
       "name": "Master League",
       "badgeUrl": "",
-      "cpLimit": "10000",
-      "mainColor": "0xff3F4C54",
-      "accentColor": "0xffE4CA31"
+      "cpLimit": "10000"
     },
     {
       "name": "Little League",
       "badgeUrl": "",
-      "cpLimit": "500",
-      "mainColor": "0xffF79386",
-      "accentColor": "0xffF4C357"
+      "cpLimit": "500"
     }
   ],
   "greatCups": [
     {
       "name": "all",
       "title": "Great League",
-      "cpLimit": "1500"
+      "cpLimit": "1500",
+      "active": true
     },
     {
       "name": "retro",
       "title": "Retro Cup",
-      "cpLimit": "1500"
+      "cpLimit": "1500",
+      "active": true
     },
     {
       "name": "willpower",
       "title": "Willpower Cup",
-      "cpLimit": "1500"
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
     {
       "name": "all",
       "title": "Ultra League",
-      "cpLimit": "2500"
+      "cpLimit": "2500",
+      "active": true
     }
   ],
   "masterCups": [
     {
       "name": "all",
       "title": "Master League",
-      "cpLimit": "10000"
+      "cpLimit": "10000",
+      "active": true
     },
     {
       "name": "premier",
       "title": "Master Premier",
-      "cpLimit": "10000"
+      "cpLimit": "10000",
+      "active": false
     }
   ],
   "littleCups": [
     {
       "name": "all",
       "title": "Little Cup",
-      "cpLimit": "500"
+      "cpLimit": "500",
+      "active": true
     }
   ],
-  "appVersion": "0.20"
+  "version": "0.21"
 }
