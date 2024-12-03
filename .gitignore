@@ -3,3 +3,4 @@ images/.DS_Store
 images/sprites/.DS_Store
 env.rb
 ranking_generator
+/obfuscate

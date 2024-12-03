@@ -29,16 +29,22 @@
       "active": true
     },
     {
+      "name": "fantasy",
+      "title": "Fantasy Cup",
+      "cpLimit": "1500",
+      "active": true
+    },
+    {
       "name": "retro",
       "title": "Retro Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "willpower",
       "title": "Willpower Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     }
   ],
   "ultraCups": [
@@ -71,6 +77,6 @@
       "active": true
     }
   ],
-  "version": "0.22",
+  "version": "0.23",
   "forceAppVersion": ""
 }
