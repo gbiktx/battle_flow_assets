@@ -75,8 +75,14 @@
       "title": "Little Cup",
       "cpLimit": "500",
       "active": true
+    },
+    {
+      "name": "holiday",
+      "title": "Holiday Cup",
+      "cpLimit": "500",
+      "active": true
     }
   ],
-  "version": "0.23",
+  "version": "0.24",
   "forceAppVersion": ""
 }
