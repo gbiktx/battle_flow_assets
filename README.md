@@ -1,1 +1,1 @@
-![demo](https://github.com/gab07/pvpoke_mobile_res/blob/master/demo.webm)
+Settings, Assets and Scripts for [BattleFlow](https://battleflow.netlify.app/)
