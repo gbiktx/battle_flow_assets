@@ -50,7 +50,7 @@
       "name": "color",
       "title": "Color Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     }
   ],
   "ultraCups": [
@@ -87,8 +87,14 @@
       "title": "Holiday Cup",
       "cpLimit": "500",
       "active": false
+    },
+    {
+      "name": "littlejungle",
+      "title": "Jungle Cup",
+      "cpLimit": "500",
+      "active": false
     }
   ],
-  "version": "0.29",
+  "version": "0.30",
   "forceAppVersion": "108"
 }
