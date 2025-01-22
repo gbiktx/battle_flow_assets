@@ -92,9 +92,9 @@
       "name": "littlejungle",
       "title": "Jungle Cup",
       "cpLimit": "500",
-      "active": false
+      "active": true
     }
   ],
-  "version": "0.30",
+  "version": "0.31",
   "forceAppVersion": "108"
 }
