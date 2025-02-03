@@ -51,6 +51,12 @@
       "title": "Color Cup",
       "cpLimit": "1500",
       "active": false
+    },
+    {
+      "name": "love",
+      "title": "Love Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -95,6 +101,6 @@
       "active": true
     }
   ],
-  "version": "0.32",
+  "version": "0.33",
   "forceAppVersion": "108"
 }
