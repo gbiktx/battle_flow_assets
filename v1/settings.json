@@ -56,7 +56,7 @@
       "name": "love",
       "title": "Love Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     }
   ],
   "ultraCups": [
@@ -78,7 +78,7 @@
       "name": "premier",
       "title": "Master Premier",
       "cpLimit": "10000",
-      "active": false
+      "active": true
     }
   ],
   "littleCups": [
@@ -101,6 +101,6 @@
       "active": false
     }
   ],
-  "version": "0.34",
+  "version": "0.35",
   "forceAppVersion": "108"
 }
