@@ -57,6 +57,12 @@
       "title": "Love Cup",
       "cpLimit": "1500",
       "active": false
+    },
+    {
+      "name": "scroll",
+      "title": "Scroll Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -101,6 +107,6 @@
       "active": false
     }
   ],
-  "version": "0.36",
-  "forceAppVersion": "108"
+  "version": "0.37",
+  "forceAppVersion": "112"
 }
