@@ -44,7 +44,7 @@
       "name": "willpower",
       "title": "Willpower Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "color",
@@ -62,7 +62,7 @@
       "name": "scroll",
       "title": "Scroll Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     }
   ],
   "ultraCups": [
@@ -84,7 +84,7 @@
       "name": "premier",
       "title": "Master Premier",
       "cpLimit": "10000",
-      "active": false
+      "active": true
     }
   ],
   "littleCups": [
@@ -107,6 +107,6 @@
       "active": false
     }
   ],
-  "version": "0.38",
+  "version": "0.39",
   "forceAppVersion": "112"
 }
