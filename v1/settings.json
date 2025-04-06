@@ -63,6 +63,12 @@
       "title": "Scroll Cup",
       "cpLimit": "1500",
       "active": false
+    },
+    {
+      "name": "spring",
+      "title": "Spring Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -107,6 +113,6 @@
       "active": false
     }
   ],
-  "version": "0.39",
+  "version": "0.40",
   "forceAppVersion": "112"
 }
