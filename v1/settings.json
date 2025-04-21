@@ -29,6 +29,12 @@
       "active": true
     },
     {
+      "name": "remix",
+      "title": "Remix Cup",
+      "cpLimit": "1500",
+      "active": true
+    },
+    {
       "name": "fantasy",
       "title": "Fantasy Cup",
       "cpLimit": "1500",
@@ -90,7 +96,7 @@
       "name": "premier",
       "title": "Master Premier",
       "cpLimit": "10000",
-      "active": true
+      "active": false
     }
   ],
   "littleCups": [
@@ -113,6 +119,6 @@
       "active": false
     }
   ],
-  "version": "0.40",
+  "version": "0.41",
   "forceAppVersion": "112"
 }
