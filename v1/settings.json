@@ -74,7 +74,7 @@
       "name": "spring",
       "title": "Spring Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     }
   ],
   "ultraCups": [
@@ -119,6 +119,6 @@
       "active": false
     }
   ],
-  "version": "0.41",
+  "version": "0.42",
   "forceAppVersion": "112"
 }
