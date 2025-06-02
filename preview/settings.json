@@ -1,0 +1,124 @@
+{
+  "leagues": [
+    {
+      "name": "Great League",
+      "badgeUrl": "",
+      "cpLimit": "1500"
+    },
+    {
+      "name": "Ultra League",
+      "badgeUrl": "",
+      "cpLimit": "2500"
+    },
+    {
+      "name": "Master League",
+      "badgeUrl": "",
+      "cpLimit": "10000"
+    },
+    {
+      "name": "Little League",
+      "badgeUrl": "",
+      "cpLimit": "500"
+    }
+  ],
+  "greatCups": [
+    {
+      "name": "all",
+      "title": "Great League",
+      "cpLimit": "1500",
+      "active": true
+    },
+    {
+      "name": "remix",
+      "title": "Remix Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "fantasy",
+      "title": "Fantasy Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "retro",
+      "title": "Retro Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "willpower",
+      "title": "Willpower Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "color",
+      "title": "Color Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "love",
+      "title": "Love Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "scroll",
+      "title": "Scroll Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "spring",
+      "title": "Spring Cup",
+      "cpLimit": "1500",
+      "active": false
+    }
+  ],
+  "ultraCups": [
+    {
+      "name": "all",
+      "title": "Ultra League",
+      "cpLimit": "2500",
+      "active": true
+    }
+  ],
+  "masterCups": [
+    {
+      "name": "all",
+      "title": "Master League",
+      "cpLimit": "10000",
+      "active": true
+    },
+    {
+      "name": "premier",
+      "title": "Master Premier",
+      "cpLimit": "10000",
+      "active": false
+    }
+  ],
+  "littleCups": [
+    {
+      "name": "all",
+      "title": "Little Cup",
+      "cpLimit": "500",
+      "active": true
+    },
+    {
+      "name": "holiday",
+      "title": "Holiday Cup",
+      "cpLimit": "500",
+      "active": false
+    },
+    {
+      "name": "littlejungle",
+      "title": "Jungle Cup",
+      "cpLimit": "500",
+      "active": false
+    }
+  ],
+  "version": "0.45",
+  "forceAppVersion": "116"
+}
