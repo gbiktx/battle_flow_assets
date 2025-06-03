@@ -75,6 +75,18 @@
       "title": "Spring Cup",
       "cpLimit": "1500",
       "active": false
+    },
+    {
+      "name": "sunshine",
+      "title": "Sunshine Cup",
+      "cpLimit": "1500",
+      "active": true
+    },
+    {
+      "name": "fossil",
+      "title": "Fossil Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -119,6 +131,6 @@
       "active": false
     }
   ],
-  "version": "0.45",
+  "version": "0.46",
   "forceAppVersion": "116"
 }
