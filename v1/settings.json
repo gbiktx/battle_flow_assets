@@ -80,11 +80,17 @@
       "name": "sunshine",
       "title": "Sunshine Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "fossil",
       "title": "Fossil Cup",
+      "cpLimit": "1500",
+      "active": true
+    },
+    {
+      "name": "hisui",
+      "title": "Hisui Cup",
       "cpLimit": "1500",
       "active": true
     }
@@ -93,6 +99,12 @@
     {
       "name": "all",
       "title": "Ultra League",
+      "cpLimit": "2500",
+      "active": true
+    },
+    {
+      "name": "summer",
+      "title": "Summer Cup",
       "cpLimit": "2500",
       "active": true
     }
@@ -129,8 +141,14 @@
       "title": "Jungle Cup",
       "cpLimit": "500",
       "active": false
+    },
+    {
+      "name": "element",
+      "title": "Element Cup",
+      "cpLimit": "500",
+      "active": true
     }
   ],
-  "version": "0.46",
+  "version": "0.47",
   "forceAppVersion": "116"
 }
