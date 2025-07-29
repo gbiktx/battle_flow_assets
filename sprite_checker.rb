@@ -54,7 +54,7 @@ json['pokemon'].each do |p|
     sprite_name = dex.to_s
   end
 
-  unless File.file?("#{Env::SPRITES_PATH}#{sprite_name}.png")
+  unless File.file?("#{Env::SPRITES_PATH}/#{sprite_name}.png")
     if p['released']
       required.push("name: #{id} sprite: #{sprite_name}")
     else
