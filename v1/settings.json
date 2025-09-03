@@ -44,7 +44,7 @@
       "name": "retro",
       "title": "Retro Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "willpower",
@@ -86,7 +86,7 @@
       "name": "fossil",
       "title": "Fossil Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "hisui",
@@ -106,7 +106,7 @@
       "name": "summer",
       "title": "Summer Cup",
       "cpLimit": "2500",
-      "active": true
+      "active": false
     }
   ],
   "masterCups": [
@@ -149,6 +149,6 @@
       "active": false
     }
   ],
-  "version": "0.49",
+  "version": "0.50",
   "forceAppVersion": "116"
 }
