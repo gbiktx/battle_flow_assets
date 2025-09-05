@@ -2,6 +2,7 @@
   "ACID": "Säure",
   "ACID_SPRAY": "Säurespeier",
   "ACROBATICS": "Akrobatik",
+  "AQUA_STEP": "Wogentanz",
   "AEGISLASH_CHARGE_AIR_SLASH": "Luftschnitt",
   "AEGISLASH_CHARGE_PSYCHO_CUT": "Psychoklinge",
   "AERIAL_ACE": "Aero-Ass",
@@ -311,5 +312,14 @@
   "X_SCISSOR": "Kreuzschere",
   "YAWN": "Gähner",
   "ZAP_CANNON": "Blitzkanone",
-  "ZEN_HEADBUTT": "Zen-Kopfstoß"
+  "ZEN_HEADBUTT": "Zen-Kopfstoß",
+  "BLEAKWIND_STORM": "Polarorkan",
+  "CHILLING_WATER": "Kalte Dusche",
+  "FLOWER_TRICK": "Blumentrick",
+  "RAGE_FIST": "Zornesfaust",
+  "SANDSEAR_STORM": "Wüstenorkan",
+  "SPRINGTIDE_STORM": "Frühlingsorkan",
+  "WILDBOLT_STORM": "Donnerorkan",
+  "HYDRO_PUMP_BLASTOISE": "Hydropumpe",
+  "WATER_GUN_FAST_BLASTOISE": "Aquaknarre"
 }

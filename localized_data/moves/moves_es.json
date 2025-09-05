@@ -311,5 +311,15 @@
   "X_SCISSOR": "Tijera X",
   "YAWN": "Bostezo",
   "ZAP_CANNON": "Electrocañón",
-  "ZEN_HEADBUTT": "Cabezazo Zen"
+  "ZEN_HEADBUTT": "Cabezazo Zen",
+  "HYDRO_PUMP_BLASTOISE": "Hidrobomba",
+  "WATER_GUN_FAST_BLASTOISE": "Pistola Agua",
+  "AQUA_STEP": "Danza Acuática",
+  "BLEAKWIND_STORM": "Vendaval Gélido",
+  "CHILLING_WATER": "Agua Fría",
+  "FLOWER_TRICK": "Truco Floral",
+  "RAGE_FIST": "Puño Furia",
+  "SANDSEAR_STORM": "Tifón de Arena",
+  "SPRINGTIDE_STORM": "Ciclón Primavera",
+  "WILDBOLT_STORM": "Electormenta"
 }
