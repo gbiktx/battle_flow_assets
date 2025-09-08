@@ -50,7 +50,7 @@
       "name": "willpower",
       "title": "Willpower Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "color",
@@ -93,6 +93,12 @@
       "title": "Hisui Cup",
       "cpLimit": "1500",
       "active": false
+    },
+    {
+      "name": "summer",
+      "title": "Summer Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -149,6 +155,6 @@
       "active": false
     }
   ],
-  "version": "0.50",
+  "version": "0.51",
   "forceAppVersion": "116"
 }
