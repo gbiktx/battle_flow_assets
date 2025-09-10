@@ -99,6 +99,12 @@
       "title": "Summer Cup",
       "cpLimit": "1500",
       "active": true
+    },
+    {
+      "name": "laic2025",
+      "title": "LAIC 2025",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -127,6 +133,12 @@
       "title": "Master Premier",
       "cpLimit": "10000",
       "active": false
+    },
+    {
+      "name": "mega",
+      "title": "Mega Master League",
+      "cpLimit": "10000",
+      "active": true
     }
   ],
   "littleCups": [
@@ -155,6 +167,6 @@
       "active": false
     }
   ],
-  "version": "0.51",
+  "version": "0.52",
   "forceAppVersion": "116"
 }
