@@ -38,7 +38,7 @@
       "name": "fantasy",
       "title": "Fantasy Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "retro",
@@ -104,7 +104,7 @@
       "name": "laic2025",
       "title": "LAIC 2025",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     }
   ],
   "ultraCups": [
@@ -167,6 +167,6 @@
       "active": false
     }
   ],
-  "version": "0.53",
+  "version": "0.54",
   "forceAppVersion": "116"
 }
