@@ -44,13 +44,13 @@
       "name": "retro",
       "title": "Retro Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "willpower",
       "title": "Willpower Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "color",
@@ -98,13 +98,19 @@
       "name": "summer",
       "title": "Summer Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "laic2025",
       "title": "LAIC 2025",
       "cpLimit": "1500",
-      "active": false
+      "active": true
+    },
+    {
+      "name": "jungle",
+      "title": "Jungle Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -138,7 +144,7 @@
       "name": "mega",
       "title": "Mega Master League",
       "cpLimit": "10000",
-      "active": true
+      "active": false
     }
   ],
   "littleCups": [
@@ -167,6 +173,6 @@
       "active": false
     }
   ],
-  "version": "0.55",
+  "version": "0.56",
   "forceAppVersion": "116"
 }
