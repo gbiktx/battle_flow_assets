@@ -138,7 +138,7 @@
       "name": "premier",
       "title": "Master Premier",
       "cpLimit": "10000",
-      "active": false
+      "active": true
     },
     {
       "name": "mega",
@@ -173,6 +173,6 @@
       "active": false
     }
   ],
-  "version": "0.56",
+  "version": "0.57",
   "forceAppVersion": "116"
 }
