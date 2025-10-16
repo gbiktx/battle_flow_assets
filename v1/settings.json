@@ -32,13 +32,13 @@
       "name": "remix",
       "title": "Remix Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "fantasy",
       "title": "Fantasy Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "retro",
@@ -111,6 +111,12 @@
       "title": "Jungle Cup",
       "cpLimit": "1500",
       "active": true
+    },
+    {
+      "name": "halloween",
+      "title": "Halloween Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -173,6 +179,6 @@
       "active": false
     }
   ],
-  "version": "0.57",
+  "version": "0.58",
   "forceAppVersion": "116"
 }
