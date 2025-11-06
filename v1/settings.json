@@ -144,13 +144,13 @@
       "name": "premier",
       "title": "Master Premier",
       "cpLimit": "10000",
-      "active": true
+      "active": false
     },
     {
       "name": "mega",
       "title": "Mega Master League",
       "cpLimit": "10000",
-      "active": false
+      "active": true
     }
   ],
   "littleCups": [
@@ -179,6 +179,6 @@
       "active": false
     }
   ],
-  "version": "0.59",
+  "version": "0.60",
   "forceAppVersion": "213"
 }
