@@ -1013,6 +1013,23 @@ extension DataLocalization on AppLocalizations {
       case '1006': return pokemonIronvaliant;
       case '1007': return pokemonKoraidon;
       case '1008': return pokemonMiraidon;
+      case '1009': return pokemonWalkingWake;
+      case '1010': return pokemonIronLeaves;
+      case '1011': return pokemonDipplin;
+      case '1012': return pokemonPoltchageist;
+      case '1013': return pokemonSinistcha;
+      case '1014': return pokemonOkidogi;
+      case '1015': return pokemonMunkidori;
+      case '1016': return pokemonFezandipiti;
+      case '1017': return pokemonOgerpon;
+      case '1018': return pokemonArchaludon;
+      case '1019': return pokemonHydrapple;
+      case '1020': return pokemonGougingFire;
+      case '1021': return pokemonRagingBolt;
+      case '1022': return pokemonIronBoulder;
+      case '1023': return pokemonIronCrown;
+      case '1024': return pokemonTerapagos;
+      case '1025': return pokemonPecharunt;
       default:
 return dexNumber; // Adjust indentation
     }
