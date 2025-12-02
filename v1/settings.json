@@ -101,8 +101,8 @@
       "active": false
     },
     {
-      "name": "laic2025",
-      "title": "LAIC 2025",
+      "name": "euic2026",
+      "title": "EUIC 2026",
       "cpLimit": "1500",
       "active": true
     },
@@ -150,7 +150,7 @@
       "name": "mega",
       "title": "Mega Master League",
       "cpLimit": "10000",
-      "active": true
+      "active": false
     }
   ],
   "littleCups": [
@@ -179,6 +179,6 @@
       "active": false
     }
   ],
-  "version": "0.61",
-  "forceAppVersion": "213"
+  "version": "0.62",
+  "forceAppVersion": "214"
 }
