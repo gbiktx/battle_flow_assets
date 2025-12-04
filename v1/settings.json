@@ -68,7 +68,7 @@
       "name": "scroll",
       "title": "Scroll Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "spring",
@@ -179,6 +179,6 @@
       "active": false
     }
   ],
-  "version": "0.63",
-  "forceAppVersion": "215"
+  "version": "0.64",
+  "forceAppVersion": "220"
 }
