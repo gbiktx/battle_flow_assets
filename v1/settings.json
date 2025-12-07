@@ -117,6 +117,12 @@
       "title": "Halloween Cup",
       "cpLimit": "1500",
       "active": false
+    },
+    {
+      "name": "holiday",
+      "title": "Holiday Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -129,6 +135,12 @@
     {
       "name": "summer",
       "title": "Summer Cup",
+      "cpLimit": "2500",
+      "active": false
+    },
+    {
+      "name": "holiday",
+      "title": "Holiday Cup",
       "cpLimit": "2500",
       "active": false
     }
@@ -179,6 +191,6 @@
       "active": false
     }
   ],
-  "version": "0.64",
+  "version": "0.65",
   "forceAppVersion": "220"
 }
