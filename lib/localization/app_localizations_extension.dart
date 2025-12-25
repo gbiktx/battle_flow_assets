@@ -1056,6 +1056,7 @@ return dexNumber; // Adjust indentation
       case 'AURA_WHEEL_ELECTRIC': return moveAuraWheelElectric;
       case 'AURORA_BEAM': return moveAuroraBeam;
       case 'AVALANCHE': return moveAvalanche;
+      case 'BEAK_BLAST': return moveBeakBlast;
       case 'BEHEMOTH_BASH': return moveBehemothBash;
       case 'BEHEMOTH_BLADE': return moveBehemothBlade;
       case 'BITE': return moveBite;
@@ -1281,6 +1282,7 @@ return dexNumber; // Adjust indentation
       case 'SCALD': return moveScald;
       case 'SCORCHING_SANDS': return moveScorchingSands;
       case 'SCRATCH': return moveScratch;
+      case 'SECRET_SWORD': return moveSecretSword;
       case 'SEED_BOMB': return moveSeedBomb;
       case 'SEED_FLARE': return moveSeedFlare;
       case 'SHADOW_BALL': return moveShadowBall;
