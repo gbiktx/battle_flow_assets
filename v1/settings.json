@@ -68,7 +68,7 @@
       "name": "scroll",
       "title": "Scroll Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "spring",
@@ -80,7 +80,7 @@
       "name": "sunshine",
       "title": "Sunshine Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "fossil",
@@ -122,7 +122,7 @@
       "name": "holiday",
       "title": "Holiday Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     }
   ],
   "ultraCups": [
@@ -142,7 +142,7 @@
       "name": "holiday",
       "title": "Holiday Cup",
       "cpLimit": "2500",
-      "active": false
+      "active": true
     }
   ],
   "masterCups": [
@@ -191,6 +191,6 @@
       "active": false
     }
   ],
-  "version": "0.66",
+  "version": "0.67",
   "forceAppVersion": "220"
 }
