@@ -80,7 +80,7 @@
       "name": "sunshine",
       "title": "Sunshine Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "fossil",
@@ -143,6 +143,12 @@
       "title": "Holiday Cup",
       "cpLimit": "2500",
       "active": false
+    },
+    {
+      "name": "premier",
+      "title": "Ultra Premier Cup",
+      "cpLimit": "2500",
+      "active": true
     }
   ],
   "masterCups": [
@@ -154,9 +160,9 @@
     },
     {
       "name": "premier",
-      "title": "Master Premier",
+      "title": "Master Premier Cup",
       "cpLimit": "10000",
-      "active": false
+      "active": true
     },
     {
       "name": "mega",
@@ -191,6 +197,6 @@
       "active": false
     }
   ],
-  "version": "0.70",
+  "version": "0.71",
   "forceAppVersion": "220"
 }
