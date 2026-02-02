@@ -148,7 +148,7 @@
       "name": "premier",
       "title": "Ultra Premier Cup",
       "cpLimit": "2500",
-      "active": true
+      "active": false
     }
   ],
   "masterCups": [
