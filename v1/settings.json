@@ -123,6 +123,12 @@
       "title": "Holiday Cup",
       "cpLimit": "1500",
       "active": false
+    },
+    {
+      "name": "love",
+      "title": "Love Cup",
+      "cpLimit": "1500",
+      "active": true
     }
   ],
   "ultraCups": [
@@ -197,6 +203,6 @@
       "active": false
     }
   ],
-  "version": "0.74",
+  "version": "0.75",
   "forceAppVersion": "220"
 }
