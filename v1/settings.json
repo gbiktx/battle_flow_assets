@@ -104,7 +104,7 @@
       "name": "euic2026",
       "title": "EUIC 2026",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "jungle",
@@ -174,7 +174,7 @@
       "name": "mega",
       "title": "Mega Master League",
       "cpLimit": "10000",
-      "active": false
+      "active": true
     }
   ],
   "littleCups": [
@@ -203,6 +203,6 @@
       "active": false
     }
   ],
-  "version": "0.75",
+  "version": "0.76",
   "forceAppVersion": "220"
 }
