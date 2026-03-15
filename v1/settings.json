@@ -110,7 +110,7 @@
       "name": "jungle",
       "title": "Jungle Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "halloween",
@@ -128,7 +128,7 @@
       "name": "kanto",
       "title": "Kanto Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "electric",
@@ -209,6 +209,6 @@
       "active": false
     }
   ],
-  "version": "0.79",
+  "version": "0.80",
   "forceAppVersion": "220"
 }
