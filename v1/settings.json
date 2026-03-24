@@ -74,7 +74,7 @@
       "name": "spring",
       "title": "Spring Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "sunshine",
@@ -134,7 +134,7 @@
       "name": "electric",
       "title": "Electric Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     }
   ],
   "ultraCups": [
@@ -209,6 +209,6 @@
       "active": false
     }
   ],
-  "version": "0.80",
+  "version": "0.81",
   "forceAppVersion": "300"
 }
