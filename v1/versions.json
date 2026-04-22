@@ -1,17 +1,4 @@
 {
-  "dataVersion": "0.83",
-  "forceAppVersion": "300",
-  "updateNotes": {
-    "en": "Ranking update. Tinkaton Community Day",
-    "es": "Actualización de rankings. Día de la Comunidad de Tinkaton",
-    "pt": "Atualização de rankings. Dia da Comunidade de Tinkaton",
-    "de": "Ranking-Update. Granforgita Community Day",
-    "fr": "Mise à jour des classements. Journée Communauté de Forgelina",
-    "it": "Aggiornamento dei ranking. Community Day di Tinkaton",
-    "ja": "ランキングの更新。デカヌチャン コミュニティ・デイ",
-    "ko": "랭킹 업데이트. 두드리짱 커뮤니티 데이",
-    "zh": "排名更新。巨锻匠社群日",
-    "zh-Hans": "排名更新。巨锻匠社群日",
-    "zh-Hant": "排名更新。巨鍛匠社群日"
-  }
+  "dataVersion": "0.84",
+  "forceAppVersion": "300"
 }

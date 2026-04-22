@@ -106,6 +106,7 @@
   "GEOMANCY": "지오컨트롤",
   "GIGA_DRAIN": "기가드레인",
   "GIGA_IMPACT": "기가임팩트",
+  "GIGATON_HAMMER": "거대해머",
   "GLACIATE": "얼다세계",
   "GRASS_KNOT": "풀묶기",
   "GUNK_SHOT": "더스트슈트",
@@ -324,5 +325,8 @@
   "WILDBOLT_STORM": "번개폭풍",
   "BEAK_BLAST": "부리캐논",
   "SECRET_SWORD": "신비의칼",
-  "DRUM_BEATING": "드럼어택"
+  "DRUM_BEATING": "드럼어택",
+  "HIDDEN_POWER_NORMAL": "잠재파워",
+  "MIND_BLOWN": "깜짝헤드",
+  "PYRO_BALL": "화염볼"
 }

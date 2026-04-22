@@ -106,6 +106,7 @@
   "GEOMANCY": "Geocontrol",
   "GIGA_DRAIN": "Gigadrenado",
   "GIGA_IMPACT": "Gigaimpacto",
+  "GIGATON_HAMMER": "Martillo Colosal",
   "GLACIATE": "Mundo Gélido",
   "GRASS_KNOT": "Hierba Lazo",
   "GUNK_SHOT": "Lanzamugre",
@@ -324,5 +325,8 @@
   "WILDBOLT_STORM": "Electormenta",
   "BEAK_BLAST": "Pico Cañón",
   "SECRET_SWORD": "Sable Místico",
-  "DRUM_BEATING": "Batería Asalto"
+  "DRUM_BEATING": "Batería Asalto",
+  "HIDDEN_POWER_NORMAL": "Poder Oculto",
+  "MIND_BLOWN": "Cabeza Sorpresa",
+  "PYRO_BALL": "Balón Ígneo"
 }

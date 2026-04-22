@@ -106,6 +106,7 @@
   "GEOMANCY": "Géo-Contrôle",
   "GIGA_DRAIN": "Giga-Sangsue",
   "GIGA_IMPACT": "Giga Impact",
+  "GIGATON_HAMMER": "Marteau Mastoc",
   "GLACIATE": "Ère Glaciaire",
   "GRASS_KNOT": "Nœud Herbe",
   "GUNK_SHOT": "Détricanon",
@@ -324,5 +325,8 @@
   "WILDBOLT_STORM": "Typhon Fulgurant",
   "BEAK_BLAST": "Bec-Canon",
   "SECRET_SWORD": "Lame Ointe",
-  "DRUM_BEATING": "Tambour Battant"
+  "DRUM_BEATING": "Tambour Battant",
+  "HIDDEN_POWER_NORMAL": "Puissance Cachée",
+  "MIND_BLOWN": "Caboche-Kaboum",
+  "PYRO_BALL": "Ballon Brûlant"
 }

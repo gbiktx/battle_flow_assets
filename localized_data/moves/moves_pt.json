@@ -103,6 +103,7 @@
   "GEOMANCY": "Geomancia",
   "GIGA_DRAIN": "Giga Drenagem",
   "GIGA_IMPACT": "Giga Impacto",
+  "GIGATON_HAMMER": "Martelo Gigatônico",
   "GLACIATE": "Glaciar",
   "GRASS_KNOT": "Nó de Grama",
   "GUNK_SHOT": "Tiro de Lixo",
@@ -326,5 +327,8 @@
   "WATER_GUN_FAST_BLASTOISE": "Jato de Água",
   "BEAK_BLAST": "Bico Explosivo",
   "SECRET_SWORD": "Espada Secreta",
-  "DRUM_BEATING": "Toque do Tambor"
+  "DRUM_BEATING": "Toque do Tambor",
+  "HIDDEN_POWER_NORMAL": "Poder Oculto",
+  "MIND_BLOWN": "Explosão Mental",
+  "PYRO_BALL": "Bola Incendiária"
 }

@@ -110,6 +110,7 @@
   "GEOMANCY": "Geomancy",
   "GIGA_DRAIN": "Giga Drain",
   "GIGA_IMPACT": "Giga Impact",
+  "GIGATON_HAMMER": "Gigaton Hammer",
   "GLACIATE": "Glaciate",
   "GRASS_KNOT": "Grass Knot",
   "GUNK_SHOT": "Gunk Shot",
@@ -324,5 +325,8 @@
   "WATER_GUN_FAST_BLASTOISE": "Water Gun",
   "BEAK_BLAST": "Beak Blast",
   "SECRET_SWORD": "Secret Sword",
-  "DRUM_BEATING": "Drum Beating"
+  "DRUM_BEATING": "Drum Beating",
+  "HIDDEN_POWER_NORMAL": "Hidden Power",
+  "MIND_BLOWN": "Mind Blown",
+  "PYRO_BALL": "Pyro Ball"
 }
