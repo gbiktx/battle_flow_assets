@@ -106,6 +106,7 @@
   "GEOMANCY": "大地掌控",
   "GIGA_DRAIN": "终极吸取",
   "GIGA_IMPACT": "终极冲击",
+  "GIGATON_HAMMER": "巨力锤",
   "GLACIATE": "冰封世界",
   "GRASS_KNOT": "打草结",
   "GUNK_SHOT": "垃圾射击",
@@ -324,5 +325,8 @@
   "WILDBOLT_STORM": "鳴雷風暴",
   "BEAK_BLAST": "鸟嘴加农炮",
   "SECRET_SWORD": "神秘之剑",
-  "DRUM_BEATING": "鼓擊"
+  "DRUM_BEATING": "鼓擊",
+  "HIDDEN_POWER_NORMAL": "觉醒力量",
+  "MIND_BLOWN": "惊爆大头",
+  "PYRO_BALL": "火焰球"
 }

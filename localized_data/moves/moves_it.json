@@ -110,6 +110,7 @@
   "GEOMANCY": "Geocontrollo",
   "GIGA_DRAIN": "Gigassorbimento",
   "GIGA_IMPACT": "Gigaimpatto",
+  "GIGATON_HAMMER": "Granmartello",
   "GLACIATE": "Gelamondo",
   "GRASS_KNOT": "Laccioerboso",
   "GUNK_SHOT": "Sporcolancio",
@@ -324,5 +325,8 @@
   "WATER_GUN_FAST_BLASTOISE": "Pistolacqua",
   "BEAK_BLAST": "Cannonbecco",
   "SECRET_SWORD": "Spadamistica",
-  "DRUM_BEATING": "Tamburattacco"
+  "DRUM_BEATING": "Tamburattacco",
+  "HIDDEN_POWER_NORMAL": "Introforza",
+  "MIND_BLOWN": "Sbalorditesta",
+  "PYRO_BALL": "Palla Infuocata"
 }

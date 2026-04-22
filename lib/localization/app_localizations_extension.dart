@@ -1040,8 +1040,6 @@ return dexNumber; // Adjust indentation
       case 'ACID': return moveAcid;
       case 'ACID_SPRAY': return moveAcidSpray;
       case 'ACROBATICS': return moveAcrobatics;
-      case 'AEGISLASH_CHARGE_AIR_SLASH': return moveAegislashChargeAirSlash;
-      case 'AEGISLASH_CHARGE_PSYCHO_CUT': return moveAegislashChargePsychoCut;
       case 'AERIAL_ACE': return moveAerialAce;
       case 'AEROBLAST': return moveAeroblast;
       case 'AIR_CUTTER': return moveAirCutter;
@@ -1112,6 +1110,7 @@ return dexNumber; // Adjust indentation
       case 'DRAIN_PUNCH': return moveDrainPunch;
       case 'DRILL_PECK': return moveDrillPeck;
       case 'DRILL_RUN': return moveDrillRun;
+      case 'DRUM_BEATING': return moveDrumBeating;
       case 'DYNAMAX_CANNON': return moveDynamaxCannon;
       case 'DYNAMIC_PUNCH': return moveDynamicPunch;
       case 'EARTHQUAKE': return moveEarthquake;
@@ -1149,6 +1148,7 @@ return dexNumber; // Adjust indentation
       case 'GEOMANCY': return moveGeomancy;
       case 'GIGA_DRAIN': return moveGigaDrain;
       case 'GIGA_IMPACT': return moveGigaImpact;
+      case 'GIGATON_HAMMER': return moveGigatonHammer;
       case 'GLACIATE': return moveGlaciate;
       case 'GRASS_KNOT': return moveGrassKnot;
       case 'GUNK_SHOT': return moveGunkShot;
@@ -1169,6 +1169,7 @@ return dexNumber; // Adjust indentation
       case 'HIDDEN_POWER_GRASS': return moveHiddenPowerGrass;
       case 'HIDDEN_POWER_GROUND': return moveHiddenPowerGround;
       case 'HIDDEN_POWER_ICE': return moveHiddenPowerIce;
+      case 'HIDDEN_POWER_NORMAL': return moveHiddenPowerNormal;
       case 'HIDDEN_POWER_POISON': return moveHiddenPowerPoison;
       case 'HIDDEN_POWER_PSYCHIC': return moveHiddenPowerPsychic;
       case 'HIDDEN_POWER_ROCK': return moveHiddenPowerRock;
@@ -1216,6 +1217,7 @@ return dexNumber; // Adjust indentation
       case 'METAL_SOUND': return moveMetalSound;
       case 'METEOR_BEAM': return moveMeteorBeam;
       case 'METEOR_MASH': return moveMeteorMash;
+      case 'MIND_BLOWN': return moveMindBlown;
       case 'MIRROR_COAT': return moveMirrorCoat;
       case 'MIRROR_SHOT': return moveMirrorShot;
       case 'MIST_BALL': return moveMistBall;
@@ -1260,6 +1262,7 @@ return dexNumber; // Adjust indentation
       case 'PSYSHOCK': return movePsyshock;
       case 'PSYSTRIKE': return movePsystrike;
       case 'PSYWAVE': return movePsywave;
+      case 'PYRO_BALL': return movePyroBall;
       case 'QUICK_ATTACK': return moveQuickAttack;
       case 'RAGE_FIST': return moveRageFist;
       case 'RAZOR_LEAF': return moveRazorLeaf;
@@ -1362,6 +1365,8 @@ return dexNumber; // Adjust indentation
       case 'YAWN': return moveYawn;
       case 'ZAP_CANNON': return moveZapCannon;
       case 'ZEN_HEADBUTT': return moveZenHeadbutt;
+      case 'AEGISLASH_CHARGE_AIR_SLASH': return moveAegislashChargeAirSlash;
+      case 'AEGISLASH_CHARGE_PSYCHO_CUT': return moveAegislashChargePsychoCut;
       default:
 return moveId; // Adjust indentation
     }

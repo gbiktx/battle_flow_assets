@@ -107,6 +107,7 @@
   "GEOMANCY": "Geokontrolle",
   "GIGA_DRAIN": "Gigasauger",
   "GIGA_IMPACT": "Gigastoß",
+  "GIGATON_HAMMER": "Riesenhammer",
   "GLACIATE": "Eiszeit",
   "GRASS_KNOT": "Strauchler",
   "GUNK_SHOT": "Mülltreffer",
@@ -324,5 +325,8 @@
   "WATER_GUN_FAST_BLASTOISE": "Aquaknarre",
   "BEAK_BLAST": "Schnabelkanone",
   "SECRET_SWORD": "Mystoschwert",
-  "DRUM_BEATING": "Trommelschläge"
+  "DRUM_BEATING": "Trommelschläge",
+  "HIDDEN_POWER_NORMAL": "Kraftreserve",
+  "MIND_BLOWN": "Knallkopf",
+  "PYRO_BALL": "Feuerball"
 }
