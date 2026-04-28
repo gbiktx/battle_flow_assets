@@ -74,7 +74,7 @@
       "name": "spring",
       "title": "Spring Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "sunshine",
@@ -110,7 +110,7 @@
       "name": "naic2026",
       "title": "NAIC 2026",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "jungle",
@@ -215,6 +215,6 @@
       "active": false
     }
   ],
-  "version": "0.84",
+  "version": "0.85",
   "forceAppVersion": "300"
 }
