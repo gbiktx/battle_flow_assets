@@ -86,13 +86,61 @@
       "name": "fossil",
       "title": "Fossil Cup",
       "cpLimit": "1500",
-      "active": true
+      "active": false
     },
     {
       "name": "hisui",
       "title": "Hisui Cup",
       "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "summer",
+      "title": "Summer Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "euic2026",
+      "title": "EUIC 2026",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "naic2026",
+      "title": "NAIC 2026",
+      "cpLimit": "1500",
       "active": true
+    },
+    {
+      "name": "jungle",
+      "title": "Jungle Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "halloween",
+      "title": "Halloween Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "holiday",
+      "title": "Holiday Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "kanto",
+      "title": "Kanto Cup",
+      "cpLimit": "1500",
+      "active": false
+    },
+    {
+      "name": "electric",
+      "title": "Electric Cup",
+      "cpLimit": "1500",
+      "active": false
     }
   ],
   "ultraCups": [
@@ -106,7 +154,19 @@
       "name": "summer",
       "title": "Summer Cup",
       "cpLimit": "2500",
-      "active": true
+      "active": false
+    },
+    {
+      "name": "holiday",
+      "title": "Holiday Cup",
+      "cpLimit": "2500",
+      "active": false
+    },
+    {
+      "name": "premier",
+      "title": "Ultra Premier Cup",
+      "cpLimit": "2500",
+      "active": false
     }
   ],
   "masterCups": [
@@ -118,7 +178,13 @@
     },
     {
       "name": "premier",
-      "title": "Master Premier",
+      "title": "Master Premier Cup",
+      "cpLimit": "10000",
+      "active": false
+    },
+    {
+      "name": "mega",
+      "title": "Mega Master League",
       "cpLimit": "10000",
       "active": false
     }
@@ -146,9 +212,9 @@
       "name": "element",
       "title": "Element Cup",
       "cpLimit": "500",
-      "active": true
+      "active": false
     }
   ],
-  "version": "0.47",
-  "forceAppVersion": "116"
+  "version": "0.90",
+  "forceAppVersion": "300"
 }
