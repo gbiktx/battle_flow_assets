@@ -1,0 +1,18 @@
+{
+  "synced_at": "2026-06-06T21:02:58.459170Z",
+  "groups": {
+    "all-10000": "master.json",
+    "all-2500": "ultra.json",
+    "all-1500": "great.json",
+    "electric-1500": "electric.json",
+    "fantasy-1500": "fantasy.json",
+    "jungle-1500": "jungle.json",
+    "mega-10000": "mega.json",
+    "premier-10000": "premiermaster.json",
+    "premier-2500": "premierultra.json",
+    "remix-1500": "remix.json",
+    "retro-1500": "retro.json",
+    "spring-1500": "spring.json",
+    "little-500": "little.json"
+  }
+}
