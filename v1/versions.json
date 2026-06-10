@@ -1,4 +1,17 @@
 {
-  "dataVersion": "0.90",
-  "forceAppVersion": "300"
+  "dataVersion": "0.91",
+  "forceAppVersion": "300",
+  "updateNotes": {
+    "en": "Rankings for the Sunshine Cup are now available!",
+    "es": "¡Ya están disponibles los rankings de la Copa Solar!",
+    "pt": "Os rankings da Copa Solar já estão disponíveis!",
+    "de": "Die Rankings für den Sonnenschein-Pokal sind jetzt verfügbar!",
+    "fr": "Les classements de la Coupe Soleil sont désormais disponibles !",
+    "it": "Le classifiche della Coppa Sole sono ora disponibili!",
+    "ja": "サンシャインカップのランキングが利用可能になりました！",
+    "ko": "선샤인 컵 랭킹을 이제 이용할 수 있습니다!",
+    "zh": "阳光杯的排名现已上线！",
+    "zh-Hans": "阳光杯的排名现已上线！",
+    "zh-Hant": "陽光盃的排名現已上線！"
+  }
 }
