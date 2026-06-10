@@ -80,7 +80,7 @@
       "name": "sunshine",
       "title": "Sunshine Cup",
       "cpLimit": "1500",
-      "active": false
+      "active": true
     },
     {
       "name": "fossil",
@@ -215,6 +215,6 @@
       "active": false
     }
   ],
-  "version": "0.90",
+  "version": "0.91",
   "forceAppVersion": "300"
 }
