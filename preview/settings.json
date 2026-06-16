@@ -215,6 +215,24 @@
       "active": false
     }
   ],
-  "version": "0.92",
-  "forceAppVersion": "300"
+  "version": "0.93",
+  "forceAppVersion": "300",
+  "seasons": [
+    {
+      "name": "Forever Forward",
+      "start": "2026-06-02T13:00:00-07:00"
+    },
+    {
+      "name": "Season 26",
+      "start": "2026-03-03T13:00:00-08:00"
+    },
+    {
+      "name": "Season 25",
+      "start": "2025-12-02T13:00:00-08:00"
+    },
+    {
+      "name": "Season 24",
+      "start": "2025-09-02T13:00:00-07:00"
+    }
+  ]
 }
