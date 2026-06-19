@@ -4,3 +4,6 @@ images/sprites/.DS_Store
 env.rb
 ranking_generator
 /obfuscate
+
+# FVM Version Cache
+.fvm/
