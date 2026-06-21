@@ -1,17 +1,4 @@
 {
-  "dataVersion": "0.92",
-  "forceAppVersion": "300",
-  "updateNotes": {
-    "en": "Rankings for the Mega Master League are now available, plus updated Master League and Ultra League rankings!",
-    "es": "¡Ya están disponibles los rankings de la Mega Liga Master, además de los rankings actualizados de la Liga Master y la Liga Ultra!",
-    "pt": "Os rankings da Mega Liga Mestre já estão disponíveis, além dos rankings atualizados da Liga Mestra e da Liga Ultra!",
-    "de": "Die Rankings für die Mega-Meisterliga sind jetzt verfügbar, dazu aktualisierte Rankings für die Meisterliga und Hyperliga!",
-    "fr": "Les classements de la Méga Ligue Master sont désormais disponibles, ainsi que les classements mis à jour de la Ligue Master et de la Ligue Hyper !",
-    "it": "Le classifiche della Mega Lega Master sono ora disponibili, oltre alle classifiche aggiornate della Lega Master e della Lega Ultra!",
-    "ja": "メガマスターリーグのランキングが利用可能になりました。さらに、マスターリーグとハイパーリーグのランキングも更新されました！",
-    "ko": "메가 마스터 리그 랭킹을 이제 이용할 수 있으며, 마스터리그와 하이퍼리그 랭킹도 업데이트되었습니다!",
-    "zh": "超级大师联盟的排名现已上线，大师联盟和高级联盟的排名也已更新！",
-    "zh-Hans": "超级大师联盟的排名现已上线，大师联盟和高级联盟的排名也已更新！",
-    "zh-Hant": "超級大師聯盟的排名現已上線，大師聯盟和高級聯盟的排名也已更新！"
-  }
+  "dataVersion": "0.96",
+  "forceAppVersion": "300"
 }
