@@ -116,7 +116,7 @@
       "name": "summer",
       "title": "Summer Cup",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-06-30T13:00:00-07:00",
@@ -301,7 +301,7 @@
       "active": false
     }
   ],
-  "version": "0.96",
+  "version": "0.97",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,
