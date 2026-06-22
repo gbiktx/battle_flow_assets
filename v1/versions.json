@@ -1,4 +1,5 @@
 {
-  "dataVersion": "0.96",
-  "forceAppVersion": "300"
+  "dataVersion": "0.97",
+  "forceAppVersion": "300",
+  "latestAppVersion": "3.5.0"
 }
