@@ -116,7 +116,7 @@
       "name": "summer",
       "title": "Summer Cup",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-06-30T13:00:00-07:00",
@@ -301,59 +301,73 @@
       "active": false
     }
   ],
-  "version": "0.96",
+  "version": "0.97",
   "forceAppVersion": "300",
+  "showGblCalendar": true,
+  "showMetaProfiles": true,
   "seasons": [
     {
       "name": "Forever Forward",
-      "start": "2026-06-02T13:00:00-07:00"
+      "start": "2026-06-02T13:00:00-07:00",
+      "nameLocalized": {
+        "es": "Siempre Adelante",
+        "fr": "Toujours en avant",
+        "de": "Immer weiter",
+        "it": "Avanti insieme",
+        "pt": "Sempre em Frente",
+        "ja": "新たな歩み",
+        "ko": "새로운 발걸음",
+        "zh-Hans": "崭新的步伐",
+        "zh-Hant": "嶄新的步伐",
+        "zh": "崭新的步伐"
+      }
     },
     {
-      "name": "Season 26",
+      "name": "Memories in Motion",
       "start": "2026-03-03T13:00:00-08:00",
       "nameLocalized": {
-        "es": "Temporada 26",
-        "fr": "Saison 26",
-        "de": "Saison 26",
-        "it": "Stagione 26",
-        "pt": "Temporada 26",
-        "ja": "シーズン26",
-        "ko": "시즌 26",
-        "zh-Hans": "第26赛季",
-        "zh-Hant": "第26賽季",
-        "zh": "第26赛季"
+        "es": "Recuerdos en Marcha",
+        "fr": "Souvenirs vivants",
+        "de": "Erinnerungen in Bewegung",
+        "it": "Ricordi in movimento",
+        "pt": "Memórias em Movimento",
+        "ja": "めくるめく記憶",
+        "ko": "생생한 추억",
+        "zh-Hans": "绚烂夺目的记忆",
+        "zh-Hant": "絢爛奪目的記憶",
+        "zh": "绚烂夺目的记忆"
       }
     },
     {
-      "name": "Season 25",
+      "name": "Precious Paths",
       "start": "2025-12-02T13:00:00-08:00",
       "nameLocalized": {
-        "es": "Temporada 25",
-        "fr": "Saison 25",
-        "de": "Saison 25",
-        "it": "Stagione 25",
-        "pt": "Temporada 25",
-        "ja": "シーズン25",
-        "ko": "시즌 25",
-        "zh-Hans": "第25赛季",
-        "zh-Hant": "第25賽季",
-        "zh": "第25赛季"
+        "es": "Caminos Valiosos",
+        "fr": "Parcours précieux",
+        "de": "Wertvolle Pfade",
+        "it": "Sentieri preziosi",
+        "pt": "Passos Preciosos",
+        "ja": "宝探しの旅路",
+        "ko": "보물찾기의 길",
+        "zh-Hans": "寻宝之旅",
+        "zh-Hant": "尋寶之旅",
+        "zh": "寻宝之旅"
       }
     },
     {
-      "name": "Season 24",
+      "name": "Tales of Transformation",
       "start": "2025-09-02T13:00:00-07:00",
       "nameLocalized": {
-        "es": "Temporada 24",
-        "fr": "Saison 24",
-        "de": "Saison 24",
-        "it": "Stagione 24",
-        "pt": "Temporada 24",
-        "ja": "シーズン24",
-        "ko": "시즌 24",
-        "zh-Hans": "第24赛季",
-        "zh-Hant": "第24賽季",
-        "zh": "第24赛季"
+        "es": "Historias de Transformación",
+        "fr": "Transformations fabuleuses",
+        "de": "Geschichten der Transformation",
+        "it": "Storie di trasformazioni",
+        "pt": "Histórias de Transformação",
+        "ja": "変わりゆく物語",
+        "ko": "변화하는 이야기",
+        "zh-Hans": "千变万化的故事",
+        "zh-Hant": "千變萬化的故事",
+        "zh": "千变万化的故事"
       }
     }
   ]
