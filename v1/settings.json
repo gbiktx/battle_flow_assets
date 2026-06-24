@@ -92,7 +92,7 @@
       "name": "sunshine",
       "title": "Sunshine Cup",
       "cpLimit": "1500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-06-16T13:00:00-07:00",
@@ -262,7 +262,7 @@
       "name": "mega",
       "title": "Mega Master League",
       "cpLimit": "10000",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-06-16T13:00:00-07:00",
@@ -301,7 +301,7 @@
       "active": false
     }
   ],
-  "version": "0.97",
+  "version": "0.98",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,

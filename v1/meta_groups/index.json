@@ -1,12 +1,10 @@
 {
-  "synced_at": "2026-06-22T15:13:59.511477Z",
+  "synced_at": "2026-06-24T06:05:57.987537Z",
   "groups": {
     "all-1500": "great.json",
-    "sunshine-1500": "sunshine.json",
     "summer-1500": "summer.json",
     "all-2500": "ultra.json",
     "all-10000": "master.json",
-    "mega-10000": "mega.json",
     "all-500": "little.json"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-06-12T20:14:28.979451Z",
+  "synced_at": "2026-06-24T05:38:56.266445Z",
   "source": "pvpoke/src/data/groups/great.json",
   "cup_key": "all-1500",
-  "species_count": 47,
+  "species_count": 48,
   "duplicates_removed": [],
   "entries": [
     {
@@ -233,6 +233,14 @@
       ]
     },
     {
+      "speciesId": "mantine",
+      "fastMove": "WING_ATTACK",
+      "chargedMoves": [
+        "TWISTER",
+        "WATER_PULSE"
+      ]
+    },
+    {
       "speciesId": "medicham",
       "fastMove": "PSYCHO_CUT",
       "chargedMoves": [
@@ -317,6 +325,14 @@
       "shadowType": "shadow"
     },
     {
+      "speciesId": "seismitoad",
+      "fastMove": "MUD_SHOT",
+      "chargedMoves": [
+        "EARTH_POWER",
+        "ICY_WIND"
+      ]
+    },
+    {
       "speciesId": "stunfisk",
       "fastMove": "THUNDER_SHOCK",
       "chargedMoves": [
@@ -373,19 +389,11 @@
       ]
     },
     {
-      "speciesId": "seismitoad",
-      "fastMove": "MUD_SHOT",
+      "speciesId": "mimikyu",
+      "fastMove": "SHADOW_CLAW",
       "chargedMoves": [
-        "EARTH_POWER",
-        "ICY_WIND"
-      ]
-    },
-    {
-      "speciesId": "mantine",
-      "fastMove": "WING_ATTACK",
-      "chargedMoves": [
-        "TWISTER",
-        "WATER_PULSE"
+        "SHADOW_SNEAK",
+        "PLAY_ROUGH"
       ]
     }
   ]
