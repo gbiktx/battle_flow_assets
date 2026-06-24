@@ -1,6 +1,7 @@
 {
-  "dataVersion": "0.96",
+  "dataVersion": "0.97",
   "forceAppVersion": "300",
+  "latestAppVersion": "3.5.0",
   "updateNotes": {
     "en": "Rankings for the Mega Master League are now available!",
     "es": "¡Ya están disponibles los rankings de la Mega Liga Maestra!",
@@ -13,15 +14,5 @@
     "zh": "超级大师联赛的排名现已上线！",
     "zh-Hans": "超级大师联赛的排名现已上线！",
     "zh-Hant": "超級大師聯賽的排名現已上線！"
-  },
-  "rankingUpdatedAt": {
-    "1500-naic2026": "2026-05-30T12:00:00Z",
-    "1500-sunshine": "2026-06-12T12:00:00Z",
-    "10000-mega": "2026-06-12T12:00:00Z",
-    "1500-summer": "2026-06-26T12:00:00Z",
-    "2500-fantasy": "2026-07-03T12:00:00Z",
-    "1500-retro": "2026-07-10T12:00:00Z",
-    "10000-premier": "2026-07-24T12:00:00Z",
-    "1500-scroll": "2026-08-14T12:00:00Z"
   }
 }
