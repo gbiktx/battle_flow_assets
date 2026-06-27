@@ -7,3 +7,24 @@ ranking_generator
 
 # FVM Version Cache
 .fvm/
+
+# Private tooling — generators, validators, and the release pipeline live in
+# their own private repo nested here. This public repo serves data only.
+/tooling/
+
+# Pipeline working files & intermediates (generated locally, never published)
+/gamemaster.json
+/pokemon_names.json
+/hindi_unified_extracted.json
+/missing.txt
+/reports/
+
+# Dart/Flutter tool caches & local editor config (tooling runs from tooling/)
+/pubspec.yaml
+/pubspec.lock
+/pubspec_overrides.yaml
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.fvmrc
+/.vscode/
