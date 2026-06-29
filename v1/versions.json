@@ -1,18 +1,5 @@
 {
-  "dataVersion": "0.98",
+  "dataVersion": "0.99",
   "forceAppVersion": "300",
-  "latestAppVersion": "3.5.1",
-  "updateNotes": {
-    "en": "Mimikyu rankings are now available!",
-    "es": "¡Ya están disponibles los rankings de Mimikyu!",
-    "pt": "Os rankings de Mimikyu já estão disponíveis!",
-    "de": "Die Rankings für Mimigma sind jetzt verfügbar!",
-    "fr": "Les classements de Mimiqui sont désormais disponibles !",
-    "it": "Le classifiche di Mimikyu sono ora disponibili!",
-    "ja": "ミミッキュのランキングが利用可能になりました！",
-    "ko": "따라큐 랭킹을 이제 이용할 수 있습니다!",
-    "zh": "谜拟Q的排名现已上线！",
-    "zh-Hans": "谜拟Q的排名现已上线！",
-    "zh-Hant": "謎擬Ｑ的排名現已上線！"
-  }
+  "latestAppVersion": "3.5.1"
 }
