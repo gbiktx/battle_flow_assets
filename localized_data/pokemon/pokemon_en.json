@@ -80,7 +80,7 @@
   "80": "Slowbro",
   "81": "Magnemite",
   "82": "Magneton",
-  "83": "Farfetch’d",
+  "83": "Farfetch'd",
   "84": "Doduo",
   "85": "Dodrio",
   "86": "Seel",
@@ -862,7 +862,7 @@
   "862": "Obstagoon",
   "863": "Perrserker",
   "864": "Cursola",
-  "865": "Sirfetch’d",
+  "865": "Sirfetch'd",
   "866": "Mr. Rime",
   "867": "Runerigus",
   "868": "Milcery",
@@ -1022,5 +1022,7 @@
   "1022": "Iron Boulder",
   "1023": "Iron Crown",
   "1024": "Terapagos",
-  "1025": "Pecharunt"
+  "1025": "Pecharunt",
+  "0": "--",
+  "29": "Nidoran♀"
 }
