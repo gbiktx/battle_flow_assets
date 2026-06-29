@@ -737,7 +737,7 @@
   "737": "Charjabug",
   "738": "Vikavolt",
   "739": "Crabrawler",
-  "740": "Crabominable",
+  "740": "Crabominabile",
   "741": "Oricorio",
   "742": "Cutiefly",
   "743": "Ribombee",
@@ -1022,5 +1022,7 @@
   "1022": "Massoferreo",
   "1023": "Capoferreo",
   "1024": "Terapagos",
-  "1025": "Pecharunt"
+  "1025": "Pecharunt",
+  "0": "---",
+  "29": "Nidoran♀"
 }
