@@ -1,9 +1,11 @@
 {
-  "synced_at": "2026-06-24T06:05:57.987537Z",
+  "synced_at": "2026-07-06T03:31:39.200675Z",
   "groups": {
     "all-1500": "great.json",
+    "retro-1500": "retro.json",
     "summer-1500": "summer.json",
     "all-2500": "ultra.json",
+    "fantasy-2500": "fantasyultra.json",
     "all-10000": "master.json",
     "all-500": "little.json"
   }
