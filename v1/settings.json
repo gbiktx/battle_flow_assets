@@ -116,7 +116,7 @@
       "name": "summer",
       "title": "Summer Cup",
       "cpLimit": "1500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-06-30T13:00:00-07:00",
@@ -230,7 +230,7 @@
       "name": "fantasy",
       "title": "Fantasy Cup",
       "cpLimit": "2500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-07-07T13:00:00-07:00",
@@ -250,7 +250,7 @@
       "name": "premier",
       "title": "Master Premier Cup",
       "cpLimit": "10000",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-07-28T13:00:00-07:00",
@@ -301,7 +301,7 @@
       "active": false
     }
   ],
-  "version": "1.02",
+  "version": "1.04",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,
@@ -370,5 +370,34 @@
         "zh": "千变万化的故事"
       }
     }
-  ]
+  ],
+  "scoringAnchors": {
+    "version": "2026-07-18",
+    "cups": {
+      "all:1500": {
+        "insight": {
+          "highCore": 35.5,
+          "severeCore": 45.0
+        }
+      },
+      "retro:1500": {
+        "insight": {
+          "highCore": 43.5,
+          "severeCore": 56.0
+        }
+      },
+      "all:2500": {
+        "insight": {
+          "highCore": 29.0,
+          "severeCore": 37.5
+        }
+      },
+      "all:10000": {
+        "insight": {
+          "highCore": 22.0,
+          "severeCore": 27.5
+        }
+      }
+    }
+  }
 }
