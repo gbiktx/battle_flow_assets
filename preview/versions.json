@@ -14,5 +14,20 @@
     "zh": "超级大师联赛的排名现已上线！",
     "zh-Hans": "超级大师联赛的排名现已上线！",
     "zh-Hant": "超級大師聯賽的排名現已上線！"
+  },
+  "gameTranslations": {
+    "schemaVersion": 1,
+    "revisions": {
+      "de": "sha256-ddf05ecf7f9d10d3ef2989d65905c25bc1b2bc1c90c4beaf13e353f7559ec386",
+      "en": "sha256-99ef5bc0cce5ca79e731be3efe1a37aa574428348cc1bf3407fc125d3233163a",
+      "es": "sha256-7b98551e48a43ab5abc56b2ea8275c34d5dce90091a6e93d491fb99a5937876b",
+      "fr": "sha256-b40dcfc81262293806548287eeea774c471c22a7b98603e51816be0dc0f0ffc1",
+      "it": "sha256-33cbcd82a6bde2abf67700a2dbbf0d973ab8cf300d11b3fd6095e36706831d2f",
+      "ja": "sha256-737b6dabceebc5c514378a76202b62bb6409ea653ed1d6c4e9dbc9ee2aed46b1",
+      "ko": "sha256-ef334e188ba78f5f0ea627ca4ffae9cdb28508a90e9bb4b203f89fb6a01cb2cc",
+      "pt": "sha256-e38474f6e46fe840eaae817650e583152bbbbbb5e6c2d56bd173ab7635d459dc",
+      "zh-Hans": "sha256-9f9c4865fa48e396b640dd9123d76f3b30b8c364b96313c9ba6ac98a8bb2fb08",
+      "zh-Hant": "sha256-3d28c9f48445d98170c62bfce7269855e3443814320af641a6ae63b919ec42d2"
+    }
   }
 }
