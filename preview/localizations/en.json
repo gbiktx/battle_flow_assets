@@ -779,7 +779,7 @@
     "775": "Komala",
     "776": "Turtonator",
     "777": "Togedemaru",
-    "778": "Mimikyu SYNCED",
+    "778": "Mimikyu",
     "779": "Bruxish",
     "780": "Drampa",
     "781": "Dhelmise",
@@ -1286,7 +1286,7 @@
     "SEED_FLARE": "Seed Flare",
     "SHADOW_BALL": "Shadow Ball",
     "SHADOW_BONE": "Shadow Bone",
-    "SHADOW_CLAW": "Shadow Claw SYNCED",
+    "SHADOW_CLAW": "Shadow Claw",
     "SHADOW_FORCE": "Shadow Force",
     "SHADOW_PUNCH": "Shadow Punch",
     "SHADOW_SNEAK": "Shadow Sneak",
@@ -1362,5 +1362,5 @@
     "ZAP_CANNON": "Zap Cannon",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-99ef5bc0cce5ca79e731be3efe1a37aa574428348cc1bf3407fc125d3233163a-test1"
+  "revision": "sha256-99ef5bc0cce5ca79e731be3efe1a37aa574428348cc1bf3407fc125d3233163a"
 }
