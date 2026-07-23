@@ -779,7 +779,7 @@
     "775": "Komala",
     "776": "Turtonator",
     "777": "Togedemaru",
-    "778": "Mimikyu SYNCED",
+    "778": "Mimikyu2",
     "779": "Bruxish",
     "780": "Drampa",
     "781": "Dhelmise",
@@ -1362,5 +1362,5 @@
     "ZAP_CANNON": "Zap Cannon",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-99ef5bc0cce5ca79e731be3efe1a37aa574428348cc1bf3407fc125d3233163a-test1"
+  "revision": "sha256-99ef5bc0cce5ca79e731be3efe1a37aa574428348cc1bf3407fc125d3233163a-test2"
 }
