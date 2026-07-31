@@ -44,7 +44,7 @@
       "name": "retro",
       "title": "Retro Cup",
       "cpLimit": "1500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-07-14T13:00:00-07:00",
@@ -180,7 +180,7 @@
       "name": "weather",
       "title": "Weather Cup",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-08-04T13:00:00-07:00",
@@ -301,7 +301,7 @@
       "active": false
     }
   ],
-  "version": "1.04",
+  "version": "1.05",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,
