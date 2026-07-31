@@ -1,5 +1,20 @@
 {
-  "dataVersion": "1.04",
+  "dataVersion": "1.05",
   "forceAppVersion": "300",
-  "latestAppVersion": "3.5.1"
+  "latestAppVersion": "4.0.0",
+  "gameTranslations": {
+    "schemaVersion": 1,
+    "revisions": {
+      "de": "sha256-3a5f84a6b03516348565fc74ebf63a93c4c6c1510e276793fc7d72e131341f8b",
+      "en": "sha256-92904cc68bdf74ab2792228a2bc75742594f71e41ca101db7cfe634b52f990f2",
+      "es": "sha256-1737ba0251a5c0e665c0db6a02b8583e274b4afb99a80c7dc97e537d0d27f705",
+      "fr": "sha256-1c638fd3c56262cd671dbe4154e3197f17bdbcf8040a1e72d41efd0f7e32ad49",
+      "it": "sha256-736f7e8d6b45c4ca72b2e45c566ca24a296d6bd8a99560e5f1a83b8c364ef921",
+      "ja": "sha256-d04d37cf5d877036e90e41ef533d636b918d35c84aa7006e56132626b48e7bcf",
+      "ko": "sha256-5b90359f8e3775000f686bd855ba485bdf35d119a4c538e39c3f29ad3f68aaf0",
+      "pt": "sha256-f82554a12ad45531f607f3e92c642e1160843c3c85a81766924619037299b011",
+      "zh-Hans": "sha256-523433e8b7937441d279bdc19d9f709df8b3972af971a29eff55944ed573ef2b",
+      "zh-Hant": "sha256-4a34b4b173a5fb944ab9b781bb8fcdbac672a9ca78877d4cede21949e5bb68b0"
+    }
+  }
 }
