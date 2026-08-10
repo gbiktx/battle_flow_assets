@@ -1,20 +1,20 @@
 {
-  "dataVersion": "1.05",
+  "dataVersion": "1.06",
   "forceAppVersion": "300",
   "latestAppVersion": "4.1.5",
   "gameTranslations": {
     "schemaVersion": 1,
     "revisions": {
-      "de": "sha256-3a5f84a6b03516348565fc74ebf63a93c4c6c1510e276793fc7d72e131341f8b",
-      "en": "sha256-92904cc68bdf74ab2792228a2bc75742594f71e41ca101db7cfe634b52f990f2",
-      "es": "sha256-1737ba0251a5c0e665c0db6a02b8583e274b4afb99a80c7dc97e537d0d27f705",
-      "fr": "sha256-1c638fd3c56262cd671dbe4154e3197f17bdbcf8040a1e72d41efd0f7e32ad49",
-      "it": "sha256-736f7e8d6b45c4ca72b2e45c566ca24a296d6bd8a99560e5f1a83b8c364ef921",
-      "ja": "sha256-d04d37cf5d877036e90e41ef533d636b918d35c84aa7006e56132626b48e7bcf",
-      "ko": "sha256-5b90359f8e3775000f686bd855ba485bdf35d119a4c538e39c3f29ad3f68aaf0",
-      "pt": "sha256-f82554a12ad45531f607f3e92c642e1160843c3c85a81766924619037299b011",
-      "zh-Hans": "sha256-523433e8b7937441d279bdc19d9f709df8b3972af971a29eff55944ed573ef2b",
-      "zh-Hant": "sha256-4a34b4b173a5fb944ab9b781bb8fcdbac672a9ca78877d4cede21949e5bb68b0"
+      "de": "sha256-e29d1bd24fc2457efc3bddbeb58acadd1bf9665f3f6b39e04ff3e932cd9d7ea9",
+      "en": "sha256-8c90f224d41e9868bfe650adee5814f0c2127338bb1f28ef8f6aa63ff592a24e",
+      "es": "sha256-e60f333cf2bb54865527ef764295cef24b7440b9d1b2611e2c8b59fa280c9f76",
+      "fr": "sha256-691cb5608ce178f2c097143d13d1721b6570d137f0abdb5e886e6337ff4e03bb",
+      "it": "sha256-c501f70bad74d167b6a9410b2b66ca05177b92911c612f66797f2b3f5c33ef39",
+      "ja": "sha256-cc8a7ea54eaa5ec41972eeccea9c2ee912b02d0cc82d57d43ce48b57af701247",
+      "ko": "sha256-d4004d70cc1d9caaec2aa3aed9f44a35e83e9d77dcdc88c29311aeef5e52a044",
+      "pt": "sha256-10623b98d89a015a6a9128509e7e4e96bfc65410724668d814bd3dd50f72533f",
+      "zh-Hans": "sha256-5af784c1de547bcdff19178cf8c6505e93d1c88334a3468207327c6207d91dc1",
+      "zh-Hant": "sha256-32f2d1b54b4c389a59e3f109a543c5e9108aae3649605ff22a696636032f3e11"
     }
   }
 }
