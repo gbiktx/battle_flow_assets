@@ -74,7 +74,7 @@
       "name": "scroll",
       "title": "Scroll Cup",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-08-18T13:00:00-07:00",
@@ -192,7 +192,7 @@
       "name": "evolution",
       "title": "Evolution Cup",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-08-11T13:00:00-07:00",
@@ -250,7 +250,7 @@
       "name": "premier",
       "title": "Master Premier Cup",
       "cpLimit": "10000",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-07-28T13:00:00-07:00",
@@ -301,7 +301,7 @@
       "active": false
     }
   ],
-  "version": "1.05",
+  "version": "1.06",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,
