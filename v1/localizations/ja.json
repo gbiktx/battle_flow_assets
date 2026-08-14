@@ -1150,7 +1150,7 @@
     "GIGA_DRAIN": "ギガドレイン",
     "GIGA_IMPACT": "ギガインパクト",
     "GLACIATE": "こごえるせかい",
-    "GLAIVE_RUSH": "グレイシャラッシュ",
+    "GLAIVE_RUSH": "きょけんとつげき",
     "GRASS_KNOT": "くさむすび",
     "GUNK_SHOT": "ダストシュート",
     "GUST": "かぜおこし",
@@ -1377,5 +1377,5 @@
     "ZAP_CANNON_PLUS": "でんじほう+",
     "ZEN_HEADBUTT": "しねんのずつき"
   },
-  "revision": "sha256-cc8a7ea54eaa5ec41972eeccea9c2ee912b02d0cc82d57d43ce48b57af701247"
+  "revision": "sha256-42262ad14820eee718bd77918e399dee16ec0435da1a46cf8fc0fbc64520222e"
 }

@@ -1021,7 +1021,7 @@
     "1017": "Ogerpon",
     "1018": "Pondralugon",
     "1019": "Pomdorochi",
-    "1020": "Feu-Perçant",
+    "1020": "Gouging Fire",
     "1021": "Ire-Foudre",
     "1022": "Roc-de-Fer",
     "1023": "Chef-de-Fer",
@@ -1093,11 +1093,11 @@
     "DISARMING_VOICE": "Voix Enjôleuse",
     "DISCHARGE": "Coup d’Jus",
     "DIVE": "Plongée",
-    "DOOM_DESIRE": "Vœu Destructeur",
+    "DOOM_DESIRE": "Carnareket",
     "DOUBLE_IRON_BASH": "Écrous d’Poing",
     "DOUBLE_KICK": "Double Pied",
     "DRACO_METEOR": "Draco-Météore",
-    "DRAGON_ASCENT": "Draco-Ascension",
+    "DRAGON_ASCENT": "Draco Ascension",
     "DRAGON_BREATH": "Draco-Souffle",
     "DRAGON_CLAW": "Draco-Griffe",
     "DRAGON_ENERGY": "Draco-Énergie",
@@ -1150,7 +1150,7 @@
     "GIGA_DRAIN": "Giga-Sangsue",
     "GIGA_IMPACT": "Giga Impact",
     "GLACIATE": "Ère Glaciaire",
-    "GLAIVE_RUSH": "Lame en Trombe",
+    "GLAIVE_RUSH": "Charge Glaive",
     "GRASS_KNOT": "Nœud Herbe",
     "GUNK_SHOT": "Détricanon",
     "GUST": "Tornade",
@@ -1234,7 +1234,7 @@
     "NATURES_MADNESS": "Ire de la Nature",
     "NIGHT_SHADE": "Ombre Nocturne",
     "NIGHT_SLASH": "Tranche-Nuit",
-    "OBLIVION_WING": "Mort’Ailes",
+    "OBLIVION_WING": "Mort-Ailes",
     "OBSTRUCT": "Blocage",
     "OCTAZOOKA": "Octazooka",
     "OMINOUS_WIND": "Vent Mauvais",
@@ -1377,5 +1377,5 @@
     "ZAP_CANNON_PLUS": "Élecanon+",
     "ZEN_HEADBUTT": "Psykoud’Boul"
   },
-  "revision": "sha256-691cb5608ce178f2c097143d13d1721b6570d137f0abdb5e886e6337ff4e03bb"
+  "revision": "sha256-3b48193ce03498f7a0c93e0341778d0c70af7b8d5fb14961e85c7041109924f3"
 }

@@ -1150,7 +1150,7 @@
     "GIGA_DRAIN": "Gigasauger",
     "GIGA_IMPACT": "Gigastoß",
     "GLACIATE": "Eiszeit",
-    "GLAIVE_RUSH": "Klingensturm",
+    "GLAIVE_RUSH": "Großklingenstoß",
     "GRASS_KNOT": "Strauchler",
     "GUNK_SHOT": "Mülltreffer",
     "GUST": "Windstoß",
@@ -1345,7 +1345,7 @@
     "THUNDER_PUNCH": "Donnerschlag",
     "THUNDER_SHOCK": "Donnerschock",
     "TORCH_SONG": "Loderlied",
-    "TRAILBLAZE": "Trailblaze",
+    "TRAILBLAZE": "Wegbereiter",
     "TRANSFORM": "Wandler",
     "TRIPLE_AXEL": "Dreifach-Axel",
     "TRI_ATTACK": "Triplette",
@@ -1377,5 +1377,5 @@
     "ZAP_CANNON_PLUS": "Blitzkanone+",
     "ZEN_HEADBUTT": "Zen-Kopfstoß"
   },
-  "revision": "sha256-e29d1bd24fc2457efc3bddbeb58acadd1bf9665f3f6b39e04ff3e932cd9d7ea9"
+  "revision": "sha256-7fb452d61a2fcbaec8a494c2ddb49c8f1cfc7061ed61cd11cad0b9eb8a3eb8dd"
 }

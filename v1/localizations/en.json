@@ -84,7 +84,7 @@
     "80": "Slowbro",
     "81": "Magnemite",
     "82": "Magneton",
-    "83": "Farfetch’d",
+    "83": "Farfetch'd",
     "84": "Doduo",
     "85": "Dodrio",
     "86": "Seel",
@@ -866,7 +866,7 @@
     "862": "Obstagoon",
     "863": "Perrserker",
     "864": "Cursola",
-    "865": "Sirfetch’d",
+    "865": "Sirfetch'd",
     "866": "Mr. Rime",
     "867": "Runerigus",
     "868": "Milcery",
@@ -1377,5 +1377,5 @@
     "ZAP_CANNON_PLUS": "Zap Cannon+",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-8c90f224d41e9868bfe650adee5814f0c2127338bb1f28ef8f6aa63ff592a24e"
+  "revision": "sha256-d6663943984684103a24d320e5940aa73b30fbb1b2edbfc645dbd6f1a015f804"
 }
