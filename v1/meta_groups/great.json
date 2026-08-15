@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-06-24T05:38:56.266445Z",
+  "synced_at": "2026-08-15T02:19:07.493444Z",
   "source": "pvpoke/src/data/groups/great.json",
   "cup_key": "all-1500",
-  "species_count": 48,
+  "species_count": 49,
   "duplicates_removed": [],
   "entries": [
     {
@@ -249,6 +249,14 @@
       ]
     },
     {
+      "speciesId": "mimikyu",
+      "fastMove": "SHADOW_CLAW",
+      "chargedMoves": [
+        "SHADOW_SNEAK",
+        "PLAY_ROUGH"
+      ]
+    },
+    {
       "speciesId": "morpeko_full_belly",
       "fastMove": "THUNDER_SHOCK",
       "chargedMoves": [
@@ -389,11 +397,11 @@
       ]
     },
     {
-      "speciesId": "mimikyu",
-      "fastMove": "SHADOW_CLAW",
+      "speciesId": "thievul",
+      "fastMove": "SUCKER_PUNCH",
       "chargedMoves": [
-        "SHADOW_SNEAK",
-        "PLAY_ROUGH"
+        "NIGHT_SLASH",
+        "ICY_WIND"
       ]
     }
   ]

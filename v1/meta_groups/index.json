@@ -1,9 +1,8 @@
 {
-  "synced_at": "2026-08-10T19:51:42.129477Z",
+  "synced_at": "2026-08-15T02:19:07.509197Z",
   "groups": {
     "all-1500": "great.json",
     "scroll-1500": "scroll.json",
-    "weather-1500": "weather.json",
     "evolution-1500": "evolution.json",
     "all-2500": "ultra.json",
     "all-10000": "master.json",
