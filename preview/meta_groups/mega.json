@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-19T04:02:54.898507Z",
+  "synced_at": "2026-06-22T17:00:43.716277Z",
   "source": "pvpoke/src/data/groups/mega.json",
   "cup_key": "mega-10000",
   "species_count": 33,
@@ -61,6 +61,14 @@
       "chargedMoves": [
         "AQUA_TAIL",
         "CRUNCH"
+      ]
+    },
+    {
+      "speciesId": "heracross_mega",
+      "fastMove": "FURY_CUTTER",
+      "chargedMoves": [
+        "ROCK_TOMB",
+        "UPPER_HAND"
       ]
     },
     {
@@ -148,7 +156,7 @@
       "fastMove": "COUNTER",
       "chargedMoves": [
         "PSYSTRIKE",
-        "SHADOW_BALL"
+        "THUNDERBOLT"
       ]
     },
     {
@@ -156,7 +164,7 @@
       "fastMove": "PSYCHO_CUT",
       "chargedMoves": [
         "PSYSTRIKE",
-        "SHADOW_BALL"
+        "THUNDERBOLT"
       ]
     },
     {
@@ -261,14 +269,6 @@
       "chargedMoves": [
         "CRUNCH",
         "EARTHQUAKE"
-      ]
-    },
-    {
-      "speciesId": "heracross_mega",
-      "fastMove": "FURY_CUTTER",
-      "chargedMoves": [
-        "ROCK_TOMB",
-        "UPPER_HAND"
       ]
     }
   ]
