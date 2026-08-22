@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-15T02:19:07.493444Z",
+  "synced_at": "2026-08-22T00:57:04.340949Z",
   "source": "pvpoke/src/data/groups/great.json",
   "cup_key": "all-1500",
   "species_count": 49,
@@ -19,14 +19,6 @@
       "chargedMoves": [
         "SKY_ATTACK",
         "FLAMETHROWER"
-      ]
-    },
-    {
-      "speciesId": "annihilape",
-      "fastMove": "LOW_KICK",
-      "chargedMoves": [
-        "RAGE_FIST",
-        "CLOSE_COMBAT"
       ]
     },
     {
@@ -209,14 +201,6 @@
       ]
     },
     {
-      "speciesId": "kingdra",
-      "fastMove": "DRAGON_BREATH",
-      "chargedMoves": [
-        "SURF",
-        "SWIFT"
-      ]
-    },
-    {
       "speciesId": "lickilicky",
       "fastMove": "ROLLOUT",
       "chargedMoves": [
@@ -310,7 +294,7 @@
       "speciesId": "sableye_shadow",
       "fastMove": "SHADOW_CLAW",
       "chargedMoves": [
-        "FOUL_PLAY",
+        "DRAIN_PUNCH",
         "POWER_GEM"
       ],
       "shadowType": "shadow"
@@ -349,19 +333,19 @@
       ]
     },
     {
-      "speciesId": "stunfisk_galarian",
-      "fastMove": "MUD_SHOT",
-      "chargedMoves": [
-        "ROCK_SLIDE",
-        "EARTHQUAKE"
-      ]
-    },
-    {
       "speciesId": "talonflame",
       "fastMove": "INCINERATE",
       "chargedMoves": [
         "FLY",
         "FLAME_CHARGE"
+      ]
+    },
+    {
+      "speciesId": "thievul",
+      "fastMove": "SUCKER_PUNCH",
+      "chargedMoves": [
+        "NIGHT_SLASH",
+        "ICY_WIND"
       ]
     },
     {
@@ -397,11 +381,27 @@
       ]
     },
     {
-      "speciesId": "thievul",
-      "fastMove": "SUCKER_PUNCH",
+      "speciesId": "cramorant",
+      "fastMove": "PECK",
       "chargedMoves": [
-        "NIGHT_SLASH",
-        "ICY_WIND"
+        "DIVE",
+        "FLY"
+      ]
+    },
+    {
+      "speciesId": "primeape",
+      "fastMove": "KARATE_CHOP",
+      "chargedMoves": [
+        "RAGE_FIST",
+        "ICE_PUNCH"
+      ]
+    },
+    {
+      "speciesId": "kingdra",
+      "fastMove": "DRAGON_BREATH",
+      "chargedMoves": [
+        "SURF",
+        "SWIFT"
       ]
     }
   ]
