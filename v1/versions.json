@@ -1,5 +1,5 @@
 {
-  "dataVersion": "1.09",
+  "dataVersion": "1.11",
   "forceAppVersion": "300",
   "latestAppVersion": "4.2.2",
   "gameTranslations": {
@@ -18,19 +18,5 @@
       "zh-Hans": "sha256-5af784c1de547bcdff19178cf8c6505e93d1c88334a3468207327c6207d91dc1",
       "zh-Hant": "sha256-214bc642b770df44dd417592f6cfe09c9a12c41e925f2b12c6df2f8df5aab828"
     }
-  },
-  "updateNotes": {
-    "en": "Cramorant arrives, with Gulp Missile fully simulated. The mechanic needs app version 4.2.2 or later — on earlier versions Cramorant battles as an ordinary Water/Flying Pokémon. Also includes ranking and Pokémon data updates.",
-    "de": "Urgl ist da, und Würggeschoss wird vollständig simuliert. Die Mechanik benötigt App-Version 4.2.2 oder neuer — in älteren Versionen kämpft Urgl als gewöhnliches Wasser/Flug-Pokémon. Außerdem enthalten: Ranking- und Pokémon-Datenupdates.",
-    "es": "Cramorant ha llegado, con Tragamisil totalmente simulado. La mecánica requiere la versión 4.2.2 o posterior — en versiones anteriores Cramorant combate como un Pokémon Agua/Volador normal. También incluye actualizaciones de rankings y datos de Pokémon.",
-    "fr": "Nigosier arrive, avec Dégobage entièrement simulé. Le mécanisme nécessite la version 4.2.2 ou ultérieure — sur les versions antérieures, Nigosier combat comme un Pokémon Eau/Vol ordinaire. Comprend aussi des mises à jour des classements et des données Pokémon.",
-    "it": "Arriva Cramorant, con Inghiottimissile completamente simulato. La meccanica richiede la versione 4.2.2 o successiva — nelle versioni precedenti Cramorant lotta come un normale Pokémon Acqua/Volante. Include anche aggiornamenti a classifiche e dati dei Pokémon.",
-    "pt": "Cramorant chegou, com Mísseis Gulosos totalmente simulado. A mecânica precisa da versão 4.2.2 ou posterior — em versões anteriores o Cramorant batalha como um Pokémon Água/Voador comum. Também inclui atualizações de rankings e dados de Pokémon.",
-    "ja": "ウッウが登場し、うのミサイルを完全にシミュレートします。この仕様にはアプリのバージョン4.2.2以降が必要です。それより前のバージョンでは、ウッウは通常のみず・ひこうタイプとして戦います。ランキングとポケモンデータの更新も含まれます。",
-    "ko": "윽우지가 등장하며, 그대로꿀꺽미사일을 완전히 시뮬레이션합니다. 이 메커니즘은 앱 버전 4.2.2 이상이 필요합니다. 이전 버전에서는 윽우지가 일반적인 물/비행 타입으로 배틀합니다. 랭킹과 포켓몬 데이터 업데이트도 포함됩니다.",
-    "zh_Hans": "古月鸟登场，一口飞弹完整模拟。该机制需要 App 版本 4.2.2 或更高——在更早的版本中，古月鸟会作为普通的水/飞行属性宝可梦进行对战。同时包含排名与宝可梦数据更新。",
-    "zh_Hant": "古月鳥登場，一口飛彈完整模擬。此機制需要 App 版本 4.2.2 或更新版本——在較舊的版本中，古月鳥會以一般的水／飛行屬性寶可夢進行對戰。同時包含排名與寶可夢資料更新。",
-    "es_419": "Cramorant ha llegado, con Tragamisil totalmente simulado. La mecánica requiere la versión 4.2.2 o posterior — en versiones anteriores Cramorant combate como un Pokémon Agua/Volador normal. También incluye actualizaciones de rankings y datos de Pokémon.",
-    "zh": "古月鸟登场，一口飞弹完整模拟。该机制需要 App 版本 4.2.2 或更高——在更早的版本中，古月鸟会作为普通的水/飞行属性宝可梦进行对战。同时包含排名与宝可梦数据更新。"
   }
 }
