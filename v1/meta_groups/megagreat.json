@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-08-29T06:30:49.202731Z",
-  "source": "pvpoke/src/data/groups/great.json",
-  "cup_key": "all-1500",
-  "species_count": 50,
+  "synced_at": "2026-08-29T06:36:28.118077Z",
+  "source": "pvpoke/src/data/groups/megagreat.json",
+  "cup_key": "mega-1500",
+  "species_count": 55,
   "duplicates_removed": [],
   "entries": [
     {
@@ -100,6 +100,14 @@
       "chargedMoves": [
         "FIRE_PUNCH",
         "SCORCHING_SANDS"
+      ]
+    },
+    {
+      "speciesId": "electrode_hisuian",
+      "fastMove": "THUNDER_SHOCK",
+      "chargedMoves": [
+        "WILD_CHARGE",
+        "ENERGY_BALL"
       ]
     },
     {
@@ -405,11 +413,43 @@
       ]
     },
     {
-      "speciesId": "electrode_hisuian",
-      "fastMove": "THUNDER_SHOCK",
+      "speciesId": "sableye_mega",
+      "fastMove": "SHADOW_CLAW",
       "chargedMoves": [
-        "WILD_CHARGE",
-        "ENERGY_BALL"
+        "FOUL_PLAY",
+        "POWER_GEM"
+      ]
+    },
+    {
+      "speciesId": "gyarados_mega",
+      "fastMove": "DRAGON_BREATH",
+      "chargedMoves": [
+        "AQUA_TAIL",
+        "CRUNCH"
+      ]
+    },
+    {
+      "speciesId": "altaria_mega",
+      "fastMove": "DRAGON_BREATH",
+      "chargedMoves": [
+        "MOONBLAST",
+        "SKY_ATTACK"
+      ]
+    },
+    {
+      "speciesId": "charizard_mega_x",
+      "fastMove": "DRAGON_BREATH",
+      "chargedMoves": [
+        "BLAST_BURN",
+        "AIR_CUTTER"
+      ]
+    },
+    {
+      "speciesId": "ampharos_mega",
+      "fastMove": "VOLT_SWITCH",
+      "chargedMoves": [
+        "BRUTAL_SWING",
+        "TRAILBLAZE"
       ]
     }
   ]
