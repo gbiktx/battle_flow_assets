@@ -74,7 +74,7 @@
       "name": "scroll",
       "title": "Scroll Cup",
       "cpLimit": "1500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-08-18T13:00:00-07:00",
@@ -199,6 +199,18 @@
           "to": "2026-08-18T13:00:00-07:00"
         }
       ]
+    },
+    {
+      "name": "mega",
+      "title": "Mega Great League",
+      "cpLimit": "1500",
+      "active": true,
+      "schedule": [
+        {
+          "from": "2026-09-01T13:00:00-07:00",
+          "to": "2026-09-08T13:00:00-07:00"
+        }
+      ]
     }
   ],
   "ultraCups": [
@@ -237,6 +249,18 @@
           "to": "2026-07-14T13:00:00-07:00"
         }
       ]
+    },
+    {
+      "name": "mega",
+      "title": "Mega Ultra League",
+      "cpLimit": "2500",
+      "active": true,
+      "schedule": [
+        {
+          "from": "2026-09-01T13:00:00-07:00",
+          "to": "2026-09-08T13:00:00-07:00"
+        }
+      ]
     }
   ],
   "masterCups": [
@@ -262,7 +286,7 @@
       "name": "mega",
       "title": "Mega Master League",
       "cpLimit": "10000",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-06-16T13:00:00-07:00",
@@ -301,7 +325,7 @@
       "active": false
     }
   ],
-  "version": "1.10",
+  "version": "1.12",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,
@@ -402,15 +426,6 @@
           "severeCore": 27.5
         }
       }
-    }
-  },
-  "chargedCounterTuning": {
-    "version": "2026-08-21-pvpoke",
-    "damageFractions": {
-      "cramorant": 0.15
-    },
-    "damageFlatBonuses": {
-      "cramorant": 1
     }
   }
 }
