@@ -331,6 +331,23 @@
   "showMetaProfiles": true,
   "seasons": [
     {
+      "name": "Twilight Trails",
+      "start": "2026-09-08T13:00:00-07:00",
+      "nameLocalized": {
+        "es": "Caminos Crepusculares",
+        "es-419": "Caminos Crepusculares",
+        "fr": "Sentiers crépusculaires",
+        "de": "Abendgoldpfade",
+        "it": "Sentieri crepuscolari",
+        "pt": "Trilhas do Entardecer",
+        "ja": "黄昏の旅路",
+        "ko": "황혼의 여정",
+        "zh-Hans": "黄昏之旅",
+        "zh-Hant": "黃昏之旅",
+        "zh": "黄昏之旅"
+      }
+    },
+    {
       "name": "Forever Forward",
       "start": "2026-06-02T13:00:00-07:00",
       "nameLocalized": {
