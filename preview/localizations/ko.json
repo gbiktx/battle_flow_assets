@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "깃털댄스",
     "FEINT_ATTACK": "속여때리기",
     "FELL_STINGER": "마지막일침",
+    "FELL_STINGER_PLUS": "마지막일침+",
     "FIRE_BLAST": "불대문자",
     "FIRE_FANG": "불꽃엄니",
     "FIRE_PUNCH": "불꽃펀치",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "전자포+",
     "ZEN_HEADBUTT": "사념의박치기"
   },
-  "revision": "sha256-2cf17db0a06c0faf06fc5cc0ca6578d3defd33b66e462d83a9db8b5ae3ca0afc"
+  "revision": "sha256-a9e54efdbdd1be1153d7ddd4f258f76af9f054a6f147be84172600529e0ccce8"
 }

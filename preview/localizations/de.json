@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "Daunenreigen",
     "FEINT_ATTACK": "Finte",
     "FELL_STINGER": "Stachelfinale",
+    "FELL_STINGER_PLUS": "Stachelfinale+",
     "FIRE_BLAST": "Feuersturm",
     "FIRE_FANG": "Feuerzahn",
     "FIRE_PUNCH": "Feuerschlag",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "Blitzkanone+",
     "ZEN_HEADBUTT": "Zen-Kopfstoß"
   },
-  "revision": "sha256-7fb452d61a2fcbaec8a494c2ddb49c8f1cfc7061ed61cd11cad0b9eb8a3eb8dd"
+  "revision": "sha256-8d2c2c37be0079ae999a103b48c33206115b81300010a12d9c34ea1211879067"
 }

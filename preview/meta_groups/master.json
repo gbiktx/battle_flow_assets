@@ -1,11 +1,11 @@
 {
-  "synced_at": "2026-06-06T21:01:07.518122Z",
+  "synced_at": "2026-09-08T23:37:31.559689Z",
   "source": "pvpoke/src/data/groups/master.json",
   "cup_key": "all-10000",
-  "species_count": 33,
+  "species_count": 30,
   "duplicates_removed": [
     "kyogre",
-    "zamazenta_crowned_shield"
+    "ursaluna"
   ],
   "entries": [
     {
@@ -29,7 +29,7 @@
       "fastMove": "FAIRY_WIND",
       "chargedMoves": [
         "CHILLING_WATER",
-        "MOONBLAST"
+        "DISARMING_VOICE"
       ]
     },
     {
@@ -46,6 +46,14 @@
       "chargedMoves": [
         "SACRED_FIRE",
         "BRAVE_BIRD"
+      ]
+    },
+    {
+      "speciesId": "keldeo_resolute",
+      "fastMove": "LOW_KICK",
+      "chargedMoves": [
+        "SECRET_SWORD",
+        "AQUA_JET"
       ]
     },
     {
@@ -85,7 +93,7 @@
       "fastMove": "DRAGON_TAIL",
       "chargedMoves": [
         "AEROBLAST",
-        "FLY"
+        "EARTH_POWER"
       ]
     },
     {
@@ -113,16 +121,8 @@
       ]
     },
     {
-      "speciesId": "meloetta_aria",
-      "fastMove": "CONFUSION",
-      "chargedMoves": [
-        "PSYSHOCK",
-        "DAZZLING_GLEAM"
-      ]
-    },
-    {
       "speciesId": "metagross",
-      "fastMove": "BULLET_PUNCH",
+      "fastMove": "SHADOW_CLAW",
       "chargedMoves": [
         "METEOR_MASH",
         "EARTHQUAKE"
@@ -164,7 +164,7 @@
       "speciesId": "primarina",
       "fastMove": "WATERFALL",
       "chargedMoves": [
-        "DISARMING_VOICE",
+        "MOONBLAST",
         "HYDRO_CANNON"
       ]
     },
@@ -177,20 +177,13 @@
       ]
     },
     {
-      "speciesId": "rhyperior",
+      "speciesId": "rhyperior_shadow",
       "fastMove": "MUD_SLAP",
       "chargedMoves": [
         "DRILL_RUN",
         "ROCK_WRECKER"
-      ]
-    },
-    {
-      "speciesId": "solgaleo",
-      "fastMove": "FIRE_SPIN",
-      "chargedMoves": [
-        "PSYCHIC_FANGS",
-        "IRON_HEAD"
-      ]
+      ],
+      "shadowType": "shadow"
     },
     {
       "speciesId": "togekiss",
@@ -201,11 +194,11 @@
       ]
     },
     {
-      "speciesId": "tyranitar",
-      "fastMove": "DRAGON_BREATH",
+      "speciesId": "ursaluna",
+      "fastMove": "SCRATCH",
       "chargedMoves": [
-        "BRUTAL_SWING",
-        "STONE_EDGE"
+        "ICE_PUNCH",
+        "HIGH_HORSEPOWER"
       ]
     },
     {
@@ -233,27 +226,11 @@
       ]
     },
     {
-      "speciesId": "zacian_hero",
-      "fastMove": "QUICK_ATTACK",
-      "chargedMoves": [
-        "WILD_CHARGE",
-        "PLAY_ROUGH"
-      ]
-    },
-    {
       "speciesId": "zamazenta_crowned_shield",
-      "fastMove": "METAL_CLAW",
+      "fastMove": "ICE_FANG",
       "chargedMoves": [
         "CLOSE_COMBAT",
         "BEHEMOTH_BASH"
-      ]
-    },
-    {
-      "speciesId": "zarude",
-      "fastMove": "VINE_WHIP",
-      "chargedMoves": [
-        "POWER_WHIP",
-        "DARK_PULSE"
       ]
     },
     {
@@ -269,7 +246,7 @@
       "fastMove": "DRAGON_TAIL",
       "chargedMoves": [
         "CRUNCH",
-        "EARTHQUAKE"
+        "BULLDOZE"
       ]
     }
   ]

@@ -1,13 +1,22 @@
 {
-  "synced_at": "2026-09-01T05:57:28.301513Z",
+  "synced_at": "2026-09-08T23:37:31.562411Z",
   "source": "pvpoke/src/data/groups/mega.json",
   "cup_key": "mega-10000",
-  "species_count": 33,
+  "species_count": 37,
   "duplicates_removed": [
     "groudon_primal",
     "mewtwo_mega_x"
   ],
   "entries": [
+    {
+      "speciesId": "chesnaught_mega",
+      "fastMove": "LOW_KICK",
+      "chargedMoves": [
+        "THUNDER_PUNCH",
+        "SUPER_POWER",
+        "SEED_BOMB_PLUS"
+      ]
+    },
     {
       "speciesId": "dialga_origin",
       "fastMove": "DRAGON_BREATH",
@@ -126,7 +135,7 @@
       "fastMove": "DRAGON_TAIL",
       "chargedMoves": [
         "AEROBLAST",
-        "FLY"
+        "EARTH_POWER"
       ]
     },
     {
@@ -204,7 +213,7 @@
       "speciesId": "primarina",
       "fastMove": "WATERFALL",
       "chargedMoves": [
-        "DISARMING_VOICE",
+        "MOONBLAST",
         "HYDRO_CANNON"
       ]
     },
@@ -278,6 +287,31 @@
       "chargedMoves": [
         "CRUNCH",
         "EARTHQUAKE"
+      ]
+    },
+    {
+      "speciesId": "ursaluna",
+      "fastMove": "SCRATCH",
+      "chargedMoves": [
+        "THUNDER_PUNCH",
+        "HIGH_HORSEPOWER"
+      ]
+    },
+    {
+      "speciesId": "aggron_mega",
+      "fastMove": "METAL_SOUND",
+      "chargedMoves": [
+        "BRICK_BREAK",
+        "METEOR_BEAM"
+      ]
+    },
+    {
+      "speciesId": "delphox_mega",
+      "fastMove": "SCRATCH",
+      "chargedMoves": [
+        "BLAST_BURN",
+        "PSYSHOCK",
+        "MYSTICAL_FIRE_PLUS"
       ]
     }
   ]

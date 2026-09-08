@@ -62,7 +62,7 @@
       "name": "willpower",
       "title": "Willpower Cup",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-15T13:00:00-07:00",
@@ -200,7 +200,7 @@
       "name": "mega",
       "title": "Mega Great League",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-08T13:00:00-07:00",
@@ -274,7 +274,7 @@
       "name": "mega",
       "title": "Mega Ultra League",
       "cpLimit": "2500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-08T13:00:00-07:00",
@@ -320,7 +320,7 @@
       "name": "mega",
       "title": "Mega Master League",
       "cpLimit": "10000",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-08T13:00:00-07:00",
@@ -375,7 +375,7 @@
       "active": false
     }
   ],
-  "version": "1.13",
+  "version": "1.15",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,

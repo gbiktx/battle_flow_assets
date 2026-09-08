@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "फ़ेदर डांस",
     "FEINT_ATTACK": "फ़ेइंट अटैक",
     "FELL_STINGER": "फ़ेल स्टिंगर",
+    "FELL_STINGER_PLUS": "फ़ेल स्टिंगर+",
     "FIRE_BLAST": "फ़ायर ब्लास्ट",
     "FIRE_FANG": "फ़ायर फ़ैंग",
     "FIRE_PUNCH": "फ़ायर पंच",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "ज़ैप कैनन+",
     "ZEN_HEADBUTT": "ज़ेन हेडबट"
   },
-  "revision": "sha256-ca353c53c24801f18cd4d4136e383de44b744704358fe414e3bf9cbb577ce7e4"
+  "revision": "sha256-f9c71099bc07cd0d334bfa9387ba7cdbf9bf3d5c9a4e3b2e15a1a5b4ad2e6d18"
 }
