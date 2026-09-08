@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "Feather Dance",
     "FEINT_ATTACK": "Feint Attack",
     "FELL_STINGER": "Fell Stinger",
+    "FELL_STINGER_PLUS": "Fell Stinger+",
     "FIRE_BLAST": "Fire Blast",
     "FIRE_FANG": "Fire Fang",
     "FIRE_PUNCH": "Fire Punch",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "Zap Cannon+",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-d6663943984684103a24d320e5940aa73b30fbb1b2edbfc645dbd6f1a015f804"
+  "revision": "sha256-1730c140bc2c8c45fc124f7f1598923352aa1f9fe3eb5ee7929d634834b4c500"
 }
