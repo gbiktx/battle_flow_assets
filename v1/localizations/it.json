@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "Danzadipiume",
     "FEINT_ATTACK": "Finta",
     "FELL_STINGER": "Pungiglione",
+    "FELL_STINGER_PLUS": "Pungiglione+",
     "FIRE_BLAST": "Fuocobomba",
     "FIRE_FANG": "Rogodenti",
     "FIRE_PUNCH": "Fuocopugno",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "Falcecannone+",
     "ZEN_HEADBUTT": "Cozzata Zen"
   },
-  "revision": "sha256-a5100477bde6388113735efbac8a6438443269d04cbb1e7c42cdb4209b369c64"
+  "revision": "sha256-b2d8b0473ed582452d52b0ea841070d92cfaef12a1edfb79e23ade5fce102e36"
 }

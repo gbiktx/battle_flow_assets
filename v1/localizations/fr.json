@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "Danse Plumes",
     "FEINT_ATTACK": "Feinte",
     "FELL_STINGER": "Dard Mortel",
+    "FELL_STINGER_PLUS": "Dard Mortel+",
     "FIRE_BLAST": "Déflagration",
     "FIRE_FANG": "Crocs Feu",
     "FIRE_PUNCH": "Poing Feu",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "Élecanon+",
     "ZEN_HEADBUTT": "Psykoud’Boul"
   },
-  "revision": "sha256-3b48193ce03498f7a0c93e0341778d0c70af7b8d5fb14961e85c7041109924f3"
+  "revision": "sha256-782c7a49078841432769fef534d022ca39d75d145032beb6461c8b9e54b72a3f"
 }
