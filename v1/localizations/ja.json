@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "フェザーダンス",
     "FEINT_ATTACK": "だましうち",
     "FELL_STINGER": "とどめばり",
+    "FELL_STINGER_PLUS": "とどめばり+",
     "FIRE_BLAST": "だいもんじ",
     "FIRE_FANG": "ほのおのキバ",
     "FIRE_PUNCH": "ほのおのパンチ",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "でんじほう+",
     "ZEN_HEADBUTT": "しねんのずつき"
   },
-  "revision": "sha256-42262ad14820eee718bd77918e399dee16ec0435da1a46cf8fc0fbc64520222e"
+  "revision": "sha256-dc9be1c8b1c7e5274b8780dade4ddf69f0aa96d2d6125af22b39068c25565ff3"
 }

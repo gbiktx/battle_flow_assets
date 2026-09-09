@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "羽毛舞",
     "FEINT_ATTACK": "出奇一擊",
     "FELL_STINGER": "致命針刺",
+    "FELL_STINGER_PLUS": "致命針刺+",
     "FIRE_BLAST": "大字爆炎",
     "FIRE_FANG": "火焰牙",
     "FIRE_PUNCH": "火焰拳",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "電磁炮+",
     "ZEN_HEADBUTT": "意念頭錘"
   },
-  "revision": "sha256-214bc642b770df44dd417592f6cfe09c9a12c41e925f2b12c6df2f8df5aab828"
+  "revision": "sha256-ad571dd317d9887c02d2d282d8fa59951d4d8f7cb2efb1cb83642cfb9432107d"
 }

@@ -1092,7 +1092,7 @@
     "DIG": "Excavar",
     "DISARMING_VOICE": "Voz Encantadora",
     "DISCHARGE": "Chispazo",
-    "DIVE": "Dive",
+    "DIVE": "Buceo",
     "DOOM_DESIRE": "Deseo Final",
     "DOUBLE_IRON_BASH": "Ferropuño Doble",
     "DOUBLE_KICK": "Doble Patada",
@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "Danza de Plumas",
     "FEINT_ATTACK": "Ataque Finta",
     "FELL_STINGER": "Aguijón Letal",
+    "FELL_STINGER_PLUS": "Aguijón Letal+",
     "FIRE_BLAST": "Llamarada",
     "FIRE_FANG": "Colmillo de Fuego",
     "FIRE_PUNCH": "Puño Fuego",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-41be3d3e9582757672cb3bcc38106e9b64aa46dcb6159efa4c44aaac7ea5688b"
+  "revision": "sha256-ec57c4bb1542b90317e72cb4f3d9dea0cb7d057ebac4f9f8e948ca6ae1227fbe"
 }

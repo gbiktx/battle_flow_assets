@@ -1121,6 +1121,7 @@
     "FEATHER_DANCE": "Danza Pluma",
     "FEINT_ATTACK": "Finta",
     "FELL_STINGER": "Aguijón Letal",
+    "FELL_STINGER_PLUS": "Aguijón Letal+",
     "FIRE_BLAST": "Llamarada",
     "FIRE_FANG": "Colmillo Ígneo",
     "FIRE_PUNCH": "Puño Fuego",
@@ -1377,5 +1378,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-f37b1076ac89a5a175eb81c34e91294d58a3518e20562e729fe5e0e6f21acacc"
+  "revision": "sha256-fa868ffdb7227e19ac4d294a39e1c50c114f3e9adf0be1cfcde52bb9ad6b6530"
 }
