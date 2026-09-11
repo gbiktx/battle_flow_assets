@@ -1088,6 +1088,7 @@
     "CUT": "Taglio",
     "DARKEST_LARIAT": "Braccioteso",
     "DARK_PULSE": "Neropulsar",
+    "DARK_PULSE_PLUS": "Neropulsar+",
     "DAZZLING_GLEAM": "Magibrillio",
     "DIG": "Fossa",
     "DISARMING_VOICE": "Incantavoce",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "Falcecannone+",
     "ZEN_HEADBUTT": "Cozzata Zen"
   },
-  "revision": "sha256-b2d8b0473ed582452d52b0ea841070d92cfaef12a1edfb79e23ade5fce102e36"
+  "revision": "sha256-82a8984eef5d5192ead2c5e1ee55adff6c3f1211f99edb84b02079954f45dbc8"
 }

@@ -1088,6 +1088,7 @@
     "CUT": "Coupe",
     "DARKEST_LARIAT": "Dark Lariat",
     "DARK_PULSE": "Vibrobscur",
+    "DARK_PULSE_PLUS": "Vibrobscur+",
     "DAZZLING_GLEAM": "Éclat Magique",
     "DIG": "Tunnel",
     "DISARMING_VOICE": "Voix Enjôleuse",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "Élecanon+",
     "ZEN_HEADBUTT": "Psykoud’Boul"
   },
-  "revision": "sha256-782c7a49078841432769fef534d022ca39d75d145032beb6461c8b9e54b72a3f"
+  "revision": "sha256-f2d7c837f04f80d556f2678ad74fc3dbae83e8f86b017e8abb5ba20d662bfb73"
 }

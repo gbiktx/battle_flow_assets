@@ -1088,6 +1088,7 @@
     "CUT": "Corte",
     "DARKEST_LARIAT": "Lariat Oscuro",
     "DARK_PULSE": "Pulso Umbrío",
+    "DARK_PULSE_PLUS": "Pulso Umbrío+",
     "DAZZLING_GLEAM": "Brillo Mágico",
     "DIG": "Excavar",
     "DISARMING_VOICE": "Voz Cautivadora",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-fa868ffdb7227e19ac4d294a39e1c50c114f3e9adf0be1cfcde52bb9ad6b6530"
+  "revision": "sha256-4b11693b12012debed5aa5fe1fa1052f49ed3c53164df835400736ebc6c2131d"
 }
