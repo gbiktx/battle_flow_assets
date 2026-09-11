@@ -1088,6 +1088,7 @@
     "CUT": "Zerschneider",
     "DARKEST_LARIAT": "Dark Lariat",
     "DARK_PULSE": "Finsteraura",
+    "DARK_PULSE_PLUS": "Finsteraura+",
     "DAZZLING_GLEAM": "Zauberschein",
     "DIG": "Schaufler",
     "DISARMING_VOICE": "Säuselstimme",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "Blitzkanone+",
     "ZEN_HEADBUTT": "Zen-Kopfstoß"
   },
-  "revision": "sha256-8d2c2c37be0079ae999a103b48c33206115b81300010a12d9c34ea1211879067"
+  "revision": "sha256-35302e112d5532ff8a6eb346ac4f3ab9a0f5bfdfc8fe1114c0731802c67e4834"
 }

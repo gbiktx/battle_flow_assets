@@ -1088,6 +1088,7 @@
     "CUT": "居合斬",
     "DARKEST_LARIAT": "ＤＤ金勾臂",
     "DARK_PULSE": "惡之波動",
+    "DARK_PULSE_PLUS": "惡之波動+",
     "DAZZLING_GLEAM": "魔法閃耀",
     "DIG": "挖洞",
     "DISARMING_VOICE": "魅惑之聲",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "電磁炮+",
     "ZEN_HEADBUTT": "意念頭錘"
   },
-  "revision": "sha256-ad571dd317d9887c02d2d282d8fa59951d4d8f7cb2efb1cb83642cfb9432107d"
+  "revision": "sha256-fa876fa54f9e666224bc29de7c85ff972e617d4a6729e0c6f1439b1e80ad3e4e"
 }

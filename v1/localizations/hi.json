@@ -1088,6 +1088,7 @@
     "CUT": "कट",
     "DARKEST_LARIAT": "डार्केस्ट लैरीयट",
     "DARK_PULSE": "डार्क पल्स",
+    "DARK_PULSE_PLUS": "डार्क पल्स+",
     "DAZZLING_GLEAM": "डैज़्लिंग ग्लीम",
     "DIG": "खोदना",
     "DISARMING_VOICE": "चार्मिंग वॉइस",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "ज़ैप कैनन+",
     "ZEN_HEADBUTT": "ज़ेन हेडबट"
   },
-  "revision": "sha256-f9c71099bc07cd0d334bfa9387ba7cdbf9bf3d5c9a4e3b2e15a1a5b4ad2e6d18"
+  "revision": "sha256-28d7a31da20a84f4e73ad62a5f7f233c29dca5dbe07f889a6878ba8b9c2acda4"
 }

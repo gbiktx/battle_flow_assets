@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-09-08T23:56:45.517534Z",
+  "synced_at": "2026-09-11T02:24:16.339068Z",
   "source": "pvpoke/src/data/groups/megagreat.json",
   "cup_key": "mega-1500",
   "species_count": 51,
@@ -129,14 +129,6 @@
       "chargedMoves": [
         "PSYCHO_BOOST",
         "THUNDERBOLT"
-      ]
-    },
-    {
-      "speciesId": "dewgong",
-      "fastMove": "ICE_SHARD",
-      "chargedMoves": [
-        "ICY_WIND",
-        "DRILL_RUN"
       ]
     },
     {
@@ -432,11 +424,19 @@
       ]
     },
     {
-      "speciesId": "togekiss",
-      "fastMove": "PECK",
+      "speciesId": "vigoroth",
+      "fastMove": "SCRATCH",
       "chargedMoves": [
-        "PSYSHOCK",
-        "AURA_SPHERE"
+        "BODY_SLAM",
+        "BULLDOZE"
+      ]
+    },
+    {
+      "speciesId": "rillaboom",
+      "fastMove": "SCRATCH",
+      "chargedMoves": [
+        "DRUM_BEATING",
+        "EARTH_POWER"
       ]
     }
   ]
