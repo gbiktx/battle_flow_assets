@@ -50,7 +50,7 @@
       "name": "retro",
       "title": "Retro Cup",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-22T13:00:00-07:00",
@@ -200,7 +200,7 @@
       "name": "mega",
       "title": "Mega Great League",
       "cpLimit": "1500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-09-08T13:00:00-07:00",
@@ -375,7 +375,7 @@
       "active": false
     }
   ],
-  "version": "1.15",
+  "version": "1.16",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,

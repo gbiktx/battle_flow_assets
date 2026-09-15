@@ -1088,6 +1088,7 @@
     "CUT": "풀베기",
     "DARKEST_LARIAT": "DD래리어트",
     "DARK_PULSE": "악의파동",
+    "DARK_PULSE_PLUS": "악의파동+",
     "DAZZLING_GLEAM": "매지컬샤인",
     "DIG": "구멍파기",
     "DISARMING_VOICE": "차밍보이스",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "전자포+",
     "ZEN_HEADBUTT": "사념의박치기"
   },
-  "revision": "sha256-a9e54efdbdd1be1153d7ddd4f258f76af9f054a6f147be84172600529e0ccce8"
+  "revision": "sha256-eb00508f0d76d38d690308aa69664d472c4fd8817a9db40608cfad63d0d5ee4d"
 }

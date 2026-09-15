@@ -1088,6 +1088,7 @@
     "CUT": "Cut",
     "DARKEST_LARIAT": "Darkest Lariat",
     "DARK_PULSE": "Dark Pulse",
+    "DARK_PULSE_PLUS": "Dark Pulse+",
     "DAZZLING_GLEAM": "Dazzling Gleam",
     "DIG": "Dig",
     "DISARMING_VOICE": "Disarming Voice",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "Zap Cannon+",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-1730c140bc2c8c45fc124f7f1598923352aa1f9fe3eb5ee7929d634834b4c500"
+  "revision": "sha256-4894c199cb4b1d58ad09d63f52e0c28e54296f62ff6afa012bfc8837a9f7c8d5"
 }

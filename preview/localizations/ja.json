@@ -1088,6 +1088,7 @@
     "CUT": "いあいぎり",
     "DARKEST_LARIAT": "ＤＤラリアット",
     "DARK_PULSE": "あくのはどう",
+    "DARK_PULSE_PLUS": "あくのはどう+",
     "DAZZLING_GLEAM": "マジカルシャイン",
     "DIG": "あなをほる",
     "DISARMING_VOICE": "チャームボイス",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "でんじほう+",
     "ZEN_HEADBUTT": "しねんのずつき"
   },
-  "revision": "sha256-dc9be1c8b1c7e5274b8780dade4ddf69f0aa96d2d6125af22b39068c25565ff3"
+  "revision": "sha256-a41bcd9db6a1ed4abb1d0e57af89231247bdd066e3d7f22c426c4f47ce4a9e2f"
 }
