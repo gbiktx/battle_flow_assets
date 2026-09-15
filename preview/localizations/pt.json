@@ -1088,6 +1088,7 @@
     "CUT": "Cortar",
     "DARKEST_LARIAT": "Lariat Escuro",
     "DARK_PULSE": "Pulso Sombrio",
+    "DARK_PULSE_PLUS": "Pulso Sombrio+",
     "DAZZLING_GLEAM": "Clarão Deslumbrante",
     "DIG": "Cavar",
     "DISARMING_VOICE": "Voz Desarmante",
@@ -1378,5 +1379,5 @@
     "ZAP_CANNON_PLUS": "Canhão Zap+",
     "ZEN_HEADBUTT": "Cabeçada Zen"
   },
-  "revision": "sha256-4b9cb281c5b1161bb8b6b5f9ee739deb6bcb6cffceb5ff1c3b1d4b1382246d2b"
+  "revision": "sha256-2a25144b00cd0c22fc4fdf97abcc6a8948d78d776ce3a997e3ad83b8e4b0c970"
 }

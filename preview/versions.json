@@ -1,22 +1,22 @@
 {
-  "dataVersion": "1.15",
+  "dataVersion": "1.16",
   "forceAppVersion": "300",
   "latestAppVersion": "4.3.0",
   "gameTranslations": {
     "schemaVersion": 1,
     "revisions": {
-      "de": "sha256-8d2c2c37be0079ae999a103b48c33206115b81300010a12d9c34ea1211879067",
-      "en": "sha256-1730c140bc2c8c45fc124f7f1598923352aa1f9fe3eb5ee7929d634834b4c500",
-      "es": "sha256-fa868ffdb7227e19ac4d294a39e1c50c114f3e9adf0be1cfcde52bb9ad6b6530",
-      "es-419": "sha256-ec57c4bb1542b90317e72cb4f3d9dea0cb7d057ebac4f9f8e948ca6ae1227fbe",
-      "fr": "sha256-782c7a49078841432769fef534d022ca39d75d145032beb6461c8b9e54b72a3f",
-      "hi": "sha256-f9c71099bc07cd0d334bfa9387ba7cdbf9bf3d5c9a4e3b2e15a1a5b4ad2e6d18",
-      "it": "sha256-b2d8b0473ed582452d52b0ea841070d92cfaef12a1edfb79e23ade5fce102e36",
-      "ja": "sha256-dc9be1c8b1c7e5274b8780dade4ddf69f0aa96d2d6125af22b39068c25565ff3",
-      "ko": "sha256-a9e54efdbdd1be1153d7ddd4f258f76af9f054a6f147be84172600529e0ccce8",
-      "pt": "sha256-4b9cb281c5b1161bb8b6b5f9ee739deb6bcb6cffceb5ff1c3b1d4b1382246d2b",
-      "zh-Hans": "sha256-7bc9fd1e9ac5b501a027a68c9dad6a730881c2927d8c1bfe4aeb1885eed1aabe",
-      "zh-Hant": "sha256-ad571dd317d9887c02d2d282d8fa59951d4d8f7cb2efb1cb83642cfb9432107d"
+      "de": "sha256-35302e112d5532ff8a6eb346ac4f3ab9a0f5bfdfc8fe1114c0731802c67e4834",
+      "en": "sha256-4894c199cb4b1d58ad09d63f52e0c28e54296f62ff6afa012bfc8837a9f7c8d5",
+      "es": "sha256-4b11693b12012debed5aa5fe1fa1052f49ed3c53164df835400736ebc6c2131d",
+      "es-419": "sha256-edd746a77456a787c2606bd0b4eda2526221e02331c9138855f5990868568bfb",
+      "fr": "sha256-f2d7c837f04f80d556f2678ad74fc3dbae83e8f86b017e8abb5ba20d662bfb73",
+      "hi": "sha256-28d7a31da20a84f4e73ad62a5f7f233c29dca5dbe07f889a6878ba8b9c2acda4",
+      "it": "sha256-82a8984eef5d5192ead2c5e1ee55adff6c3f1211f99edb84b02079954f45dbc8",
+      "ja": "sha256-a41bcd9db6a1ed4abb1d0e57af89231247bdd066e3d7f22c426c4f47ce4a9e2f",
+      "ko": "sha256-eb00508f0d76d38d690308aa69664d472c4fd8817a9db40608cfad63d0d5ee4d",
+      "pt": "sha256-2a25144b00cd0c22fc4fdf97abcc6a8948d78d776ce3a997e3ad83b8e4b0c970",
+      "zh-Hans": "sha256-970544f30a192633b5456bcf7d053beb8a18a6332a0fd145b8b549f8ad2e0612",
+      "zh-Hant": "sha256-fa876fa54f9e666224bc29de7c85ff972e617d4a6729e0c6f1439b1e80ad3e4e"
     }
   }
 }
