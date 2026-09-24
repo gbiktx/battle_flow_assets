@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "Ossoclava",
     "BOOMBURST": "Ondaboato",
     "BRAVE_BIRD": "Baldeali",
+    "BRAVE_BIRD_PLUS": "Baldeali+",
     "BREAKING_SWIPE": "Vastoimpatto",
     "BRICK_BREAK": "Breccia",
     "BRICK_BREAK_PLUS": "Breccia+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "Falcecannone+",
     "ZEN_HEADBUTT": "Cozzata Zen"
   },
-  "revision": "sha256-82a8984eef5d5192ead2c5e1ee55adff6c3f1211f99edb84b02079954f45dbc8"
+  "revision": "sha256-f54e92d7874d47c3fbce9920cd7de603e3ed3761c083059fbdade35a1b1702ea"
 }

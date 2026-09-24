@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "ホネこんぼう",
     "BOOMBURST": "ばくおんぱ",
     "BRAVE_BIRD": "ブレイブバード",
+    "BRAVE_BIRD_PLUS": "ブレイブバード+",
     "BREAKING_SWIPE": "ワイドブレイカー",
     "BRICK_BREAK": "かわらわり",
     "BRICK_BREAK_PLUS": "かわらわり+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "でんじほう+",
     "ZEN_HEADBUTT": "しねんのずつき"
   },
-  "revision": "sha256-a41bcd9db6a1ed4abb1d0e57af89231247bdd066e3d7f22c426c4f47ce4a9e2f"
+  "revision": "sha256-d1634e7b401570842b73dc955b73449ef5f41dd6b29ab68c7a99829a02287209"
 }

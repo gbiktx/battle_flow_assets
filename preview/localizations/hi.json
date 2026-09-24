@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "बोन क्लब",
     "BOOMBURST": "बूमबर्स्ट",
     "BRAVE_BIRD": "ब्रेव बर्ड",
+    "BRAVE_BIRD_PLUS": "ब्रेव बर्ड+",
     "BREAKING_SWIPE": "ब्रेकिंग स्वाइप",
     "BRICK_BREAK": "ब्रिक ब्रेक",
     "BRICK_BREAK_PLUS": "ब्रिक ब्रेक+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "ज़ैप कैनन+",
     "ZEN_HEADBUTT": "ज़ेन हेडबट"
   },
-  "revision": "sha256-28d7a31da20a84f4e73ad62a5f7f233c29dca5dbe07f889a6878ba8b9c2acda4"
+  "revision": "sha256-57dfef343070c183b59e9200abbf7ef638fa635216f47aff699b85511b8088a4"
 }

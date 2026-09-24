@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "Bone Club",
     "BOOMBURST": "Boomburst",
     "BRAVE_BIRD": "Brave Bird",
+    "BRAVE_BIRD_PLUS": "Brave Bird+",
     "BREAKING_SWIPE": "Breaking Swipe",
     "BRICK_BREAK": "Brick Break",
     "BRICK_BREAK_PLUS": "Brick Break+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "Zap Cannon+",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-4894c199cb4b1d58ad09d63f52e0c28e54296f62ff6afa012bfc8837a9f7c8d5"
+  "revision": "sha256-3710b19723121a765d1dad5f9ed5a60b67c2c4477faf012a84cbd262a1f8a981"
 }
