@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "骨棒",
     "BOOMBURST": "爆音波",
     "BRAVE_BIRD": "勇鳥猛攻",
+    "BRAVE_BIRD_PLUS": "勇鳥猛攻+",
     "BREAKING_SWIPE": "廣域破壞",
     "BRICK_BREAK": "劈瓦",
     "BRICK_BREAK_PLUS": "劈瓦+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "電磁炮+",
     "ZEN_HEADBUTT": "意念頭錘"
   },
-  "revision": "sha256-fa876fa54f9e666224bc29de7c85ff972e617d4a6729e0c6f1439b1e80ad3e4e"
+  "revision": "sha256-c158870b1a2342e6ede1aa4cd7a8f64b2de5802f327568cca9fb63369c474b84"
 }

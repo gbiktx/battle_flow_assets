@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "Maza de Hueso",
     "BOOMBURST": "Estruendo",
     "BRAVE_BIRD": "Ave Brava",
+    "BRAVE_BIRD_PLUS": "Ave Brava+",
     "BREAKING_SWIPE": "Vasto Impacto",
     "BRICK_BREAK": "Karatazo",
     "BRICK_BREAK_PLUS": "Karatazo+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-edd746a77456a787c2606bd0b4eda2526221e02331c9138855f5990868568bfb"
+  "revision": "sha256-c10af5e78acd23932a2c5488121c95a7c1dfecddb00715c047e27795222a3660"
 }

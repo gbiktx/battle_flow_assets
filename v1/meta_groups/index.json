@@ -1,12 +1,10 @@
 {
-  "synced_at": "2026-09-15T22:46:50.517761Z",
+  "synced_at": "2026-09-24T23:32:49.715468Z",
   "groups": {
     "all-1500": "great.json",
     "retro-1500": "retro.json",
-    "willpower-1500": "willpower.json",
     "laic2027-1500": "laic2027.json",
     "all-2500": "ultra.json",
-    "mega-2500": "megaultra.json",
     "all-10000": "master.json",
     "mega-10000": "mega.json",
     "all-500": "little.json"
