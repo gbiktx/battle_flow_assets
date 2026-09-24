@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "Bastão de Osso",
     "BOOMBURST": "Rajada Explosiva",
     "BRAVE_BIRD": "Pássaro Bravo",
+    "BRAVE_BIRD_PLUS": "Pássaro Bravo+",
     "BREAKING_SWIPE": "Golpe Deslizante",
     "BRICK_BREAK": "Quebra-telha",
     "BRICK_BREAK_PLUS": "Quebra-telha+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "Canhão Zap+",
     "ZEN_HEADBUTT": "Cabeçada Zen"
   },
-  "revision": "sha256-2a25144b00cd0c22fc4fdf97abcc6a8948d78d776ce3a997e3ad83b8e4b0c970"
+  "revision": "sha256-819206b1c9d6368f0e9568ec309fa66c054cd30dffeeeecc3236dd2b8bcdf92e"
 }

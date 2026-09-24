@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "Massd’Os",
     "BOOMBURST": "Bang Sonique",
     "BRAVE_BIRD": "Rapace",
+    "BRAVE_BIRD_PLUS": "Rapace+",
     "BREAKING_SWIPE": "Abattage",
     "BRICK_BREAK": "Casse-Brique",
     "BRICK_BREAK_PLUS": "Casse-Brique+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "Élecanon+",
     "ZEN_HEADBUTT": "Psykoud’Boul"
   },
-  "revision": "sha256-f2d7c837f04f80d556f2678ad74fc3dbae83e8f86b017e8abb5ba20d662bfb73"
+  "revision": "sha256-3cc7e7cea0f11b1f03db748e9c801f2a5bf4dbfccbf054aef3f7a54c9186ce96"
 }

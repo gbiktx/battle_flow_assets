@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "Hueso Palo",
     "BOOMBURST": "Estruendo",
     "BRAVE_BIRD": "Pájaro Osado",
+    "BRAVE_BIRD_PLUS": "Pájaro Osado+",
     "BREAKING_SWIPE": "Vasto Impacto",
     "BRICK_BREAK": "Demolición",
     "BRICK_BREAK_PLUS": "Demolición+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-4b11693b12012debed5aa5fe1fa1052f49ed3c53164df835400736ebc6c2131d"
+  "revision": "sha256-cae9bda42204cd991b8b3e344bbab2748f0b763c33b6b10bcb4983b9953d751d"
 }

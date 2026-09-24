@@ -1061,6 +1061,7 @@
     "BONE_CLUB": "Knochenkeule",
     "BOOMBURST": "Überschallknall",
     "BRAVE_BIRD": "Sturzflug",
+    "BRAVE_BIRD_PLUS": "Sturzflug+",
     "BREAKING_SWIPE": "Breitseite",
     "BRICK_BREAK": "Durchbruch",
     "BRICK_BREAK_PLUS": "Durchbruch+",
@@ -1379,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "Blitzkanone+",
     "ZEN_HEADBUTT": "Zen-Kopfstoß"
   },
-  "revision": "sha256-35302e112d5532ff8a6eb346ac4f3ab9a0f5bfdfc8fe1114c0731802c67e4834"
+  "revision": "sha256-2d71d608156b28bb1a26d75c8861424edc61dc6c9ffac94f455003507f500ce5"
 }
