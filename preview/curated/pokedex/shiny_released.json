@@ -1,8 +1,9 @@
 {
- "_doc": "Released shinies (C1). Keys: dex (species level — its regular forms) or a catalog form id. Absence = unknown (null), never \"no shiny\". Shiny SPRITE existence is not evidence. Regenerate with scripts/pipeline/seed_shiny_released.dart.",
+ "_doc": "Released shinies (C1). Keys: dex (species level — its regular forms) or a catalog form id. \"unavailable\": dex with NO shiny art in the game (cannot be shiny). Anything in neither = unknown (null). Shiny SPRITE existence is not evidence. Regenerate with scripts/pipeline/seed_shiny_released.dart.",
  "_sources": {
   "pogoapi.net/api/v1/shiny_pokemon.json": "863 species; file last-modified 2026-01-31 (stale for later releases)",
-  "ScrapedDuck data branch (LeekDuck) canBeShiny": "164 keys; current rotation as of 2026-09-24"
+  "ScrapedDuck data branch (LeekDuck) canBeShiny": "164 keys; current rotation as of 2026-09-24",
+  "game model catalog (device pull)": "959 species with models; 7 have no shiny art → unavailable. Shiny art existing is NOT evidence."
  },
  "released": {
   "1": true,
@@ -895,5 +896,14 @@
   "VULPIX_ALOLA": true,
   "WEEZING_GALARIAN": true,
   "ZIGZAGOON_GALARIAN": true
- }
+ },
+ "unavailable": [
+  720,
+  721,
+  789,
+  802,
+  891,
+  892,
+  893
+ ]
 }
