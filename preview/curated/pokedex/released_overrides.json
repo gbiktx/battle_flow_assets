@@ -1,0 +1,11 @@
+{
+ "_doc": "Species catchable in Pokémon GO that PvPoke marks `released: false` (PvPoke's flag means usable in PvP, not catchable — Ditto is the clearest case). Default released = any PvPoke row not flagged false; this list adds to it. ⚠️ Seeded 2026-09-23 with certain cases only; the remaining PvPoke-unreleased species need checking during curation (C1). Never guess.",
+ "released": [
+  132,
+  292,
+  665,
+  789,
+  790
+ ],
+ "_verified": "2026-09-24: the 69 species still marked unreleased were checked against upstream PvPoke (gamemaster, 2026-09-20): all 69 are released=false there too, and none appear in ScrapedDuck's current raids/eggs/research/rocket data. Only catchable-but-not-battle-usable species belong in 'released' (Ditto, Shedinja, Spewpa, Cosmog, Cosmoem). Weak lead, unverified: the masterfile carries capture-bonus data for Silvally, Drednaw, Alcremie, Copperajah, Brambleghast, Scovillain, Rabsca, Palafin, Farigiraf, Archaludon — re-check when PvPoke updates."
+}

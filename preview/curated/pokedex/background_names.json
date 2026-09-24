@@ -1,0 +1,1156 @@
+{
+ "_doc": "Location Background display names (C1). Rule-built from the proto by scripts/pipeline/seed_background_names.dart — the client ships no name. Set \"reviewed\": true after fixing an entry by hand; the seed never overwrites a reviewed entry. \"unexpanded\" lists tokens the rules could not read.",
+ "names": {
+  "LC_TPC30_TW": {
+   "name": "TPC30 Taiwan",
+   "reviewed": false,
+   "unexpanded": [
+    "TPC30"
+   ]
+  },
+  "LC_TPC30_SG": {
+   "name": "TPC30 Singapore",
+   "reviewed": false,
+   "unexpanded": [
+    "TPC30"
+   ]
+  },
+  "LC_TPC30_PH": {
+   "name": "TPC30 Philippines",
+   "reviewed": false,
+   "unexpanded": [
+    "TPC30"
+   ]
+  },
+  "LC_TPC30_MY": {
+   "name": "TPC30 Malaysia",
+   "reviewed": false,
+   "unexpanded": [
+    "TPC30"
+   ]
+  },
+  "LC_TOKMUN_STAMP_03": {
+   "name": "Tokmun Stamp #3",
+   "reviewed": false
+  },
+  "LC_TOKMUN_STAMP_02": {
+   "name": "Tokmun Stamp #2",
+   "reviewed": false
+  },
+  "LC_TOKMUN_STAMP_01": {
+   "name": "Tokmun Stamp #1",
+   "reviewed": false
+  },
+  "LC_SPECIAL_BACKGROUND_2024_GLOBAL_GOFEST_ULTRA_WORMHOLE_001": {
+   "name": "GO Fest 2024 Global: Ultra Wormhole",
+   "reviewed": false
+  },
+  "LC_SPECIAL_BACKGROUND_2024_GLOBAL_GOFEST_SUN_ULTRA_WORMHOLE_001": {
+   "name": "GO Fest 2024 Global: Sun Ultra Wormhole",
+   "reviewed": false
+  },
+  "LC_SPECIAL_BACKGROUND_2024_GLOBAL_GOFEST_MOON_ULTRA_WORMHOLE_001": {
+   "name": "GO Fest 2024 Global: Moon Ultra Wormhole",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_TEAM_YELLOW": {
+   "name": "Team Yellow",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_TEAM_RED": {
+   "name": "Team Red",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_TEAM_BLUE": {
+   "name": "Team Blue",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_S24_SEP_2026": {
+   "name": "Season 24 September · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_POK2026": {
+   "name": "POK · 2026",
+   "reviewed": false,
+   "unexpanded": [
+    "POK"
+   ]
+  },
+  "LC_SPECIALBACKGROUND_OBSERVATORY_EXHIBITION_TOUR": {
+   "name": "Observatory Exhibition Tour",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_MIDAUTUMN_2026": {
+   "name": "Mid-Autumn · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_LEGO_2026_01": {
+   "name": "Lego · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_KR2025_LOTTE_01": {
+   "name": "Korea Lotte · 2025",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_GG2026": {
+   "name": "GG · 2026",
+   "reviewed": false,
+   "unexpanded": [
+    "GG"
+   ]
+  },
+  "LC_SPECIALBACKGROUND_EXTRA_2025_02": {
+   "name": "Extra · 2025 #2",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_EXTRA_2025_01": {
+   "name": "Extra · 2025 #1",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_CON2025": {
+   "name": "CON · 2025",
+   "reviewed": false,
+   "unexpanded": [
+    "CON"
+   ]
+  },
+  "LC_SPECIALBACKGROUND_BATIK_2026": {
+   "name": "Batik · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_WCS": {
+   "name": "World Championships 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_MEWTWO_002": {
+   "name": "Mewtwo · 2026 #2",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_MEWTWO_001": {
+   "name": "Mewtwo · 2026 #1",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_Y_001": {
+   "name": "Global Y · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_X_001": {
+   "name": "Global X · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_SILVER_001": {
+   "name": "Global Silver · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_SAPPHIRE_001": {
+   "name": "Global Sapphire · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_RUBY_001": {
+   "name": "Global Ruby · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_PEARL_001": {
+   "name": "Global Pearl · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_MEGA_002": {
+   "name": "Global Mega · 2026 #2",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_MEGA_001": {
+   "name": "Global Mega · 2026 #1",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_GOLD_001": {
+   "name": "Global Gold · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_GOFEST_001": {
+   "name": "GO Fest 2026 Global",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GLOBAL_DIAMOND_001": {
+   "name": "Global Diamond · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_COMMUNITYDAY": {
+   "name": "Community Day 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_ARRAIA": {
+   "name": "Arraia · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_10TH_ANNIVERSARY_001": {
+   "name": "10th Anniversary · 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_SEASON20": {
+   "name": "Season 20 · 2025",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_SEASON19": {
+   "name": "Season 19 · 2025",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_SEASON17": {
+   "name": "Season 17 · 2025",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_S18": {
+   "name": "Season 18 · 2025",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GOWA_GLOBAL": {
+   "name": "GO Wild Area 2025 Global",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOTOUR_WHITE_001": {
+   "name": "GO Tour 2025 Global: White",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOTOUR_BLACK_WHITE_001": {
+   "name": "GO Tour 2025 Global: Black White",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOTOUR_BLACK_001": {
+   "name": "GO Tour 2025 Global: Black",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_SWORD_CROWNED_001": {
+   "name": "GO Fest 2025 Global: Sword Crowned",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_SWORD_001": {
+   "name": "GO Fest 2025 Global: Sword",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_SHIELD_CROWNED_001": {
+   "name": "GO Fest 2025 Global: Shield Crowned",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_SHIELD_001": {
+   "name": "GO Fest 2025 Global: Shield",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_REGI_006": {
+   "name": "GO Fest 2025 Global: Regi #6",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_REGI_005": {
+   "name": "GO Fest 2025 Global: Regi #5",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_REGI_004": {
+   "name": "GO Fest 2025 Global: Regi #4",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_REGI_003": {
+   "name": "GO Fest 2025 Global: Regi #3",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_REGI_002": {
+   "name": "GO Fest 2025 Global: Regi #2",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_REGI_001": {
+   "name": "GO Fest 2025 Global: Regi #1",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_DD_001": {
+   "name": "GO Fest 2025 Global: DD",
+   "reviewed": false,
+   "unexpanded": [
+    "DD"
+   ]
+  },
+  "LC_SPECIALBACKGROUND_2025_GLOBAL_ENIGMA_001": {
+   "name": "Global Enigma · 2025",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2025_9THANNIVERSARY": {
+   "name": "9th Anniversary · 2025",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2024_GLOBAL_GOWA_001": {
+   "name": "GO Wild Area 2024 Global",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2024_GLOBAL_GOFEST_UMBRA_001": {
+   "name": "GO Fest 2024 Global: Umbra",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2024_GLOBAL_GOFEST_RADIANCE_001": {
+   "name": "GO Fest 2024 Global: Radiance",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2024_DECEMBERCDRECAP": {
+   "name": "December Community Day · 2024",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_10ANI2026": {
+   "name": "10th Anniversary 2026",
+   "reviewed": false
+  },
+  "LC_SAFARI_2026_RDJ": {
+   "name": "Safari 2026: Rio de Janeiro",
+   "reviewed": false
+  },
+  "LC_SAFARI_2026_MUNICH": {
+   "name": "Safari 2026: Munich",
+   "reviewed": false
+  },
+  "LC_SAFARI_2026_MARSEILLE": {
+   "name": "Safari 2026: Marseille",
+   "reviewed": false
+  },
+  "LC_SAFARI_2026_LISBON": {
+   "name": "Safari 2026: Lisbon",
+   "reviewed": false
+  },
+  "LC_SAFARI_2026_BRISBANE": {
+   "name": "Safari 2026: Brisbane",
+   "reviewed": false
+  },
+  "LC_SAFARI_2026_BOSTON": {
+   "name": "Safari 2026: Boston",
+   "reviewed": false
+  },
+  "LC_POKELID_YAMAGUCHI": {
+   "name": "Poké Lid Yamaguchi",
+   "reviewed": false
+  },
+  "LC_POKELID_YAMAGATA": {
+   "name": "Poké Lid Yamagata",
+   "reviewed": false
+  },
+  "LC_POKELID_WAKAYAMA": {
+   "name": "Poké Lid Wakayama",
+   "reviewed": false
+  },
+  "LC_POKELID_TOYAMA": {
+   "name": "Poké Lid Toyama",
+   "reviewed": false
+  },
+  "LC_POKELID_TOTTORI": {
+   "name": "Poké Lid Tottori",
+   "reviewed": false
+  },
+  "LC_POKELID_TOKYO": {
+   "name": "Poké Lid Tokyo",
+   "reviewed": false
+  },
+  "LC_POKELID_TOKUSHIMA": {
+   "name": "Poké Lid Tokushima",
+   "reviewed": false
+  },
+  "LC_POKELID_TOCHIGI": {
+   "name": "Poké Lid Tochigi",
+   "reviewed": false
+  },
+  "LC_POKELID_SHIZUOKA": {
+   "name": "Poké Lid Shizuoka",
+   "reviewed": false
+  },
+  "LC_POKELID_SHIMANE": {
+   "name": "Poké Lid Shimane",
+   "reviewed": false
+  },
+  "LC_POKELID_SHIGA": {
+   "name": "Poké Lid Shiga",
+   "reviewed": false
+  },
+  "LC_POKELID_SAITAMA": {
+   "name": "Poké Lid Saitama",
+   "reviewed": false
+  },
+  "LC_POKELID_SAGA": {
+   "name": "Poké Lid Saga",
+   "reviewed": false
+  },
+  "LC_POKELID_OSAKA": {
+   "name": "Poké Lid Osaka",
+   "reviewed": false
+  },
+  "LC_POKELID_OKINAWA": {
+   "name": "Poké Lid Okinawa",
+   "reviewed": false
+  },
+  "LC_POKELID_OKAYAMA": {
+   "name": "Poké Lid Okayama",
+   "reviewed": false
+  },
+  "LC_POKELID_NIIGATA": {
+   "name": "Poké Lid Niigata",
+   "reviewed": false
+  },
+  "LC_POKELID_NARA": {
+   "name": "Poké Lid Nara",
+   "reviewed": false
+  },
+  "LC_POKELID_NAGASAKI": {
+   "name": "Poké Lid Nagasaki",
+   "reviewed": false
+  },
+  "LC_POKELID_MIYAZAKI": {
+   "name": "Poké Lid Miyazaki",
+   "reviewed": false
+  },
+  "LC_POKELID_MIYAGI": {
+   "name": "Poké Lid Miyagi",
+   "reviewed": false
+  },
+  "LC_POKELID_MIE": {
+   "name": "Poké Lid Mie",
+   "reviewed": false
+  },
+  "LC_POKELID_KYOTO": {
+   "name": "Poké Lid Kyoto",
+   "reviewed": false
+  },
+  "LC_POKELID_KOCHI": {
+   "name": "Poké Lid Kochi",
+   "reviewed": false
+  },
+  "LC_POKELID_KANAGAWA": {
+   "name": "Poké Lid Kanagawa",
+   "reviewed": false
+  },
+  "LC_POKELID_KAGOSHIMA": {
+   "name": "Poké Lid Kagoshima",
+   "reviewed": false
+  },
+  "LC_POKELID_KAGAWA": {
+   "name": "Poké Lid Kagawa",
+   "reviewed": false
+  },
+  "LC_POKELID_IWATE": {
+   "name": "Poké Lid Iwate",
+   "reviewed": false
+  },
+  "LC_POKELID_ISHIKAWA": {
+   "name": "Poké Lid Ishikawa",
+   "reviewed": false
+  },
+  "LC_POKELID_IBARAKI": {
+   "name": "Poké Lid Ibaraki",
+   "reviewed": false
+  },
+  "LC_POKELID_HYOGO": {
+   "name": "Poké Lid Hyogo",
+   "reviewed": false
+  },
+  "LC_POKELID_HOKKAIDO": {
+   "name": "Poké Lid Hokkaido",
+   "reviewed": false
+  },
+  "LC_POKELID_GIFU": {
+   "name": "Poké Lid Gifu",
+   "reviewed": false
+  },
+  "LC_POKELID_FUKUSHIMA": {
+   "name": "Poké Lid Fukushima",
+   "reviewed": false
+  },
+  "LC_POKELID_FUKUOKA": {
+   "name": "Poké Lid Fukuoka",
+   "reviewed": false
+  },
+  "LC_POKELID_FUKUI": {
+   "name": "Poké Lid Fukui",
+   "reviewed": false
+  },
+  "LC_POKELID_EHIME": {
+   "name": "Poké Lid Ehime",
+   "reviewed": false
+  },
+  "LC_POKELID_CHIBA": {
+   "name": "Poké Lid Chiba",
+   "reviewed": false
+  },
+  "LC_POKELID_AOMORI": {
+   "name": "Poké Lid Aomori",
+   "reviewed": false
+  },
+  "LC_POKELID_AKITA": {
+   "name": "Poké Lid Akita",
+   "reviewed": false
+  },
+  "LC_POKELID_AICHI": {
+   "name": "Poké Lid Aichi",
+   "reviewed": false
+  },
+  "LC_NT_9": {
+   "name": "NT #9",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_8": {
+   "name": "NT #8",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_7": {
+   "name": "NT #7",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_6": {
+   "name": "NT #6",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_5": {
+   "name": "NT #5",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_4": {
+   "name": "NT #4",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_3": {
+   "name": "NT #3",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_27": {
+   "name": "NT #27",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_26": {
+   "name": "NT #26",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_25": {
+   "name": "NT #25",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_24": {
+   "name": "NT #24",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_23": {
+   "name": "NT #23",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_22": {
+   "name": "NT #22",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_21": {
+   "name": "NT #21",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_20": {
+   "name": "NT #20",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_2": {
+   "name": "NT #2",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_19": {
+   "name": "NT #19",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_18": {
+   "name": "NT #18",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_17": {
+   "name": "NT #17",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_16": {
+   "name": "NT #16",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_15": {
+   "name": "NT #15",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_14": {
+   "name": "NT #14",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_13": {
+   "name": "NT #13",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_12": {
+   "name": "NT #12",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_11": {
+   "name": "NT #11",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_10": {
+   "name": "NT #10",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_NT_1": {
+   "name": "NT #1",
+   "reviewed": false,
+   "unexpanded": [
+    "NT"
+   ]
+  },
+  "LC_JEJU_STAMP_RALLY": {
+   "name": "Jeju Stamp Rally",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_9": {
+   "name": "Japan Stamp Rally #9",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_8": {
+   "name": "Japan Stamp Rally #8",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_7": {
+   "name": "Japan Stamp Rally #7",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_6": {
+   "name": "Japan Stamp Rally #6",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_5": {
+   "name": "Japan Stamp Rally #5",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_4": {
+   "name": "Japan Stamp Rally #4",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_3": {
+   "name": "Japan Stamp Rally #3",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_2": {
+   "name": "Japan Stamp Rally #2",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_18": {
+   "name": "Japan Stamp Rally #18",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_17": {
+   "name": "Japan Stamp Rally #17",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_16": {
+   "name": "Japan Stamp Rally #16",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_15": {
+   "name": "Japan Stamp Rally #15",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_14": {
+   "name": "Japan Stamp Rally #14",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_13": {
+   "name": "Japan Stamp Rally #13",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_12": {
+   "name": "Japan Stamp Rally #12",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_11": {
+   "name": "Japan Stamp Rally #11",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_10": {
+   "name": "Japan Stamp Rally #10",
+   "reviewed": false
+  },
+  "LC_JAPAN_STAMP_RALLY_1": {
+   "name": "Japan Stamp Rally #1",
+   "reviewed": false
+  },
+  "LC_ID_CAR_FREE_DAY": {
+   "name": "Indonesia Car Free Day",
+   "reviewed": false
+  },
+  "LC_CR_2026_001": {
+   "name": "CR · 2026",
+   "reviewed": false,
+   "unexpanded": [
+    "CR"
+   ]
+  },
+  "LC_CITYSAFARI2025_SYDNEY": {
+   "name": "City Safari 2025: Sydney",
+   "reviewed": false
+  },
+  "LC_CITYSAFARI2025_MIAMI": {
+   "name": "City Safari 2025: Miami",
+   "reviewed": false
+  },
+  "LC_CITYSAFARI2025_BUENOSAIRES": {
+   "name": "City Safari 2025: Buenos Aires",
+   "reviewed": false
+  },
+  "LC_2026_TOKYO_GOFEST_001": {
+   "name": "GO Fest 2026: Tokyo",
+   "reviewed": false
+  },
+  "LC_2026_TAINAN_GOTOUR_001": {
+   "name": "GO Tour 2026: Tainan",
+   "reviewed": false
+  },
+  "LC_2026_SANFRANCISCO_WCS_001": {
+   "name": "World Championships 2026: San Francisco",
+   "reviewed": false
+  },
+  "LC_2026_RIODEJANEIRO_CARNIVAL_001": {
+   "name": "Carnival 2026: Rio de Janeiro",
+   "reviewed": false
+  },
+  "LC_2026_PPK_001": {
+   "name": "PPK · 2026",
+   "reviewed": false,
+   "unexpanded": [
+    "PPK"
+   ]
+  },
+  "LC_2026_NPB_013": {
+   "name": "NPB · 2026 #13",
+   "reviewed": false
+  },
+  "LC_2026_NPB_012": {
+   "name": "NPB · 2026 #12",
+   "reviewed": false
+  },
+  "LC_2026_NPB_011": {
+   "name": "NPB · 2026 #11",
+   "reviewed": false
+  },
+  "LC_2026_NPB_010": {
+   "name": "NPB · 2026 #10",
+   "reviewed": false
+  },
+  "LC_2026_NPB_009": {
+   "name": "NPB · 2026 #9",
+   "reviewed": false
+  },
+  "LC_2026_NPB_008": {
+   "name": "NPB · 2026 #8",
+   "reviewed": false
+  },
+  "LC_2026_NPB_007": {
+   "name": "NPB · 2026 #7",
+   "reviewed": false
+  },
+  "LC_2026_NPB_006": {
+   "name": "NPB · 2026 #6",
+   "reviewed": false
+  },
+  "LC_2026_NPB_005": {
+   "name": "NPB · 2026 #5",
+   "reviewed": false
+  },
+  "LC_2026_NPB_004": {
+   "name": "NPB · 2026 #4",
+   "reviewed": false
+  },
+  "LC_2026_NPB_003": {
+   "name": "NPB · 2026 #3",
+   "reviewed": false
+  },
+  "LC_2026_NPB_002": {
+   "name": "NPB · 2026 #2",
+   "reviewed": false
+  },
+  "LC_2026_NPB_001": {
+   "name": "NPB · 2026 #1",
+   "reviewed": false
+  },
+  "LC_2026_MLB_TBRAYS": {
+   "name": "MLB Tampa Bay Rays · 2026",
+   "reviewed": false
+  },
+  "LC_2026_LOSANGELES_GOTOUR_001": {
+   "name": "GO Tour 2026: Los Angeles",
+   "reviewed": false
+  },
+  "LC_2026_JP_RED": {
+   "name": "Japan Red · 2026",
+   "reviewed": false
+  },
+  "LC_2026_JP_GREEN": {
+   "name": "Japan Green · 2026",
+   "reviewed": false
+  },
+  "LC_2026_COPENHAGEN_GOFEST_001": {
+   "name": "GO Fest 2026: Copenhagen",
+   "reviewed": false
+  },
+  "LC_2026_COLOGNE_CARNIVAL_001": {
+   "name": "Carnival 2026: Cologne",
+   "reviewed": false
+  },
+  "LC_2026_CHICAGO_GOFEST_001": {
+   "name": "GO Fest 2026: Chicago",
+   "reviewed": false
+  },
+  "LC_2026_BR_001": {
+   "name": "Brazil · 2026",
+   "reviewed": false
+  },
+  "LC_2025_VANCOUVER_CITYSAFARI_001": {
+   "name": "City Safari 2025: Vancouver",
+   "reviewed": false
+  },
+  "LC_2025_VALENCIA_ROADTRIP_001": {
+   "name": "Road Trip 2025: Valencia",
+   "reviewed": false
+  },
+  "LC_2025_VALENCIA_CITYSAFARI_001": {
+   "name": "City Safari 2025: Valencia",
+   "reviewed": false
+  },
+  "LC_2025_TAIPEICITY_AMUSEMENT_PARK": {
+   "name": "Taipei City Amusement Park · 2025",
+   "reviewed": false
+  },
+  "LC_2025_PARIS_ROADTRIP_001": {
+   "name": "Road Trip 2025: Paris",
+   "reviewed": false
+  },
+  "LC_2025_PARIS_GOFEST_001": {
+   "name": "GO Fest 2025: Paris",
+   "reviewed": false
+  },
+  "LC_2025_PARIS_002": {
+   "name": "Paris · 2025 #2",
+   "reviewed": false
+  },
+  "LC_2025_PARIS_001": {
+   "name": "Paris · 2025 #1",
+   "reviewed": false
+  },
+  "LC_2025_OSAKA_GOFEST_001": {
+   "name": "GO Fest 2025: Osaka",
+   "reviewed": false
+  },
+  "LC_2025_OSAKA_EVENT_003": {
+   "name": "Osaka Event · 2025 #3",
+   "reviewed": false
+  },
+  "LC_2025_OSAKA_EVENT_002": {
+   "name": "Osaka Event · 2025 #2",
+   "reviewed": false
+  },
+  "LC_2025_OSAKA_EVENT_001": {
+   "name": "Osaka Event · 2025 #1",
+   "reviewed": false
+  },
+  "LC_2025_NFL_001": {
+   "name": "NFL · 2025",
+   "reviewed": false
+  },
+  "LC_2025_NEWTAIPEICITY_GOTOUR_001": {
+   "name": "GO Tour 2025: New Taipei City",
+   "reviewed": false
+  },
+  "LC_2025_MANCHESTER_ROADTRIP_001": {
+   "name": "Road Trip 2025: Manchester",
+   "reviewed": false
+  },
+  "LC_2025_LOSANGELES_GOTOUR_001": {
+   "name": "GO Tour 2025: Los Angeles",
+   "reviewed": false
+  },
+  "LC_2025_LONDON_ROADTRIP_001": {
+   "name": "Road Trip 2025: London",
+   "reviewed": false
+  },
+  "LC_2025_KR_PYEONGCHANG_WINTER_FESTIVAL": {
+   "name": "Korea Pyeongchang Winter Festival · 2025",
+   "reviewed": false
+  },
+  "LC_2025_JERSEYCITY_GOFEST_001": {
+   "name": "GO Fest 2025: Jersey City",
+   "reviewed": false
+  },
+  "LC_2025_JANGHEUNG_SUMMER_FESTIVAL": {
+   "name": "Jangheung Summer Festival · 2025",
+   "reviewed": false
+  },
+  "LC_2025_HAGUE_ROADTRIP_001": {
+   "name": "Road Trip 2025: The Hague",
+   "reviewed": false
+  },
+  "LC_2025_GOWA_NAGASAKI": {
+   "name": "GO Wild Area 2025: Nagasaki",
+   "reviewed": false
+  },
+  "LC_2025_COLOGNE_ROADTRIP_001": {
+   "name": "Road Trip 2025: Cologne",
+   "reviewed": false
+  },
+  "LC_2025_CHERRY_BLOSSOM_FESTIVAL": {
+   "name": "Cherry Blossom Festival · 2025",
+   "reviewed": false
+  },
+  "LC_2025_CANCUN_CITYSAFARI_001": {
+   "name": "City Safari 2025: Cancun",
+   "reviewed": false
+  },
+  "LC_2025_BERLIN_ROADTRIP_001": {
+   "name": "Road Trip 2025: Berlin",
+   "reviewed": false
+  },
+  "LC_2025_BANGKOK_CITYSAFARI_001": {
+   "name": "City Safari 2025: Bangkok",
+   "reviewed": false
+  },
+  "LC_2025_ANAHEIM_WORLD_CHAMPIONSHIPS_001": {
+   "name": "World Championships 2025: Anaheim",
+   "reviewed": false
+  },
+  "LC_2025_AMSTERDAM_CITYSAFARI_001": {
+   "name": "City Safari 2025: Amsterdam",
+   "reviewed": false
+  },
+  "LC_2024_YOGYAKARTA_AIRADVENTURES_001": {
+   "name": "Air Adventures 2024: Yogyakarta",
+   "reviewed": false
+  },
+  "LC_2024_TAINAN_CITYSAFARI_001": {
+   "name": "City Safari 2024: Tainan",
+   "reviewed": false
+  },
+  "LC_2024_SURABAYA_AIRADVENTURES_001": {
+   "name": "Air Adventures 2024: Surabaya",
+   "reviewed": false
+  },
+  "LC_2024_SINGAPORE_CITYSAFARI_001": {
+   "name": "City Safari 2024: Singapore",
+   "reviewed": false
+  },
+  "LC_2024_SENDAI_GOFEST_001": {
+   "name": "GO Fest 2024: Sendai",
+   "reviewed": false
+  },
+  "LC_2024_SAOPAULO_CITYSAFARI_001": {
+   "name": "City Safari 2024: São Paulo",
+   "reviewed": false
+  },
+  "LC_2024_SANTIAGO_CITYSAFARI_001": {
+   "name": "City Safari 2024: Santiago",
+   "reviewed": false
+  },
+  "LC_2024_NYC_GOFEST_001": {
+   "name": "GO Fest 2024: New York City",
+   "reviewed": false
+  },
+  "LC_2024_MUMBAI_CITYSAFARI_001": {
+   "name": "City Safari 2024: Mumbai",
+   "reviewed": false
+  },
+  "LC_2024_MLB_014": {
+   "name": "MLB · 2024 #14",
+   "reviewed": false
+  },
+  "LC_2024_MLB_013": {
+   "name": "MLB · 2024 #13",
+   "reviewed": false
+  },
+  "LC_2024_MLB_012": {
+   "name": "MLB · 2024 #12",
+   "reviewed": false
+  },
+  "LC_2024_MLB_011": {
+   "name": "MLB · 2024 #11",
+   "reviewed": false
+  },
+  "LC_2024_MLB_010": {
+   "name": "MLB · 2024 #10",
+   "reviewed": false
+  },
+  "LC_2024_MLB_009": {
+   "name": "MLB · 2024 #9",
+   "reviewed": false
+  },
+  "LC_2024_MLB_008": {
+   "name": "MLB · 2024 #8",
+   "reviewed": false
+  },
+  "LC_2024_MLB_007": {
+   "name": "MLB · 2024 #7",
+   "reviewed": false
+  },
+  "LC_2024_MLB_006": {
+   "name": "MLB · 2024 #6",
+   "reviewed": false
+  },
+  "LC_2024_MLB_005": {
+   "name": "MLB · 2024 #5",
+   "reviewed": false
+  },
+  "LC_2024_MLB_004": {
+   "name": "MLB · 2024 #4",
+   "reviewed": false
+  },
+  "LC_2024_MLB_003": {
+   "name": "MLB · 2024 #3",
+   "reviewed": false
+  },
+  "LC_2024_MLB_002": {
+   "name": "MLB · 2024 #2",
+   "reviewed": false
+  },
+  "LC_2024_MLB_001": {
+   "name": "MLB · 2024 #1",
+   "reviewed": false
+  },
+  "LC_2024_MILAN_CITYSAFARI_001": {
+   "name": "City Safari 2024: Milan",
+   "reviewed": false
+  },
+  "LC_2024_MADRID_GOFEST_001": {
+   "name": "GO Fest 2024: Madrid",
+   "reviewed": false
+  },
+  "LC_2024_LOSANGELES_GOTOUR_001": {
+   "name": "GO Tour 2024: Los Angeles",
+   "reviewed": false
+  },
+  "LC_2024_JAKARTA_AIRADVENTURES_001": {
+   "name": "Air Adventures 2024: Jakarta",
+   "reviewed": false
+  },
+  "LC_2024_INCHEON_SAFARI_ZONE_001": {
+   "name": "Safari 2024: Incheon Zone",
+   "reviewed": false
+  },
+  "LC_2024_HONOLULU_WORLD_CHAMPIONSHIPS_001": {
+   "name": "World Championships 2024: Honolulu",
+   "reviewed": false
+  },
+  "LC_2024_HONGKONG_CITYSAFARI_001": {
+   "name": "City Safari 2024: Hong Kong",
+   "reviewed": false
+  },
+  "LC_2024_FUKUOKA_GOWA_001": {
+   "name": "GO Wild Area 2024: Fukuoka",
+   "reviewed": false
+  },
+  "LC_2024_BALI_AIRADVENTURES_001": {
+   "name": "Air Adventures 2024: Bali",
+   "reviewed": false
+  },
+  "LC_2023_SEOUL_CITYSAFARI_001": {
+   "name": "City Safari 2023: Seoul",
+   "reviewed": false
+  },
+  "LC_2023_OSAKA_GOFEST_001": {
+   "name": "GO Fest 2023: Osaka",
+   "reviewed": false
+  },
+  "LC_2023_NYC_GOFEST_001": {
+   "name": "GO Fest 2023: New York City",
+   "reviewed": false
+  },
+  "LC_2023_MEXICOCITY_CITYSAFARI_001": {
+   "name": "City Safari 2023: Mexico City",
+   "reviewed": false
+  },
+  "LC_2023_LONDON_GOFEST_001": {
+   "name": "GO Fest 2023: London",
+   "reviewed": false
+  },
+  "LC_2023_LASVEGAS_GOTOUR_001": {
+   "name": "GO Tour 2023: Las Vegas",
+   "reviewed": false
+  },
+  "LC_2023_JEJU_AIRADVENTURES_001": {
+   "name": "Air Adventures 2023: Jeju",
+   "reviewed": false
+  },
+  "LC_2023_BARCELONA_CITYSAFARI_001": {
+   "name": "City Safari 2023: Barcelona",
+   "reviewed": false
+  }
+ }
+}
