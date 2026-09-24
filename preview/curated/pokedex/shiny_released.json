@@ -1002,5 +1002,6 @@
   816,
   817,
   818
- ]
+ ],
+ "_status": "2026-09-24 owner decision: NOT USED BY THE APP. No list here is accurate enough to tell a player a shiny is or is not out (Rplus stale since 2026-04-30, pogoapi since 2026-01-31; Sobble missed). The generator reads only 'unavailable' (no shiny art in the game's model catalog). Kept for reference."
 }
