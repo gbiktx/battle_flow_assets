@@ -18,5 +18,9 @@
       "zh-Hans": "sha256-970544f30a192633b5456bcf7d053beb8a18a6332a0fd145b8b549f8ad2e0612",
       "zh-Hant": "sha256-fa876fa54f9e666224bc29de7c85ff972e617d4a6729e0c6f1439b1e80ad3e4e"
     }
+  },
+  "pokedexCatalog": {
+    "schemaVersion": 1,
+    "revision": "sha256-480ece7a12cc4391072170ae79d1e482a5d60fa8743dcab9f1f917a5bd48f545"
   }
 }

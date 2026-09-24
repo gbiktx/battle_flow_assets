@@ -1,0 +1,447 @@
+{
+ "_doc": "Display name + category for every costume-field costume. `curated:false` = raw masterfile name, still to be named (C1). Verified names only — never guess.",
+ "costumes": {
+  "HOLIDAY_2016": {
+   "name": "Holiday 2016",
+   "curated": false,
+   "noEvolve": false
+  },
+  "ANNIVERSARY": {
+   "name": "Anniversary",
+   "curated": false,
+   "noEvolve": false
+  },
+  "ONE_YEAR_ANNIVERSARY": {
+   "name": "One Year Anniversary",
+   "curated": false,
+   "noEvolve": false
+  },
+  "HALLOWEEN_2017": {
+   "name": "Halloween 2017",
+   "curated": false,
+   "noEvolve": false
+  },
+  "SUMMER_2018": {
+   "name": "Summer 2018",
+   "curated": false,
+   "noEvolve": false
+  },
+  "FALL_2018": {
+   "name": "Fall 2018",
+   "curated": false,
+   "noEvolve": false
+  },
+  "NOVEMBER_2018": {
+   "name": "November 2018",
+   "curated": false,
+   "noEvolve": false
+  },
+  "WINTER_2018": {
+   "name": "Winter 2018",
+   "curated": false,
+   "noEvolve": false
+  },
+  "FEB_2019": {
+   "name": "February 2019",
+   "curated": false,
+   "noEvolve": false
+  },
+  "MAY_2019_NOEVOLVE": {
+   "name": "May 2019",
+   "curated": false,
+   "noEvolve": true
+  },
+  "JAN_2020_NOEVOLVE": {
+   "name": "Party hat",
+   "curated": true,
+   "noEvolve": true
+  },
+  "APRIL_2020_NOEVOLVE": {
+   "name": "April 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "SAFARI_2020_NOEVOLVE": {
+   "name": "Safari 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "SPRING_2020_NOEVOLVE": {
+   "name": "Pikachu hat",
+   "curated": true,
+   "noEvolve": true
+  },
+  "SUMMER_2020_NOEVOLVE": {
+   "name": "Summer 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "FALL_2020_NOEVOLVE": {
+   "name": "Fall 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "WINTER_2020_NOEVOLVE": {
+   "name": "Winter 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "NOT_FOR_RELEASE_ALPHA": {
+   "name": "Not For Release Alpha",
+   "curated": false,
+   "noEvolve": false
+  },
+  "NOT_FOR_RELEASE_BETA": {
+   "name": "Not For Release Beta",
+   "curated": false,
+   "noEvolve": false
+  },
+  "NOT_FOR_RELEASE_GAMMA": {
+   "name": "Not For Release Gamma",
+   "curated": false,
+   "noEvolve": false
+  },
+  "NOT_FOR_RELEASE_NOEVOLVE": {
+   "name": "Not For Release",
+   "curated": false,
+   "noEvolve": true
+  },
+  "KANTO_2020_NOEVOLVE": {
+   "name": "Kanto 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "JOHTO_2020_NOEVOLVE": {
+   "name": "Johto 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "HOENN_2020_NOEVOLVE": {
+   "name": "Hoenn 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "SINNOH_2020_NOEVOLVE": {
+   "name": "Sinnoh 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "HALLOWEEN_2020_NOEVOLVE": {
+   "name": "Halloween 2020",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_1": {
+   "name": "Costume 1",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_2": {
+   "name": "Costume 2",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_3": {
+   "name": "Costume 3",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_4": {
+   "name": "Costume 4",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_5": {
+   "name": "Costume 5",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_6": {
+   "name": "Costume 6",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_7": {
+   "name": "Costume 7",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_8": {
+   "name": "Costume 8",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_9": {
+   "name": "Costume 9",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_10": {
+   "name": "Costume 10",
+   "curated": false,
+   "noEvolve": false
+  },
+  "COSTUME_1_NOEVOLVE": {
+   "name": "Costume 1",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_2_NOEVOLVE": {
+   "name": "Costume 2",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_3_NOEVOLVE": {
+   "name": "Costume 3",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_4_NOEVOLVE": {
+   "name": "Costume 4",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_5_NOEVOLVE": {
+   "name": "Costume 5",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_6_NOEVOLVE": {
+   "name": "Costume 6",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_7_NOEVOLVE": {
+   "name": "Costume 7",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_8_NOEVOLVE": {
+   "name": "Costume 8",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_9_NOEVOLVE": {
+   "name": "Costume 9",
+   "curated": false,
+   "noEvolve": true
+  },
+  "COSTUME_10_NOEVOLVE": {
+   "name": "Costume 10",
+   "curated": false,
+   "noEvolve": true
+  },
+  "GOFEST_2021_NOEVOLVE": {
+   "name": "GO Fest 2021",
+   "curated": false,
+   "noEvolve": true
+  },
+  "FASHION_2021_NOEVOLVE": {
+   "name": "Fashion 2021",
+   "curated": false,
+   "noEvolve": true
+  },
+  "HALLOWEEN_2021_NOEVOLVE": {
+   "name": "Halloween 2021",
+   "curated": false,
+   "noEvolve": true
+  },
+  "GEMS_1_2021_NOEVOLVE": {
+   "name": "Gems 1 2021",
+   "curated": false,
+   "noEvolve": true
+  },
+  "GEMS_2_2021_NOEVOLVE": {
+   "name": "Gems 2 2021",
+   "curated": false,
+   "noEvolve": true
+  },
+  "HOLIDAY_2021_NOEVOLVE": {
+   "name": "Holiday 2021",
+   "curated": false,
+   "noEvolve": true
+  },
+  "TCG_2022_NOEVOLVE": {
+   "name": "TCG 2022",
+   "curated": false,
+   "noEvolve": true
+  },
+  "JAN_2022_NOEVOLVE": {
+   "name": "January 2022",
+   "curated": false,
+   "noEvolve": true
+  },
+  "GOFEST_2022_NOEVOLVE": {
+   "name": "GO Fest 2022",
+   "curated": false,
+   "noEvolve": true
+  },
+  "ANNIVERSARY_2022_NOEVOLVE": {
+   "name": "Anniversary 2022",
+   "curated": false,
+   "noEvolve": true
+  },
+  "FALL_2022": {
+   "name": "Fall 2022",
+   "curated": false,
+   "noEvolve": false
+  },
+  "FALL_2022_NOEVOLVE": {
+   "name": "Fall 2022",
+   "curated": false,
+   "noEvolve": true
+  },
+  "HOLIDAY_2022": {
+   "name": "Holiday 2022",
+   "curated": false,
+   "noEvolve": false
+  },
+  "JAN_2023_NOEVOLVE": {
+   "name": "January 2023",
+   "curated": false,
+   "noEvolve": true
+  },
+  "GOTOUR_2023_BANDANA_NOEVOLVE": {
+   "name": "GO Tour 2023 · Bandana",
+   "curated": false,
+   "noEvolve": true
+  },
+  "GOTOUR_2023_HAT_NOEVOLVE": {
+   "name": "GO Tour 2023 · Hat",
+   "curated": false,
+   "noEvolve": true
+  },
+  "SPRING_2023": {
+   "name": "Spring 2023",
+   "curated": false,
+   "noEvolve": false
+  },
+  "SPRING_2023_MYSTIC": {
+   "name": "Spring 2023 · Mystic",
+   "curated": false,
+   "noEvolve": false
+  },
+  "SPRING_2023_VALOR": {
+   "name": "Spring 2023 · Valor",
+   "curated": false,
+   "noEvolve": false
+  },
+  "SPRING_2023_INSTINCT": {
+   "name": "Spring 2023 · Instinct",
+   "curated": false,
+   "noEvolve": false
+  },
+  "NIGHTCAP": {
+   "name": "Nightcap",
+   "curated": false,
+   "noEvolve": false
+  },
+  "MAY_2023": {
+   "name": "May 2023",
+   "curated": false,
+   "noEvolve": false
+  },
+  "PI": {
+   "name": "Pi",
+   "curated": false,
+   "noEvolve": false
+  },
+  "FALL_2023": {
+   "name": "Fall 2023",
+   "curated": false,
+   "noEvolve": false
+  },
+  "FALL_2023_NOEVOLVE": {
+   "name": "Fall 2023",
+   "curated": false,
+   "noEvolve": true
+  },
+  "PI_NOEVOLVE": {
+   "name": "Pi",
+   "curated": false,
+   "noEvolve": true
+  },
+  "HOLIDAY_2023": {
+   "name": "Holiday 2023",
+   "curated": false,
+   "noEvolve": false
+  },
+  "JAN_2024": {
+   "name": "January 2024",
+   "curated": false,
+   "noEvolve": false
+  },
+  "SPRING_2024": {
+   "name": "Spring 2024",
+   "curated": false,
+   "noEvolve": false
+  },
+  "SUMMER_2024": {
+   "name": "Summer 2024",
+   "curated": false,
+   "noEvolve": false
+  },
+  "ANNIVERSARY_2024": {
+   "name": "Anniversary 2024",
+   "curated": false,
+   "noEvolve": false
+  },
+  "FALL_2024": {
+   "name": "Fall 2024",
+   "curated": false,
+   "noEvolve": false
+  },
+  "WINTER_2024": {
+   "name": "Winter 2024",
+   "curated": false,
+   "noEvolve": false
+  },
+  "FASHION_2025": {
+   "name": "Fashion 2025",
+   "curated": false,
+   "noEvolve": false
+  },
+  "HORIZONS_2025_NOEVOLVE": {
+   "name": "Horizons 2025",
+   "curated": false,
+   "noEvolve": true
+  },
+  "ROYAL_NOEVOLVE": {
+   "name": "Royal",
+   "curated": false,
+   "noEvolve": true
+  },
+  "INDONESIA_2025_NOEVOLVE": {
+   "name": "Indonesia 2025",
+   "curated": false,
+   "noEvolve": true
+  },
+  "HALLOWEEN_2025": {
+   "name": "Halloween 2025",
+   "curated": false,
+   "noEvolve": false
+  },
+  "SPRING_2026_A": {
+   "name": "Spring 2026 · A",
+   "curated": false,
+   "noEvolve": false
+  },
+  "SPRING_2026_B": {
+   "name": "Spring 2026 · B",
+   "curated": false,
+   "noEvolve": false
+  },
+  "GOTOUR_2023_HAT": {
+   "name": "GO Tour 2023 · Hat",
+   "curated": false,
+   "noEvolve": false,
+   "note": "In asset filenames but absent from the masterfile costume enum (2026-09-23)"
+  },
+  "GOTOUR_2023_BANDANA": {
+   "name": "GO Tour 2023 · Bandana",
+   "curated": false,
+   "noEvolve": false,
+   "note": "In asset filenames but absent from the masterfile costume enum (2026-09-23)"
+  }
+ }
+}
