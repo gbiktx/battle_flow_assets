@@ -21,6 +21,21 @@
   },
   "pokedexCatalog": {
     "schemaVersion": 1,
-    "revision": "sha256-069ca1c9ae5de4c9e382a9de47626da2178f6378fd26a6243b67438373450396"
+    "revision": "sha256-4b9329a1baa8c961c0771e8163dcece09d5a21ae5f73ee41bdbea0ce8b32de2c"
+  },
+  "pokedexEntries": {
+    "schemaVersion": 1,
+    "revisions": {
+      "en": "sha256-71a095d05ea57471d3f5376df3f4d32f99e4a25dccc9fe22dba69404ff14e72f",
+      "de": "sha256-7e9e4541613608680c0d0c5c0dc3d04fd9d6355472265ca2771f78cf1899aff7",
+      "es": "sha256-3cbe7b8f7ce01cf27d164e0e4f9fef2f2de1b3aa8b20737b332cfbdc1049fecf",
+      "es-419": "sha256-a53c6001b89715ff4c2f82dd234e6d281a20cc72e9394ee977b67261f653b4ff",
+      "fr": "sha256-a0c601431f534155965953c05779d966a0e60ee764ecca6f12c704822e072b10",
+      "it": "sha256-87b9a1226bcbcad2e4c8135cd8159f63223fa5b72069da732df11436f1325e71",
+      "ja": "sha256-68e925cae73449f41cb1b3bf90499463fa8dac9f3fa7c96862a825298624eeca",
+      "ko": "sha256-c3106a0903ee6b142ff05e4850af01820253e799de58bba22a92fbba6171ce78",
+      "pt": "sha256-31061141e1fea19bebec26cc17897f0af26500674f0201e9531213a6c92e835a",
+      "zh-Hant": "sha256-627462662dd947276724accf5d9fa937f5c965bf7c72b387962d0d4839287fde"
+    }
   }
 }
