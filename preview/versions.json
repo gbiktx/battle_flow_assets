@@ -37,5 +37,9 @@
       "pt": "sha256-edb966b3f3f0784ad9f4a1c41a1f83da35c722e518334b3a547b90d8d603d2d4",
       "zh-Hant": "sha256-cc128cef5fb6b6e97cd5cf606f781fc1a5633160a399bc5b4daed14a30a68392"
     }
+  },
+  "pve": {
+    "schemaVersion": 1,
+    "revision": "sha256-4fbbcc664bce0fb9643c8e8ea730ed9fbaf8cf2e99ae057c060e969abd7b3d5c"
   }
 }
