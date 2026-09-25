@@ -21,7 +21,7 @@
   },
   "pokedexCatalog": {
     "schemaVersion": 1,
-    "revision": "sha256-4b9329a1baa8c961c0771e8163dcece09d5a21ae5f73ee41bdbea0ce8b32de2c"
+    "revision": "sha256-e33a706bf567753ee82d4c8e04e9879b262869c6eba200a2f03849fb801c5fcf"
   },
   "pokedexEntries": {
     "schemaVersion": 1,
@@ -40,6 +40,6 @@
   },
   "pve": {
     "schemaVersion": 1,
-    "revision": "sha256-4fbbcc664bce0fb9643c8e8ea730ed9fbaf8cf2e99ae057c060e969abd7b3d5c"
+    "revision": "sha256-643cec4536dd2539ebb4730d028b3e7c8d44ee3f8677be57cebbadea999d9362"
   }
 }
