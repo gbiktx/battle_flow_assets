@@ -1,6 +1,13 @@
 {
  "_doc": "Overrides for FORM entries. Default category rule: *_NORMAL → regular; ALOLA/GALARIAN/HISUIAN/PALDEA suffix → regionalForm; isCostume OR a _20xx year in the proto → costume; otherwise formVariant. This table has the last word. `name` only when verified.",
  "forms": {
+  "ARCEUS_FLYING": {
+   "names": {
+    "ko": "비행타입",
+    "zh-Hant": "飛行屬性"
+   },
+   "note": "The client table ships the English 'Flying-Type' as its ko and zh-Hant text (i18n_ko-kr / i18n_zh-tw form_arceus_flying, pulled 2026-09-25). Pinned to the localized value the catalog carried before that pull (catalog revision sha256-e33a706b) — decision 2026-09-27, battle-flow-4a."
+  },
   "MEWTWO_A": {
    "category": "regular",
    "note": "Armored Mewtwo — flagged isCostume in the GM, not a costume to a collector",
