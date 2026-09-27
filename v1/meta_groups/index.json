@@ -1,10 +1,13 @@
 {
-  "synced_at": "2026-09-24T23:32:49.715468Z",
+  "synced_at": "2026-09-27T17:31:34.130221Z",
   "groups": {
     "all-1500": "great.json",
     "retro-1500": "retro.json",
+    "colormega-1500": "colormega.json",
+    "mega-1500": "megagreat.json",
     "laic2027-1500": "laic2027.json",
     "all-2500": "ultra.json",
+    "mega-2500": "megaultra.json",
     "all-10000": "master.json",
     "mega-10000": "mega.json",
     "all-500": "little.json"

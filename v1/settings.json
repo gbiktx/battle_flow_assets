@@ -78,7 +78,13 @@
       "name": "color",
       "title": "Color Cup",
       "cpLimit": "1500",
-      "active": false,
+      "active": false
+    },
+    {
+      "name": "colormega",
+      "title": "Mega Color Cup",
+      "cpLimit": "1500",
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-29T13:00:00-07:00",
@@ -232,7 +238,7 @@
       "name": "mega",
       "title": "Mega Great League",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-01T13:00:00-07:00",
@@ -326,7 +332,7 @@
       "name": "mega",
       "title": "Mega Ultra League",
       "cpLimit": "2500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-01T13:00:00-07:00",
@@ -445,7 +451,7 @@
       "active": false
     }
   ],
-  "version": "1.24",
+  "version": "1.26",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,

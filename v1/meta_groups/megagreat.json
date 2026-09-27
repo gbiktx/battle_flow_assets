@@ -1,11 +1,9 @@
 {
-  "synced_at": "2026-09-11T02:24:16.339068Z",
+  "synced_at": "2026-09-27T17:24:54.060673Z",
   "source": "pvpoke/src/data/groups/megagreat.json",
   "cup_key": "mega-1500",
-  "species_count": 51,
+  "species_count": 50,
   "duplicates_removed": [
-    "forretress_shadow",
-    "quagsire_shadow",
     "sableye_mega"
   ],
   "entries": [
@@ -132,14 +130,6 @@
       ]
     },
     {
-      "speciesId": "diggersby",
-      "fastMove": "MUD_SHOT",
-      "chargedMoves": [
-        "FIRE_PUNCH",
-        "SCORCHING_SANDS"
-      ]
-    },
-    {
       "speciesId": "dondozo",
       "fastMove": "WATERFALL",
       "chargedMoves": [
@@ -200,7 +190,7 @@
       "speciesId": "florges",
       "fastMove": "FAIRY_WIND",
       "chargedMoves": [
-        "DISARMING_VOICE",
+        "MOONBLAST",
         "CHILLING_WATER"
       ]
     },
@@ -228,21 +218,13 @@
       ]
     },
     {
-      "speciesId": "guzzlord",
-      "fastMove": "DRAGON_TAIL",
+      "speciesId": "houndoom_mega",
+      "fastMove": "INCINERATE",
       "chargedMoves": [
-        "BRUTAL_SWING",
-        "SLUDGE_BOMB"
+        "FLAMETHROWER",
+        "TRAILBLAZE",
+        "DARK_PULSE_PLUS"
       ]
-    },
-    {
-      "speciesId": "hippowdon_shadow",
-      "fastMove": "SAND_ATTACK",
-      "chargedMoves": [
-        "WEATHER_BALL_ROCK",
-        "EARTH_POWER"
-      ],
-      "shadowType": "shadow"
     },
     {
       "speciesId": "jellicent",
@@ -347,9 +329,25 @@
       "fastMove": "MUD_SHOT",
       "chargedMoves": [
         "AQUA_TAIL",
-        "MUD_BOMB"
+        "STONE_EDGE"
       ],
       "shadowType": "shadow"
+    },
+    {
+      "speciesId": "rillaboom",
+      "fastMove": "SCRATCH",
+      "chargedMoves": [
+        "DRUM_BEATING",
+        "EARTH_POWER"
+      ]
+    },
+    {
+      "speciesId": "sableye",
+      "fastMove": "SHADOW_CLAW",
+      "chargedMoves": [
+        "FOUL_PLAY",
+        "POWER_GEM"
+      ]
     },
     {
       "speciesId": "sableye_mega",
@@ -357,37 +355,14 @@
       "chargedMoves": [
         "FOUL_PLAY",
         "DAZZLING_GLEAM"
-      ],
-      "level": 29,
-      "ivs": [
-        4,
-        13,
-        15
       ]
     },
     {
       "speciesId": "sableye_shadow",
       "fastMove": "SHADOW_CLAW",
       "chargedMoves": [
-        "DRAIN_PUNCH",
-        "POWER_GEM"
-      ],
-      "shadowType": "shadow"
-    },
-    {
-      "speciesId": "snorlax",
-      "fastMove": "PSYWAVE",
-      "chargedMoves": [
-        "BODY_SLAM",
-        "EARTHQUAKE"
-      ]
-    },
-    {
-      "speciesId": "snorlax_shadow",
-      "fastMove": "PSYWAVE",
-      "chargedMoves": [
-        "BODY_SLAM",
-        "SUPER_POWER"
+        "FOUL_PLAY",
+        "DRAIN_PUNCH"
       ],
       "shadowType": "shadow"
     },
@@ -424,6 +399,14 @@
       ]
     },
     {
+      "speciesId": "umbreon",
+      "fastMove": "SNARL",
+      "chargedMoves": [
+        "DARK_PULSE",
+        "LAST_RESORT"
+      ]
+    },
+    {
       "speciesId": "vigoroth",
       "fastMove": "SCRATCH",
       "chargedMoves": [
@@ -432,12 +415,13 @@
       ]
     },
     {
-      "speciesId": "rillaboom",
-      "fastMove": "SCRATCH",
+      "speciesId": "hydreigon_shadow",
+      "fastMove": "DRAGON_BREATH",
       "chargedMoves": [
-        "DRUM_BEATING",
-        "EARTH_POWER"
-      ]
+        "BRUTAL_SWING",
+        "FLY"
+      ],
+      "shadowType": "shadow"
     }
   ]
 }
