@@ -1,5 +1,5 @@
 {
-  "dataVersion": "1.19",
+  "dataVersion": "1.20",
   "forceAppVersion": "4.3.0",
   "latestAppVersion": "4.4.0",
   "gameTranslations": {
@@ -21,7 +21,7 @@
   },
   "pokedexCatalog": {
     "schemaVersion": 1,
-    "revision": "sha256-e33a706bf567753ee82d4c8e04e9879b262869c6eba200a2f03849fb801c5fcf"
+    "revision": "sha256-0743fc94ba08b53c2a39bec24268fc703cab0c1e9d1a2055751d41a9774b70c5"
   },
   "pokedexEntries": {
     "schemaVersion": 1,
