@@ -242,6 +242,7 @@
       "name": "colormega",
       "title": "Mega Color Cup",
       "cpLimit": "1500",
+      "badge": "images/cups/megacolor.png",
       "active": true,
       "schedule": [
         {
