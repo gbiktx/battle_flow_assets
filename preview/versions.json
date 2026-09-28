@@ -40,10 +40,10 @@
   },
   "pve": {
     "schemaVersion": 1,
-    "revision": "sha256-9a47a13441a5d632ae160c900f9db6b3717b6b2b5c9fbf571fc31a9f833ecee2"
+    "revision": "sha256-32bdaef06f8d053eca14c3872098371fe05e7e2a7611f00729cfae4f15276dac"
   },
   "raidBosses": {
     "schemaVersion": 1,
-    "revision": "sha256-f9670874ac0ed1f0133ca41a3091d1e4e73e2b5e632822f000fecab2543e7da2"
+    "revision": "sha256-4199c7d7c9b0e8bcd7d3142ae0c816b2578366b92fe23be0c018c987aec086f2"
   }
 }
