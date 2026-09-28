@@ -14834,7 +14834,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WRAP",
-    "damageWindowStartMs": 2150
+    "damageWindowStartMs": 2150,
+    "power": 60.0,
+    "durationMs": 3000
    }
   }
  },
@@ -14852,7 +14854,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HYPER_BEAM",
-    "damageWindowStartMs": 3500
+    "damageWindowStartMs": 3500,
+    "power": 150.0,
+    "durationMs": 4000
    }
   }
  },
@@ -14879,7 +14883,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DARK_PULSE",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 80.0,
+    "durationMs": 3000
    }
   }
  },
@@ -14906,7 +14912,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SLUDGE",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -14933,7 +14941,9 @@
   "data": {
    "moveSettings": {
     "movementId": "VICE_GRIP",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 35.0,
+    "durationMs": 2000
    }
   }
  },
@@ -14951,7 +14961,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FLAME_WHEEL",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 55.0,
+    "durationMs": 2500
    }
   }
  },
@@ -14969,7 +14981,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MEGAHORN",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 105.0,
+    "durationMs": 2000
    }
   }
  },
@@ -14996,7 +15010,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FLAMETHROWER",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 65.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15023,7 +15039,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DIG",
-    "damageWindowStartMs": 2600
+    "damageWindowStartMs": 2600,
+    "power": 100.0,
+    "durationMs": 4500
    }
   }
  },
@@ -15050,7 +15068,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CROSS_CHOP",
-    "damageWindowStartMs": 800
+    "damageWindowStartMs": 800,
+    "power": 50.0,
+    "durationMs": 1500
    }
   }
  },
@@ -15077,7 +15097,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PSYBEAM",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 65.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15095,7 +15117,9 @@
   "data": {
    "moveSettings": {
     "movementId": "EARTHQUAKE",
-    "damageWindowStartMs": 2600
+    "damageWindowStartMs": 2600,
+    "power": 140.0,
+    "durationMs": 3500
    }
   }
  },
@@ -15113,7 +15137,9 @@
   "data": {
    "moveSettings": {
     "movementId": "STONE_EDGE",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 105.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15131,7 +15157,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ICE_PUNCH",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15149,7 +15177,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HEART_STAMP",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 40.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15167,7 +15197,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DISCHARGE",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 65.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15185,7 +15217,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FLASH_CANNON",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 100.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15212,7 +15246,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRILL_PECK",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 70.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15230,7 +15266,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ICE_BEAM",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 95.0,
+    "durationMs": 3500
    }
   }
  },
@@ -15248,7 +15286,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BLIZZARD",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 130.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15275,7 +15315,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HEAT_WAVE",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 95.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15311,7 +15353,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AERIAL_ACE",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 55.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15329,7 +15373,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRILL_RUN",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 85.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15347,7 +15393,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PETAL_BLIZZARD",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 110.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15365,7 +15413,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MEGA_DRAIN",
-    "damageWindowStartMs": 850
+    "damageWindowStartMs": 850,
+    "power": 25.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15383,7 +15433,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BUG_BUZZ",
-    "damageWindowStartMs": 1800
+    "damageWindowStartMs": 1800,
+    "power": 95.0,
+    "durationMs": 3500
    }
   }
  },
@@ -15401,7 +15453,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POISON_FANG",
-    "damageWindowStartMs": 700
+    "damageWindowStartMs": 700,
+    "power": 30.0,
+    "durationMs": 1500
    }
   }
  },
@@ -15419,7 +15473,9 @@
   "data": {
    "moveSettings": {
     "movementId": "NIGHT_SLASH",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 45.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15446,7 +15502,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BUBBLE_BEAM",
-    "damageWindowStartMs": 1550
+    "damageWindowStartMs": 1550,
+    "power": 45.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15464,7 +15522,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SUBMISSION",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 55.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15491,7 +15551,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LOW_SWEEP",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 40.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15509,7 +15571,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AQUA_JET",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 45.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15527,7 +15591,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AQUA_TAIL",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15545,7 +15611,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SEED_BOMB",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 55.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15563,7 +15631,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PSYSHOCK",
-    "damageWindowStartMs": 1800
+    "damageWindowStartMs": 1800,
+    "power": 60.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15590,7 +15660,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ANCIENT_POWER",
-    "damageWindowStartMs": 2850
+    "damageWindowStartMs": 2850,
+    "power": 70.0,
+    "durationMs": 3500
    }
   }
  },
@@ -15608,7 +15680,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ROCK_TOMB",
-    "damageWindowStartMs": 2050
+    "damageWindowStartMs": 2050,
+    "power": 65.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15626,7 +15700,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ROCK_SLIDE",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 75.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15644,7 +15720,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POWER_GEM",
-    "damageWindowStartMs": 2050
+    "damageWindowStartMs": 2050,
+    "power": 80.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15662,7 +15740,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SHADOW_SNEAK",
-    "damageWindowStartMs": 2300
+    "damageWindowStartMs": 2300,
+    "power": 50.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15680,7 +15760,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SHADOW_PUNCH",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 35.0,
+    "durationMs": 1500
    }
   }
  },
@@ -15707,7 +15789,9 @@
   "data": {
    "moveSettings": {
     "movementId": "OMINOUS_WIND",
-    "damageWindowStartMs": 2050
+    "damageWindowStartMs": 2050,
+    "power": 55.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15725,7 +15809,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SHADOW_BALL",
-    "damageWindowStartMs": 2400
+    "damageWindowStartMs": 2400,
+    "power": 100.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15752,7 +15838,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MAGNET_BOMB",
-    "damageWindowStartMs": 2400
+    "damageWindowStartMs": 2400,
+    "power": 75.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15779,7 +15867,9 @@
   "data": {
    "moveSettings": {
     "movementId": "IRON_HEAD",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 60.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15797,7 +15887,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PARABOLIC_CHARGE",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 70.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15824,7 +15916,9 @@
   "data": {
    "moveSettings": {
     "movementId": "THUNDER_PUNCH",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -15842,7 +15936,9 @@
   "data": {
    "moveSettings": {
     "movementId": "THUNDER",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 100.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15860,7 +15956,9 @@
   "data": {
    "moveSettings": {
     "movementId": "THUNDERBOLT",
-    "damageWindowStartMs": 1800
+    "damageWindowStartMs": 1800,
+    "power": 80.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15878,7 +15976,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TWISTER",
-    "damageWindowStartMs": 1150
+    "damageWindowStartMs": 1150,
+    "power": 50.0,
+    "durationMs": 3000
    }
   }
  },
@@ -15905,7 +16005,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRAGON_PULSE",
-    "damageWindowStartMs": 2050
+    "damageWindowStartMs": 2050,
+    "power": 90.0,
+    "durationMs": 3500
    }
   }
  },
@@ -15923,7 +16025,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRAGON_CLAW",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 45.0,
+    "durationMs": 1500
    }
   }
  },
@@ -15941,7 +16045,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DISARMING_VOICE",
-    "damageWindowStartMs": 3300
+    "damageWindowStartMs": 3300,
+    "power": 70.0,
+    "durationMs": 4000
    }
   }
  },
@@ -15959,7 +16065,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRAINING_KISS",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 60.0,
+    "durationMs": 2500
    }
   }
  },
@@ -15977,7 +16085,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DAZZLING_GLEAM",
-    "damageWindowStartMs": 2100
+    "damageWindowStartMs": 2100,
+    "power": 100.0,
+    "durationMs": 3500
    }
   }
  },
@@ -15995,7 +16105,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MOONBLAST",
-    "damageWindowStartMs": 2300
+    "damageWindowStartMs": 2300,
+    "power": 130.0,
+    "durationMs": 4000
    }
   }
  },
@@ -16013,7 +16125,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PLAY_ROUGH",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 90.0,
+    "durationMs": 3000
    }
   }
  },
@@ -16031,7 +16145,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CROSS_POISON",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 40.0,
+    "durationMs": 1500
    }
   }
  },
@@ -16049,7 +16165,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SLUDGE_BOMB",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 85.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16067,7 +16185,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SLUDGE_WAVE",
-    "damageWindowStartMs": 1800
+    "damageWindowStartMs": 1800,
+    "power": 105.0,
+    "durationMs": 3000
    }
   }
  },
@@ -16085,7 +16205,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GUNK_SHOT",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 130.0,
+    "durationMs": 3000
    }
   }
  },
@@ -16112,7 +16234,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BONE_CLUB",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 40.0,
+    "durationMs": 1500
    }
   }
  },
@@ -16130,7 +16254,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BULLDOZE",
-    "damageWindowStartMs": 2600
+    "damageWindowStartMs": 2600,
+    "power": 80.0,
+    "durationMs": 3500
    }
   }
  },
@@ -16148,7 +16274,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MUD_BOMB",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 60.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16184,7 +16312,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SIGNAL_BEAM",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 75.0,
+    "durationMs": 3000
    }
   }
  },
@@ -16202,7 +16332,9 @@
   "data": {
    "moveSettings": {
     "movementId": "X_SCISSOR",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 45.0,
+    "durationMs": 1500
    }
   }
  },
@@ -16220,7 +16352,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FLAME_CHARGE",
-    "damageWindowStartMs": 3100
+    "damageWindowStartMs": 3100,
+    "power": 70.0,
+    "durationMs": 4000
    }
   }
  },
@@ -16238,7 +16372,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FLAME_BURST",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 70.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16256,7 +16392,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FIRE_BLAST",
-    "damageWindowStartMs": 2900
+    "damageWindowStartMs": 2900,
+    "power": 140.0,
+    "durationMs": 4000
    }
   }
  },
@@ -16274,7 +16412,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BRINE",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 65.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16292,7 +16432,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WATER_PULSE",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 65.0,
+    "durationMs": 3000
    }
   }
  },
@@ -16310,7 +16452,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SCALD",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 75.0,
+    "durationMs": 3500
    }
   }
  },
@@ -16328,7 +16472,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HYDRO_PUMP",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 135.0,
+    "durationMs": 3500
    }
   }
  },
@@ -16346,7 +16492,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PSYCHIC",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 95.0,
+    "durationMs": 3000
    }
   }
  },
@@ -16364,7 +16512,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PSYSTRIKE",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 95.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16391,7 +16541,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ICY_WIND",
-    "damageWindowStartMs": 2200
+    "damageWindowStartMs": 2200,
+    "power": 65.0,
+    "durationMs": 3500
    }
   }
  },
@@ -16427,7 +16579,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GIGA_DRAIN",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 50.0,
+    "durationMs": 4000
    }
   }
  },
@@ -16445,7 +16599,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FIRE_PUNCH",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -16463,7 +16619,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SOLAR_BEAM",
-    "damageWindowStartMs": 2800
+    "damageWindowStartMs": 2800,
+    "power": 180.0,
+    "durationMs": 5000
    }
   }
  },
@@ -16481,7 +16639,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LEAF_BLADE",
-    "damageWindowStartMs": 1350
+    "damageWindowStartMs": 1350,
+    "power": 70.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16499,7 +16659,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POWER_WHIP",
-    "damageWindowStartMs": 1150
+    "damageWindowStartMs": 1150,
+    "power": 90.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16535,7 +16697,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AIR_CUTTER",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 55.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16553,7 +16717,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HURRICANE",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 105.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16571,7 +16737,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BRICK_BREAK",
-    "damageWindowStartMs": 700
+    "damageWindowStartMs": 700,
+    "power": 40.0,
+    "durationMs": 1500
    }
   }
  },
@@ -16598,7 +16766,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SWIFT",
-    "damageWindowStartMs": 2200
+    "damageWindowStartMs": 2200,
+    "power": 65.0,
+    "durationMs": 3000
    }
   }
  },
@@ -16616,7 +16786,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HORN_ATTACK",
-    "damageWindowStartMs": 950
+    "damageWindowStartMs": 950,
+    "power": 45.0,
+    "durationMs": 2000
    }
   }
  },
@@ -16634,7 +16806,9 @@
   "data": {
    "moveSettings": {
     "movementId": "STOMP",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 50.0,
+    "durationMs": 1500
    }
   }
  },
@@ -16661,7 +16835,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HYPER_FANG",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 80.0,
+    "durationMs": 2500
    }
   }
  },
@@ -16688,7 +16864,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BODY_SLAM",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -16706,7 +16884,9 @@
   "data": {
    "moveSettings": {
     "movementId": "REST",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -16724,7 +16904,9 @@
   "data": {
    "moveSettings": {
     "movementId": "STRUGGLE",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 35.0,
+    "durationMs": 2000
    }
   }
  },
@@ -16742,7 +16924,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SCALD_BLASTOISE",
-    "damageWindowStartMs": 2300
+    "damageWindowStartMs": 2300,
+    "power": 50.0,
+    "durationMs": 4500
    }
   }
  },
@@ -16760,7 +16944,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HYDRO_PUMP_BLASTOISE",
-    "damageWindowStartMs": 2200
+    "damageWindowStartMs": 2200,
+    "power": 90.0,
+    "durationMs": 4500
    }
   }
  },
@@ -16778,7 +16964,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WRAP_GREEN",
-    "damageWindowStartMs": 2150
+    "damageWindowStartMs": 2150,
+    "power": 25.0,
+    "durationMs": 3000
    }
   }
  },
@@ -16796,7 +16984,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WRAP_PINK",
-    "damageWindowStartMs": 2150
+    "damageWindowStartMs": 2150,
+    "power": 25.0,
+    "durationMs": 3000
    }
   }
  },
@@ -17372,7 +17562,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FURY_CUTTER_FAST",
-    "damageWindowStartMs": 200
+    "damageWindowStartMs": 200,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -17390,7 +17582,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BUG_BITE_FAST",
-    "damageWindowStartMs": 250
+    "damageWindowStartMs": 250,
+    "power": 5.0,
+    "durationMs": 500
    }
   }
  },
@@ -17408,7 +17602,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BITE_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 6.0,
+    "durationMs": 500
    }
   }
  },
@@ -17426,7 +17622,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SUCKER_PUNCH_FAST",
-    "damageWindowStartMs": 100
+    "damageWindowStartMs": 100,
+    "power": 5.0,
+    "durationMs": 500
    }
   }
  },
@@ -17444,7 +17642,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRAGON_BREATH_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 6.0,
+    "durationMs": 500
    }
   }
  },
@@ -17462,7 +17662,9 @@
   "data": {
    "moveSettings": {
     "movementId": "THUNDER_SHOCK_FAST",
-    "damageWindowStartMs": 200
+    "damageWindowStartMs": 200,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -17480,7 +17682,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SPARK_FAST",
-    "damageWindowStartMs": 100
+    "damageWindowStartMs": 100,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -17498,7 +17702,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LOW_KICK_FAST",
-    "damageWindowStartMs": 200
+    "damageWindowStartMs": 200,
+    "power": 5.0,
+    "durationMs": 500
    }
   }
  },
@@ -17516,7 +17722,9 @@
   "data": {
    "moveSettings": {
     "movementId": "KARATE_CHOP_FAST",
-    "damageWindowStartMs": 800
+    "damageWindowStartMs": 800,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17534,7 +17742,9 @@
   "data": {
    "moveSettings": {
     "movementId": "EMBER_FAST",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17552,7 +17762,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WING_ATTACK_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17570,7 +17782,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PECK_FAST",
-    "damageWindowStartMs": 450
+    "damageWindowStartMs": 450,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17588,7 +17802,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LICK_FAST",
-    "damageWindowStartMs": 200
+    "damageWindowStartMs": 200,
+    "power": 5.0,
+    "durationMs": 500
    }
   }
  },
@@ -17606,7 +17822,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SHADOW_CLAW_FAST",
-    "damageWindowStartMs": 50
+    "damageWindowStartMs": 50,
+    "power": 6.0,
+    "durationMs": 500
    }
   }
  },
@@ -17624,7 +17842,9 @@
   "data": {
    "moveSettings": {
     "movementId": "VINE_WHIP_FAST",
-    "damageWindowStartMs": 250
+    "damageWindowStartMs": 250,
+    "power": 6.0,
+    "durationMs": 500
    }
   }
  },
@@ -17642,7 +17862,9 @@
   "data": {
    "moveSettings": {
     "movementId": "RAZOR_LEAF_FAST",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 13.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17660,7 +17882,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MUD_SHOT_FAST",
-    "damageWindowStartMs": 250
+    "damageWindowStartMs": 250,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -17678,7 +17902,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ICE_SHARD_FAST",
-    "damageWindowStartMs": 400
+    "damageWindowStartMs": 400,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17696,7 +17922,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FROST_BREATH_FAST",
-    "damageWindowStartMs": 550
+    "damageWindowStartMs": 550,
+    "power": 11.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17714,7 +17942,9 @@
   "data": {
    "moveSettings": {
     "movementId": "QUICK_ATTACK_FAST",
-    "damageWindowStartMs": 450
+    "damageWindowStartMs": 450,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17732,7 +17962,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SCRATCH_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 6.0,
+    "durationMs": 500
    }
   }
  },
@@ -17750,7 +17982,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TACKLE_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 5.0,
+    "durationMs": 500
    }
   }
  },
@@ -17768,7 +18002,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POUND_FAST",
-    "damageWindowStartMs": 240
+    "damageWindowStartMs": 240,
+    "power": 6.0,
+    "durationMs": 500
    }
   }
  },
@@ -17786,7 +18022,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CUT_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 5.0,
+    "durationMs": 500
    }
   }
  },
@@ -17804,7 +18042,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POISON_JAB_FAST",
-    "damageWindowStartMs": 400
+    "damageWindowStartMs": 400,
+    "power": 13.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17822,7 +18062,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ACID_FAST",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 11.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17840,7 +18082,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PSYCHO_CUT_FAST",
-    "damageWindowStartMs": 270
+    "damageWindowStartMs": 270,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -17858,7 +18102,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ROCK_THROW_FAST",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 13.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17876,7 +18122,9 @@
   "data": {
    "moveSettings": {
     "movementId": "METAL_CLAW_FAST",
-    "damageWindowStartMs": 230
+    "damageWindowStartMs": 230,
+    "power": 6.0,
+    "durationMs": 500
    }
   }
  },
@@ -17894,7 +18142,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BULLET_PUNCH_FAST",
-    "damageWindowStartMs": 400
+    "damageWindowStartMs": 400,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17912,7 +18162,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WATER_GUN_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 5.0,
+    "durationMs": 500
    }
   }
  },
@@ -17930,7 +18182,8 @@
   "data": {
    "moveSettings": {
     "movementId": "SPLASH_FAST",
-    "damageWindowStartMs": 800
+    "damageWindowStartMs": 800,
+    "durationMs": 1500
    }
   }
  },
@@ -17948,7 +18201,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WATER_GUN_FAST_BLASTOISE",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -17966,7 +18221,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MUD_SLAP_FAST",
-    "damageWindowStartMs": 1250
+    "damageWindowStartMs": 1250,
+    "power": 19.0,
+    "durationMs": 1500
    }
   }
  },
@@ -17984,7 +18241,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ZEN_HEADBUTT_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 11.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18002,7 +18261,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CONFUSION_FAST",
-    "damageWindowStartMs": 500
+    "damageWindowStartMs": 500,
+    "power": 19.0,
+    "durationMs": 1500
    }
   }
  },
@@ -18020,7 +18281,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POISON_STING_FAST",
-    "damageWindowStartMs": 275
+    "damageWindowStartMs": 275,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -18038,7 +18301,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BUBBLE_FAST",
-    "damageWindowStartMs": 550
+    "damageWindowStartMs": 550,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18056,7 +18321,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FEINT_ATTACK_FAST",
-    "damageWindowStartMs": 850
+    "damageWindowStartMs": 850,
+    "power": 11.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18074,7 +18341,9 @@
   "data": {
    "moveSettings": {
     "movementId": "STEEL_WING_FAST",
-    "damageWindowStartMs": 700
+    "damageWindowStartMs": 700,
+    "power": 14.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18092,7 +18361,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FIRE_FANG_FAST",
-    "damageWindowStartMs": 740
+    "damageWindowStartMs": 740,
+    "power": 13.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18110,7 +18381,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ROCK_SMASH_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 17.0,
+    "durationMs": 1500
    }
   }
  },
@@ -18128,7 +18401,8 @@
   "data": {
    "moveSettings": {
     "movementId": "TRANSFORM_FAST",
-    "damageWindowStartMs": 70
+    "damageWindowStartMs": 70,
+    "durationMs": 2000
    }
   }
  },
@@ -18146,7 +18420,9 @@
   "data": {
    "moveSettings": {
     "movementId": "COUNTER_FAST",
-    "damageWindowStartMs": 800
+    "damageWindowStartMs": 800,
+    "power": 13.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18164,7 +18440,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POWDER_SNOW_FAST",
-    "damageWindowStartMs": 850
+    "damageWindowStartMs": 850,
+    "power": 6.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18182,7 +18460,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CLOSE_COMBAT",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 105.0,
+    "durationMs": 2500
    }
   }
  },
@@ -18200,7 +18480,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DYNAMIC_PUNCH",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 85.0,
+    "durationMs": 2500
    }
   }
  },
@@ -18218,7 +18500,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FOCUS_BLAST",
-    "damageWindowStartMs": 3000
+    "damageWindowStartMs": 3000,
+    "power": 140.0,
+    "durationMs": 3500
    }
   }
  },
@@ -18236,7 +18520,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AURORA_BEAM",
-    "damageWindowStartMs": 3300
+    "damageWindowStartMs": 3300,
+    "power": 80.0,
+    "durationMs": 3500
    }
   }
  },
@@ -18254,7 +18540,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CHARGE_BEAM_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 7.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18272,7 +18560,9 @@
   "data": {
    "moveSettings": {
     "movementId": "VOLT_SWITCH_FAST",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 13.0,
+    "durationMs": 1500
    }
   }
  },
@@ -18290,7 +18580,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WILD_CHARGE",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 90.0,
+    "durationMs": 2500
    }
   }
  },
@@ -18308,7 +18600,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ZAP_CANNON",
-    "damageWindowStartMs": 2800
+    "damageWindowStartMs": 2800,
+    "power": 140.0,
+    "durationMs": 3500
    }
   }
  },
@@ -18326,7 +18620,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRAGON_TAIL_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 14.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18344,7 +18640,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AVALANCHE",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 85.0,
+    "durationMs": 2500
    }
   }
  },
@@ -18362,7 +18660,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AIR_SLASH_FAST",
-    "damageWindowStartMs": 800
+    "damageWindowStartMs": 800,
+    "power": 12.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18380,7 +18680,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BRAVE_BIRD",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 130.0,
+    "durationMs": 2000
    }
   }
  },
@@ -18398,7 +18700,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SKY_ATTACK",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 80.0,
+    "durationMs": 2000
    }
   }
  },
@@ -18416,7 +18720,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SAND_TOMB",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 60.0,
+    "durationMs": 4000
    }
   }
  },
@@ -18434,7 +18740,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ROCK_BLAST",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -18452,7 +18760,9 @@
   "data": {
    "moveSettings": {
     "movementId": "INFESTATION_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 9.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18470,7 +18780,9 @@
   "data": {
    "moveSettings": {
     "movementId": "STRUGGLE_BUG_FAST",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 15.0,
+    "durationMs": 1500
    }
   }
  },
@@ -18488,7 +18800,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SILVER_WIND",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 65.0,
+    "durationMs": 3500
    }
   }
  },
@@ -18506,7 +18820,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ASTONISH_FAST",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 7.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18524,7 +18840,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HEX_FAST",
-    "damageWindowStartMs": 800
+    "damageWindowStartMs": 800,
+    "power": 8.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18542,7 +18860,9 @@
   "data": {
    "moveSettings": {
     "movementId": "NIGHT_SHADE",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 60.0,
+    "durationMs": 2500
    }
   }
  },
@@ -18560,7 +18880,9 @@
   "data": {
    "moveSettings": {
     "movementId": "IRON_TAIL_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 14.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18578,7 +18900,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GYRO_BALL",
-    "damageWindowStartMs": 3200
+    "damageWindowStartMs": 3200,
+    "power": 85.0,
+    "durationMs": 3500
    }
   }
  },
@@ -18596,7 +18920,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HEAVY_SLAM",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 70.0,
+    "durationMs": 2000
    }
   }
  },
@@ -18614,7 +18940,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FIRE_SPIN_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 13.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18632,7 +18960,9 @@
   "data": {
    "moveSettings": {
     "movementId": "OVERHEAT",
-    "damageWindowStartMs": 2600
+    "damageWindowStartMs": 2600,
+    "power": 160.0,
+    "durationMs": 4000
    }
   }
  },
@@ -18650,7 +18980,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BULLET_SEED_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 7.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18668,7 +19000,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GRASS_KNOT",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 90.0,
+    "durationMs": 2500
    }
   }
  },
@@ -18686,7 +19020,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ENERGY_BALL",
-    "damageWindowStartMs": 3100
+    "damageWindowStartMs": 3100,
+    "power": 90.0,
+    "durationMs": 4000
    }
   }
  },
@@ -18704,7 +19040,9 @@
   "data": {
    "moveSettings": {
     "movementId": "EXTRASENSORY_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 11.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18722,7 +19060,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FUTURESIGHT",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 115.0,
+    "durationMs": 2500
    }
   }
  },
@@ -18740,7 +19080,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MIRROR_COAT",
-    "damageWindowStartMs": 2200
+    "damageWindowStartMs": 2200,
+    "power": 60.0,
+    "durationMs": 2500
    }
   }
  },
@@ -18758,7 +19100,9 @@
   "data": {
    "moveSettings": {
     "movementId": "OUTRAGE",
-    "damageWindowStartMs": 2600
+    "damageWindowStartMs": 2600,
+    "power": 110.0,
+    "durationMs": 4000
    }
   }
  },
@@ -18776,7 +19120,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SNARL_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 11.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18794,7 +19140,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CRUNCH",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 65.0,
+    "durationMs": 3000
    }
   }
  },
@@ -18812,7 +19160,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FOUL_PLAY",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 70.0,
+    "durationMs": 2000
    }
   }
  },
@@ -18830,7 +19180,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HIDDEN_POWER_FAST",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 15.0,
+    "durationMs": 1500
    }
   }
  },
@@ -18848,7 +19200,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TAKE_DOWN_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 7.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18866,7 +19220,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WATERFALL_FAST",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 13.0,
+    "durationMs": 1000
    }
   }
  },
@@ -18884,7 +19240,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SURF",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 60.0,
+    "durationMs": 1500
    }
   }
  },
@@ -18902,7 +19260,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRACO_METEOR",
-    "damageWindowStartMs": 2900
+    "damageWindowStartMs": 2900,
+    "power": 150.0,
+    "durationMs": 3500
    }
   }
  },
@@ -18920,7 +19280,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DOOM_DESIRE",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 65.0,
+    "durationMs": 1500
    }
   }
  },
@@ -18938,7 +19300,8 @@
   "data": {
    "moveSettings": {
     "movementId": "YAWN_FAST",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "durationMs": 1500
    }
   }
  },
@@ -18956,7 +19319,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PSYCHO_BOOST",
-    "damageWindowStartMs": 3500
+    "damageWindowStartMs": 3500,
+    "power": 130.0,
+    "durationMs": 4000
    }
   }
  },
@@ -18974,7 +19339,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ORIGIN_PULSE",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 120.0,
+    "durationMs": 1500
    }
   }
  },
@@ -18992,7 +19359,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PRECIPICE_BLADES",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 120.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19010,7 +19379,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PRESENT_FAST",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 6.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19028,7 +19399,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WEATHER_BALL_FIRE",
-    "damageWindowStartMs": 1250
+    "damageWindowStartMs": 1250,
+    "power": 55.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19046,7 +19419,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WEATHER_BALL_ICE",
-    "damageWindowStartMs": 1250
+    "damageWindowStartMs": 1250,
+    "power": 55.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19064,7 +19439,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WEATHER_BALL_ROCK",
-    "damageWindowStartMs": 1250
+    "damageWindowStartMs": 1250,
+    "power": 55.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19082,7 +19459,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WEATHER_BALL_WATER",
-    "damageWindowStartMs": 1250
+    "damageWindowStartMs": 1250,
+    "power": 55.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19100,7 +19479,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FRENZY_PLANT",
-    "damageWindowStartMs": 2045
+    "damageWindowStartMs": 2045,
+    "power": 100.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19118,7 +19499,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SMACK_DOWN_FAST",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 13.0,
+    "durationMs": 1000
    }
   }
  },
@@ -19136,7 +19519,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BLAST_BURN",
-    "damageWindowStartMs": 2950
+    "damageWindowStartMs": 2950,
+    "power": 120.0,
+    "durationMs": 3500
    }
   }
  },
@@ -19154,7 +19539,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HYDRO_CANNON",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 90.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19172,7 +19559,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LAST_RESORT",
-    "damageWindowStartMs": 2800
+    "damageWindowStartMs": 2800,
+    "power": 90.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19190,7 +19579,9 @@
   "data": {
    "moveSettings": {
     "movementId": "METEOR_MASH",
-    "damageWindowStartMs": 2200
+    "damageWindowStartMs": 2200,
+    "power": 100.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19208,7 +19599,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SKULL_BASH",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 130.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19226,7 +19619,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ACID_SPRAY",
-    "damageWindowStartMs": 2100
+    "damageWindowStartMs": 2100,
+    "power": 20.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19244,7 +19639,9 @@
   "data": {
    "moveSettings": {
     "movementId": "EARTH_POWER",
-    "damageWindowStartMs": 2600
+    "damageWindowStartMs": 2600,
+    "power": 100.0,
+    "durationMs": 3500
    }
   }
  },
@@ -19262,7 +19659,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CRABHAMMER",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 85.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19280,7 +19679,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LUNGE",
-    "damageWindowStartMs": 2500
+    "damageWindowStartMs": 2500,
+    "power": 55.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19298,7 +19699,8 @@
   "data": {
    "moveSettings": {
     "movementId": "CRUSH_CLAW",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "durationMs": 2000
    }
   }
  },
@@ -19316,7 +19718,9 @@
   "data": {
    "moveSettings": {
     "movementId": "OCTAZOOKA",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 55.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19334,7 +19738,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MIRROR_SHOT",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 50.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19352,7 +19758,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SUPER_POWER",
-    "damageWindowStartMs": 2100
+    "damageWindowStartMs": 2100,
+    "power": 85.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19370,7 +19778,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FELL_STINGER",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 45.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19388,7 +19798,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LEAF_TORNADO",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 45.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19406,7 +19818,8 @@
   "data": {
    "moveSettings": {
     "movementId": "LEECH_LIFE",
-    "damageWindowStartMs": 1150
+    "damageWindowStartMs": 1150,
+    "durationMs": 2500
    }
   }
  },
@@ -19424,7 +19837,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRAIN_PUNCH",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 50.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19442,7 +19857,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SHADOW_BONE",
-    "damageWindowStartMs": 2450
+    "damageWindowStartMs": 2450,
+    "power": 85.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19460,7 +19877,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MUDDY_WATER",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 45.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19478,7 +19897,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BLAZE_KICK",
-    "damageWindowStartMs": 250
+    "damageWindowStartMs": 250,
+    "power": 40.0,
+    "durationMs": 1000
    }
   }
  },
@@ -19496,7 +19917,9 @@
   "data": {
    "moveSettings": {
     "movementId": "RAZOR_SHELL",
-    "damageWindowStartMs": 850
+    "damageWindowStartMs": 850,
+    "power": 55.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19514,7 +19937,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POWER_UP_PUNCH",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19532,7 +19957,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CHARM_FAST",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 20.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19550,7 +19977,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GIGA_IMPACT",
-    "damageWindowStartMs": 800
+    "damageWindowStartMs": 800,
+    "power": 200.0,
+    "durationMs": 4500
    }
   }
  },
@@ -19568,7 +19997,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FRUSTRATION",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 10.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19585,7 +20016,9 @@
   "templateId": "V0323_MOVE_RETURN",
   "data": {
    "moveSettings": {
-    "movementId": "RETURN"
+    "movementId": "RETURN",
+    "power": 25.0,
+    "durationMs": 500
    }
   }
  },
@@ -19603,7 +20036,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SYNCHRONOISE",
-    "damageWindowStartMs": 750
+    "damageWindowStartMs": 750,
+    "power": 80.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19621,7 +20056,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LOCK_ON_FAST",
-    "damageWindowStartMs": 370
+    "damageWindowStartMs": 370,
+    "power": 2.0,
+    "durationMs": 500
    }
   }
  },
@@ -19639,7 +20076,9 @@
   "data": {
    "moveSettings": {
     "movementId": "THUNDER_FANG_FAST",
-    "damageWindowStartMs": 200
+    "damageWindowStartMs": 200,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -19657,7 +20096,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ICE_FANG_FAST",
-    "damageWindowStartMs": 400
+    "damageWindowStartMs": 400,
+    "power": 12.0,
+    "durationMs": 1500
    }
   }
  },
@@ -19675,7 +20116,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HORN_DRILL",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 9000.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19693,7 +20136,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FISSURE",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 9001.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19711,7 +20156,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SACRED_SWORD",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 50.0,
+    "durationMs": 1000
    }
   }
  },
@@ -19729,7 +20176,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FLYING_PRESS",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 115.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19747,7 +20196,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AURA_SPHERE",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 100.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19765,7 +20216,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PAYBACK",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 95.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19783,7 +20236,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ROCK_WRECKER",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 110.0,
+    "durationMs": 3500
    }
   }
  },
@@ -19801,7 +20256,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AEROBLAST",
-    "damageWindowStartMs": 3300
+    "damageWindowStartMs": 3300,
+    "power": 180.0,
+    "durationMs": 3500
    }
   }
  },
@@ -19819,7 +20276,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TECHNO_BLAST_NORMAL",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 120.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19837,7 +20296,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TECHNO_BLAST_BURN",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 120.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19855,7 +20316,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TECHNO_BLAST_CHILL",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 120.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19873,7 +20336,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TECHNO_BLAST_WATER",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 120.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19891,7 +20356,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TECHNO_BLAST_SHOCK",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 120.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19909,7 +20376,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FLY",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 90.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19927,7 +20396,9 @@
   "data": {
    "moveSettings": {
     "movementId": "V_CREATE",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 105.0,
+    "durationMs": 3000
    }
   }
  },
@@ -19945,7 +20416,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LEAF_STORM",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 130.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19963,7 +20436,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TRI_ATTACK",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 75.0,
+    "durationMs": 2500
    }
   }
  },
@@ -19981,7 +20456,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GUST_FAST",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 25.0,
+    "durationMs": 2000
    }
   }
  },
@@ -19999,7 +20476,9 @@
   "data": {
    "moveSettings": {
     "movementId": "INCINERATE_FAST",
-    "damageWindowStartMs": 700
+    "damageWindowStartMs": 700,
+    "power": 32.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20026,7 +20505,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FEATHER_DANCE",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 35.0,
+    "durationMs": 3000
    }
   }
  },
@@ -20053,7 +20534,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FAIRY_WIND_FAST",
-    "damageWindowStartMs": 630
+    "damageWindowStartMs": 630,
+    "power": 9.0,
+    "durationMs": 1000
    }
   }
  },
@@ -20080,7 +20563,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WEATHER_BALL_NORMAL",
-    "damageWindowStartMs": 1250
+    "damageWindowStartMs": 1250,
+    "power": 55.0,
+    "durationMs": 1500
    }
   }
  },
@@ -20098,7 +20583,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PSYCHIC_FANGS",
-    "damageWindowStartMs": 200
+    "damageWindowStartMs": 200,
+    "power": 25.0,
+    "durationMs": 1000
    }
   }
  },
@@ -20134,7 +20621,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DOUBLE_KICK_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -20152,7 +20641,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MAGICAL_LEAF_FAST",
-    "damageWindowStartMs": 850
+    "damageWindowStartMs": 850,
+    "power": 17.0,
+    "durationMs": 1500
    }
   }
  },
@@ -20170,7 +20661,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SACRED_FIRE",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 120.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20188,7 +20681,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ICICLE_SPEAR",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 55.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20206,7 +20701,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AEROBLAST_PLUS",
-    "damageWindowStartMs": 3300
+    "damageWindowStartMs": 3300,
+    "power": 200.0,
+    "durationMs": 3500
    }
   }
  },
@@ -20224,7 +20721,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AEROBLAST_PLUS_PLUS",
-    "damageWindowStartMs": 3300
+    "damageWindowStartMs": 3300,
+    "power": 225.0,
+    "durationMs": 3500
    }
   }
  },
@@ -20242,7 +20741,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SACRED_FIRE_PLUS",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 135.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20260,7 +20761,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SACRED_FIRE_PLUS_PLUS",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 155.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20278,7 +20781,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ACROBATICS",
-    "damageWindowStartMs": 600
+    "damageWindowStartMs": 600,
+    "power": 100.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20296,7 +20801,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LUSTER_PURGE",
-    "damageWindowStartMs": 500
+    "damageWindowStartMs": 500,
+    "power": 100.0,
+    "durationMs": 1500
    }
   }
  },
@@ -20314,7 +20821,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MIST_BALL",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 105.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20332,7 +20841,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BRUTAL_SWING",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 65.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20350,7 +20861,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ROLLOUT_FAST",
-    "damageWindowStartMs": 1060
+    "damageWindowStartMs": 1060,
+    "power": 15.0,
+    "durationMs": 1500
    }
   }
  },
@@ -20368,7 +20881,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SEED_FLARE",
-    "damageWindowStartMs": 2300
+    "damageWindowStartMs": 2300,
+    "power": 115.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20386,7 +20901,9 @@
   "data": {
    "moveSettings": {
     "movementId": "OBSTRUCT",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 20.0,
+    "durationMs": 1500
    }
   }
  },
@@ -20404,7 +20921,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SHADOW_FORCE",
-    "damageWindowStartMs": 1800
+    "damageWindowStartMs": 1800,
+    "power": 140.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20422,7 +20941,9 @@
   "data": {
    "moveSettings": {
     "movementId": "METEOR_BEAM",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 140.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20440,7 +20961,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WATER_SHURIKEN_FAST",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 9.0,
+    "durationMs": 1000
    }
   }
  },
@@ -20458,7 +20981,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FUSION_BOLT",
-    "damageWindowStartMs": 1250
+    "damageWindowStartMs": 1250,
+    "power": 140.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20476,7 +21001,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FUSION_FLARE",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 140.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20494,7 +21021,9 @@
   "data": {
    "moveSettings": {
     "movementId": "POLTERGEIST",
-    "damageWindowStartMs": 2700
+    "damageWindowStartMs": 2700,
+    "power": 140.0,
+    "durationMs": 3500
    }
   }
  },
@@ -20512,7 +21041,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HIGH_HORSEPOWER",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 105.0,
+    "durationMs": 1500
    }
   }
  },
@@ -20530,7 +21061,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GLACIATE",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 160.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20548,7 +21081,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BREAKING_SWIPE",
-    "damageWindowStartMs": 470
+    "damageWindowStartMs": 470,
+    "power": 45.0,
+    "durationMs": 1000
    }
   }
  },
@@ -20566,7 +21101,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BOOMBURST",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 150.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20584,7 +21121,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DOUBLE_IRON_BASH",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 70.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20602,7 +21141,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MYSTICAL_FIRE",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 60.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20620,7 +21161,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LIQUIDATION",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 70.0,
+    "durationMs": 3000
    }
   }
  },
@@ -20638,7 +21181,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRAGON_ASCENT",
-    "damageWindowStartMs": 3250
+    "damageWindowStartMs": 3250,
+    "power": 140.0,
+    "durationMs": 3500
    }
   }
  },
@@ -20656,7 +21201,9 @@
   "data": {
    "moveSettings": {
     "movementId": "LEAFAGE_FAST",
-    "damageWindowStartMs": 200
+    "damageWindowStartMs": 200,
+    "power": 6.0,
+    "durationMs": 500
    }
   }
  },
@@ -20674,7 +21221,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MAGMA_STORM",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 75.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20692,7 +21241,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GEOMANCY_FAST",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 20.0,
+    "durationMs": 1500
    }
   }
  },
@@ -20710,7 +21261,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SPACIAL_REND",
-    "damageWindowStartMs": 1370
+    "damageWindowStartMs": 1370,
+    "power": 160.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20728,7 +21281,9 @@
   "data": {
    "moveSettings": {
     "movementId": "OBLIVION_WING",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 85.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20746,7 +21301,9 @@
   "data": {
    "moveSettings": {
     "movementId": "NATURES_MADNESS",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 90.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20764,7 +21321,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TRIPLE_AXEL",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 60.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20782,7 +21341,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TRAILBLAZE",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 65.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20800,7 +21361,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SCORCHING_SANDS",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 90.0,
+    "durationMs": 3000
    }
   }
  },
@@ -20818,7 +21381,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ROAR_OF_TIME",
-    "damageWindowStartMs": 850
+    "damageWindowStartMs": 850,
+    "power": 160.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20836,7 +21401,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BLEAKWIND_STORM",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 150.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20854,7 +21421,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SANDSEAR_STORM",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 150.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20872,7 +21441,9 @@
   "data": {
    "moveSettings": {
     "movementId": "WILDBOLT_STORM",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 150.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20890,7 +21461,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SPIRIT_SHACKLE",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 70.0,
+    "durationMs": 2500
    }
   }
  },
@@ -20908,7 +21481,9 @@
   "data": {
    "moveSettings": {
     "movementId": "VOLT_TACKLE",
-    "damageWindowStartMs": 2100
+    "damageWindowStartMs": 2100,
+    "power": 90.0,
+    "durationMs": 3500
    }
   }
  },
@@ -20926,7 +21501,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DARKEST_LARIAT",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 80.0,
+    "durationMs": 2000
    }
   }
  },
@@ -20944,7 +21521,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PSYWAVE_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -20962,7 +21541,9 @@
   "data": {
    "moveSettings": {
     "movementId": "METAL_SOUND_FAST",
-    "damageWindowStartMs": 200
+    "damageWindowStartMs": 200,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -20980,7 +21561,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SAND_ATTACK_FAST",
-    "damageWindowStartMs": 300
+    "damageWindowStartMs": 300,
+    "power": 4.0,
+    "durationMs": 500
    }
   }
  },
@@ -20998,7 +21581,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SUNSTEEL_STRIKE",
-    "damageWindowStartMs": 2200
+    "damageWindowStartMs": 2200,
+    "power": 230.0,
+    "durationMs": 3000
    }
   }
  },
@@ -21016,7 +21601,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MOONGEIST_BEAM",
-    "damageWindowStartMs": 2200
+    "damageWindowStartMs": 2200,
+    "power": 230.0,
+    "durationMs": 3000
    }
   }
  },
@@ -21034,7 +21621,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AURA_WHEEL_ELECTRIC",
-    "damageWindowStartMs": 2100
+    "damageWindowStartMs": 2100,
+    "power": 100.0,
+    "durationMs": 2500
    }
   }
  },
@@ -21052,7 +21641,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AURA_WHEEL_DARK",
-    "damageWindowStartMs": 2100
+    "damageWindowStartMs": 2100,
+    "power": 100.0,
+    "durationMs": 2500
    }
   }
  },
@@ -21070,7 +21661,9 @@
   "data": {
    "moveSettings": {
     "movementId": "HIGH_JUMP_KICK",
-    "damageWindowStartMs": 450
+    "damageWindowStartMs": 450,
+    "power": 90.0,
+    "durationMs": 1500
    }
   }
  },
@@ -21565,7 +22158,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FORCE_PALM_FAST",
-    "damageWindowStartMs": 800
+    "damageWindowStartMs": 800,
+    "power": 10.0,
+    "durationMs": 1000
    }
   }
  },
@@ -21583,7 +22178,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SPARKLING_ARIA",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 85.0,
+    "durationMs": 3000
    }
   }
  },
@@ -21601,7 +22198,9 @@
   "data": {
    "moveSettings": {
     "movementId": "RAGE_FIST",
-    "damageWindowStartMs": 2750
+    "damageWindowStartMs": 2750,
+    "power": 100.0,
+    "durationMs": 3000
    }
   }
  },
@@ -21619,7 +22218,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FLOWER_TRICK",
-    "damageWindowStartMs": 1800
+    "damageWindowStartMs": 1800,
+    "power": 75.0,
+    "durationMs": 3000
    }
   }
  },
@@ -21637,7 +22238,9 @@
   "data": {
    "moveSettings": {
     "movementId": "FREEZE_SHOCK",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 160.0,
+    "durationMs": 1500
    }
   }
  },
@@ -21655,7 +22258,9 @@
   "data": {
    "moveSettings": {
     "movementId": "ICE_BURN",
-    "damageWindowStartMs": 1800
+    "damageWindowStartMs": 1800,
+    "power": 90.0,
+    "durationMs": 2000
    }
   }
  },
@@ -21673,7 +22278,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TORCH_SONG",
-    "damageWindowStartMs": 2500
+    "damageWindowStartMs": 2500,
+    "power": 100.0,
+    "durationMs": 3500
    }
   }
  },
@@ -21691,7 +22298,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BEHEMOTH_BLADE",
-    "damageWindowStartMs": 2500
+    "damageWindowStartMs": 2500,
+    "power": 200.0,
+    "durationMs": 3500
    }
   }
  },
@@ -21709,7 +22318,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BEHEMOTH_BASH",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 125.0,
+    "durationMs": 1500
    }
   }
  },
@@ -21727,7 +22338,9 @@
   "data": {
    "moveSettings": {
     "movementId": "UPPER_HAND",
-    "damageWindowStartMs": 2300
+    "damageWindowStartMs": 2300,
+    "power": 50.0,
+    "durationMs": 2000
    }
   }
  },
@@ -21745,7 +22358,9 @@
   "data": {
    "moveSettings": {
     "movementId": "THUNDER_CAGE",
-    "damageWindowStartMs": 1880
+    "damageWindowStartMs": 1880,
+    "power": 220.0,
+    "durationMs": 3500
    }
   }
  },
@@ -21844,7 +22459,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DYNAMAX_CANNON",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 215.0,
+    "durationMs": 1500
    }
   }
  },
@@ -21871,7 +22488,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CLANGING_SCALES",
-    "damageWindowStartMs": 1880
+    "damageWindowStartMs": 1880,
+    "power": 120.0,
+    "durationMs": 3500
    }
   }
  },
@@ -21889,7 +22508,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CRUSH_GRIP",
-    "damageWindowStartMs": 700
+    "damageWindowStartMs": 700,
+    "power": 210.0,
+    "durationMs": 2000
    }
   }
  },
@@ -21907,7 +22528,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRAGON_ENERGY",
-    "damageWindowStartMs": 1880
+    "damageWindowStartMs": 1880,
+    "power": 155.0,
+    "durationMs": 3500
    }
   }
  },
@@ -21925,7 +22548,9 @@
   "data": {
    "moveSettings": {
     "movementId": "AQUA_STEP",
-    "damageWindowStartMs": 2050
+    "damageWindowStartMs": 2050,
+    "power": 55.0,
+    "durationMs": 3500
    }
   }
  },
@@ -21943,7 +22568,9 @@
   "data": {
    "moveSettings": {
     "movementId": "CHILLING_WATER",
-    "damageWindowStartMs": 2050
+    "damageWindowStartMs": 2050,
+    "power": 65.0,
+    "durationMs": 3500
    }
   }
  },
@@ -21961,7 +22588,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SECRET_SWORD",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 120.0,
+    "durationMs": 2000
    }
   }
  },
@@ -21979,7 +22608,9 @@
   "data": {
    "moveSettings": {
     "movementId": "BEAK_BLAST",
-    "damageWindowStartMs": 1500
+    "damageWindowStartMs": 1500,
+    "power": 125.0,
+    "durationMs": 2500
    }
   }
  },
@@ -21997,7 +22628,9 @@
   "data": {
    "moveSettings": {
     "movementId": "MIND_BLOWN",
-    "damageWindowStartMs": 3000
+    "damageWindowStartMs": 3000,
+    "power": 130.0,
+    "durationMs": 4000
    }
   }
  },
@@ -22015,7 +22648,9 @@
   "data": {
    "moveSettings": {
     "movementId": "DRUM_BEATING",
-    "damageWindowStartMs": 3000
+    "damageWindowStartMs": 3000,
+    "power": 115.0,
+    "durationMs": 4500
    }
   }
  },
@@ -22033,7 +22668,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PYROBALL",
-    "damageWindowStartMs": 900
+    "damageWindowStartMs": 900,
+    "power": 150.0,
+    "durationMs": 2000
    }
   }
  },
@@ -22051,7 +22688,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GIGATON_HAMMER",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 300.0,
+    "durationMs": 3000
    }
   }
  },
@@ -22087,7 +22726,9 @@
   "data": {
    "moveSettings": {
     "movementId": "PLASMA_FISTS",
-    "damageWindowStartMs": 2500
+    "damageWindowStartMs": 2500,
+    "power": 135.0,
+    "durationMs": 3500
    }
   }
  },
@@ -22933,7 +23574,9 @@
   "data": {
    "moveSettings": {
     "movementId": "GLAIVE_RUSH",
-    "damageWindowStartMs": 1700
+    "damageWindowStartMs": 1700,
+    "power": 105.0,
+    "durationMs": 2000
    }
   }
  },
@@ -22960,7 +23603,9 @@
   "data": {
    "moveSettings": {
     "movementId": "SNIPE_SHOT",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 100.0,
+    "durationMs": 3500
    }
   }
  },
@@ -22977,7 +23622,9 @@
   "templateId": "V0593_MOVE_DIVE",
   "data": {
    "moveSettings": {
-    "movementId": "DIVE"
+    "movementId": "DIVE",
+    "power": 70.0,
+    "durationMs": 3300
    }
   }
  },
@@ -22994,7 +23641,8 @@
   "templateId": "V0594_MOVE_GULP_MISSILE_GULPING",
   "data": {
    "moveSettings": {
-    "movementId": "GULP_MISSILE_GULPING"
+    "movementId": "GULP_MISSILE_GULPING",
+    "durationMs": 2500
    }
   }
  },
@@ -23011,7 +23659,8 @@
   "templateId": "V0595_MOVE_GULP_MISSILE_GORGING",
   "data": {
    "moveSettings": {
-    "movementId": "GULP_MISSILE_GORGING"
+    "movementId": "GULP_MISSILE_GORGING",
+    "durationMs": 2500
    }
   }
  },
@@ -26890,7 +27539,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0015_POKEMON_BEEDRILL",
-    "damageWindowStartMs": 1600
+    "damageWindowStartMs": 1600,
+    "power": 140.0,
+    "durationMs": 2000
    }
   }
  },
@@ -26899,7 +27550,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0071_POKEMON_VICTREEBEL",
-    "damageWindowStartMs": 2100
+    "damageWindowStartMs": 2100,
+    "power": 160.0,
+    "durationMs": 3000
    }
   }
  },
@@ -26908,7 +27561,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0121_POKEMON_STARMIE",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "power": 180.0,
+    "durationMs": 3000
    }
   }
  },
@@ -26917,7 +27572,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0149_POKEMON_DRAGONITE",
-    "damageWindowStartMs": 2600
+    "damageWindowStartMs": 2600,
+    "power": 185.0,
+    "durationMs": 4000
    }
   }
  },
@@ -26926,7 +27583,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0227_POKEMON_SKARMORY",
-    "damageWindowStartMs": 1900
+    "damageWindowStartMs": 1900,
+    "power": 170.0,
+    "durationMs": 2500
    }
   }
  },
@@ -26935,7 +27594,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0229_POKEMON_HOUNDOOM",
-    "damageWindowStartMs": 1400
+    "damageWindowStartMs": 1400,
+    "power": 150.0,
+    "durationMs": 3000
    }
   }
  },
@@ -26944,7 +27605,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0398_POKEMON_STARAPTOR",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 150.0,
+    "durationMs": 2000
    }
   }
  },
@@ -26953,7 +27616,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0652_POKEMON_CHESNAUGHT",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 150.0,
+    "durationMs": 2000
    }
   }
  },
@@ -26962,7 +27627,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0655_POKEMON_DELPHOX",
-    "damageWindowStartMs": 1300
+    "damageWindowStartMs": 1300,
+    "power": 140.0,
+    "durationMs": 2000
    }
   }
  },
@@ -26971,7 +27638,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0658_POKEMON_GRENINJA",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 130.0,
+    "durationMs": 1500
    }
   }
  },
@@ -26980,7 +27649,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0687_POKEMON_MALAMAR",
-    "damageWindowStartMs": 1100
+    "damageWindowStartMs": 1100,
+    "power": 170.0,
+    "durationMs": 3000
    }
   }
  },
@@ -26989,7 +27660,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_V0870_POKEMON_FALINKS",
-    "damageWindowStartMs": 700
+    "damageWindowStartMs": 700,
+    "power": 150.0,
+    "durationMs": 1500
    }
   }
  },
@@ -26998,7 +27671,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_X_V0026_POKEMON_RAICHU",
-    "damageWindowStartMs": 2100
+    "damageWindowStartMs": 2100,
+    "power": 170.0,
+    "durationMs": 3500
    }
   }
  },
@@ -27007,7 +27682,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_X_V0150_POKEMON_MEWTWO",
-    "damageWindowStartMs": 1000
+    "damageWindowStartMs": 1000,
+    "power": 130.0,
+    "durationMs": 2500
    }
   }
  },
@@ -27016,7 +27693,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_Y_V0026_POKEMON_RAICHU",
-    "damageWindowStartMs": 2800
+    "damageWindowStartMs": 2800,
+    "power": 160.0,
+    "durationMs": 3500
    }
   }
  },
@@ -27025,7 +27704,9 @@
   "data": {
    "moveSettings": {
     "movementId": "TEMP_EVOLUTION_MEGA_Y_V0150_POKEMON_MEWTWO",
-    "damageWindowStartMs": 1200
+    "damageWindowStartMs": 1200,
+    "power": 140.0,
+    "durationMs": 2500
    }
   }
  },
@@ -27034,7 +27715,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_001",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27043,7 +27725,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_002",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27052,7 +27735,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_003",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27061,7 +27745,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_004",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27070,7 +27755,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_005",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27079,7 +27765,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_006",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27088,7 +27775,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_007",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27097,7 +27785,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_008",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27106,7 +27795,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_009",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27115,7 +27805,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_010",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27124,7 +27815,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_011",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27133,7 +27825,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_012",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27142,7 +27835,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_013",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27151,7 +27845,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_014",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27160,7 +27855,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_015",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27169,7 +27865,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_016",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27178,7 +27875,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_017",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27187,7 +27885,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_018",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27196,7 +27895,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_019",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27205,7 +27905,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_020",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27214,7 +27915,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_021",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27223,7 +27925,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_022",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27232,7 +27935,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_023",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27241,7 +27945,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_024",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27250,7 +27955,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_025",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27259,7 +27965,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_026",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27268,7 +27975,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_027",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27277,7 +27985,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_028",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27286,7 +27995,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_029",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27295,7 +28005,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_030",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27304,7 +28015,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_031",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27313,7 +28025,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_032",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27322,7 +28035,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_033",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27331,7 +28045,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_034",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27340,7 +28055,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_035",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27349,7 +28065,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_036",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27358,7 +28075,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_037",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27367,7 +28085,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_038",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27376,7 +28095,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_039",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27385,7 +28105,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_040",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27394,7 +28115,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_041",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27403,7 +28125,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_042",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27412,7 +28135,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_043",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27421,7 +28145,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_044",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27430,7 +28155,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_045",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27439,7 +28165,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_046",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27448,7 +28175,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_047",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27457,7 +28185,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_048",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27466,7 +28195,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_049",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27475,7 +28205,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_050",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27484,7 +28215,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_051",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27493,7 +28225,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_052",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27502,7 +28235,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_053",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27511,7 +28245,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_054",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27520,7 +28255,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_055",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27529,7 +28265,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_056",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27538,7 +28275,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_057",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27547,7 +28285,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_058",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27556,7 +28295,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_059",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27565,7 +28305,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_060",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27574,7 +28315,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_061",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  },
@@ -27583,7 +28325,8 @@
   "data": {
    "moveSettings": {
     "movementId": "VN_BM_062",
-    "damageWindowStartMs": 2000
+    "damageWindowStartMs": 2000,
+    "durationMs": 2500
    }
   }
  }
