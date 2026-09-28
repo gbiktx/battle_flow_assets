@@ -28,3 +28,5 @@ ranking_generator
 /.flutter-plugins-dependencies
 /.fvmrc
 /.vscode/
+# Generator output for the app, copied there by hand — never published
+/lib/localization/
