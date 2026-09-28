@@ -1,21 +1,17 @@
 {
-  "_doc": "Overrides for FORM entries. Default category rule: *_NORMAL → regular; ALOLA/GALARIAN/HISUIAN/PALDEA suffix → regionalForm; isCostume OR a _20xx year in the proto → costume; otherwise formVariant. This table has the last word. `name` only when verified.",
   "forms": {
     "ARCEUS_FLYING": {
       "names": {
         "ko": "비행타입",
         "zh-Hant": "飛行屬性"
-      },
-      "note": "The client table ships the English 'Flying-Type' as its ko and zh-Hant text (i18n_ko-kr / i18n_zh-tw form_arceus_flying, pulled 2026-09-25). Pinned to the localized value the catalog carried before that pull (catalog revision sha256-e33a706b) — decision 2026-09-27, battle-flow-4a."
+      }
     },
     "MEWTWO_A": {
       "category": "regular",
-      "note": "Armored Mewtwo — flagged isCostume in the GM, not a costume to a collector",
       "pvpokeId": "mewtwo_armored"
     },
     "GIMMIGHOUL_COIN_A1": {
-      "category": "formVariant",
-      "note": "flagged isCostume in the GM"
+      "category": "formVariant"
     },
     "VENUSAUR_COPY_2019": {
       "category": "clone"
@@ -44,13 +40,11 @@
       "category": "eventForm"
     },
     "PSYDUCK_SWIM_2025": {
-      "category": "eventForm",
-      "note": "year-named, not flagged isCostume in the GM (2026-09-23)"
+      "category": "eventForm"
     },
     "UNOWN_A": {
       "category": "formVariant",
-      "sprite": "201",
-      "note": "201.png is the A letter"
+      "sprite": "201"
     },
     "ZYGARDE_TEN_PERCENT": {
       "category": "formVariant",
@@ -79,8 +73,7 @@
     "ROTOM_NORMAL": {
       "names": {
         "es-419": "Rotom"
-      },
-      "note": "The es-MX client table (i18n_es-mx) names base Rotom 'Forma de Rotom' (pokemon_name_0479 and form_rotom_normal) — a client error: es-ES, en-US and pt-BR all say 'Rotom', and the LatAm form names are 'Rotom Ventilador', 'Rotom Calor'… with no 'Forma de'. Found 2026-09-25 (fit report, relayed by battle-flow-4a)."
+      }
     }
   }
 }

@@ -1,5 +1,4 @@
 {
- "_doc": "Location Background display names (C1). Rule-built from the proto by scripts/pipeline/seed_background_names.dart — the client ships no name. Set \"reviewed\": true after fixing an entry by hand; the seed never overwrites a reviewed entry. \"unexpanded\" lists tokens the rules could not read.",
  "names": {
   "LC_TPC30_TW": {
    "name": "TPC30 Taiwan",

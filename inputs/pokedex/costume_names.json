@@ -1,5 +1,4 @@
 {
- "_doc": "Display name + category for every costume-field costume. `curated:false` = raw masterfile name, still to be named (C1). Verified names only — never guess.",
  "costumes": {
   "HOLIDAY_2016": {
    "name": "Holiday 2016",
@@ -435,13 +434,13 @@
    "name": "GO Tour 2023 · Hat",
    "curated": false,
    "noEvolve": false,
-   "note": "In asset filenames but absent from the masterfile costume enum (2026-09-23)"
+   "notInMasterfile": true
   },
   "GOTOUR_2023_BANDANA": {
    "name": "GO Tour 2023 · Bandana",
    "curated": false,
    "noEvolve": false,
-   "note": "In asset filenames but absent from the masterfile costume enum (2026-09-23)"
+   "notInMasterfile": true
   }
  }
 }
