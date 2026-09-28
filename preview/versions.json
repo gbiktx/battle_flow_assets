@@ -43,7 +43,7 @@
     "revision": "sha256-32bdaef06f8d053eca14c3872098371fe05e7e2a7611f00729cfae4f15276dac"
   },
   "raidBosses": {
-    "schemaVersion": 1,
-    "revision": "sha256-4199c7d7c9b0e8bcd7d3142ae0c816b2578366b92fe23be0c018c987aec086f2"
+    "schemaVersion": 2,
+    "revision": "sha256-eb811787dcd3b0a446f887b9e9b019951ba7d62b68893918a444c7137664c6aa"
   }
 }
