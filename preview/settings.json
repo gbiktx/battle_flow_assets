@@ -200,7 +200,7 @@
       "name": "mega",
       "title": "Mega Great League",
       "cpLimit": "1500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-08T13:00:00-07:00",
@@ -237,6 +237,38 @@
       "title": "Catch Cup",
       "cpLimit": "1500",
       "active": false
+    },
+    {
+      "name": "colormega",
+      "title": "Mega Color Cup",
+      "cpLimit": "1500",
+      "active": true,
+      "schedule": [
+        {
+          "from": "2026-09-29T13:00:00-07:00",
+          "to": "2026-10-06T13:00:00-07:00"
+        }
+      ]
+    },
+    {
+      "name": "laic2027",
+      "title": "LAIC 2027",
+      "cpLimit": "1500",
+      "active": true,
+      "schedule": [
+        {
+          "from": "2026-09-11T13:00:00-07:00",
+          "to": "2026-11-10T13:00:00-07:00"
+        },
+        {
+          "from": "2026-11-10T13:00:00-07:00",
+          "to": "2026-11-17T13:00:00-07:00"
+        },
+        {
+          "from": "2026-11-18T13:00:00-07:00",
+          "to": "2026-11-25T13:00:00-07:00"
+        }
+      ]
     }
   ],
   "ultraCups": [
@@ -274,7 +306,7 @@
       "name": "mega",
       "title": "Mega Ultra League",
       "cpLimit": "2500",
-      "active": false,
+      "active": true,
       "schedule": [
         {
           "from": "2026-09-08T13:00:00-07:00",
@@ -375,7 +407,7 @@
       "active": false
     }
   ],
-  "version": "1.20",
+  "version": "1.21",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,

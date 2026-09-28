@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-09-15T22:51:15.625014Z",
+  "synced_at": "2026-09-28T07:13:19.293031Z",
   "source": "pvpoke/src/data/groups/great.json",
   "cup_key": "all-1500",
-  "species_count": 43,
+  "species_count": 44,
   "duplicates_removed": [],
   "entries": [
     {
@@ -345,6 +345,14 @@
       ]
     },
     {
+      "speciesId": "umbreon",
+      "fastMove": "SNARL",
+      "chargedMoves": [
+        "DARK_PULSE",
+        "LAST_RESORT"
+      ]
+    },
+    {
       "speciesId": "vigoroth",
       "fastMove": "SCRATCH",
       "chargedMoves": [
@@ -353,12 +361,13 @@
       ]
     },
     {
-      "speciesId": "umbreon",
-      "fastMove": "SNARL",
+      "speciesId": "hydreigon_shadow",
+      "fastMove": "DRAGON_BREATH",
       "chargedMoves": [
-        "DARK_PULSE",
-        "LAST_RESORT"
-      ]
+        "BRUTAL_SWING",
+        "FLY"
+      ],
+      "shadowType": "shadow"
     }
   ]
 }
