@@ -26,21 +26,21 @@
   "pokedexEntries": {
     "schemaVersion": 1,
     "revisions": {
-      "en": "sha256-50a1d4412677d99d8833a87bb163fc630285ad163ff9fdb0debd9a6d49d513e0",
-      "de": "sha256-9944413261e5d44091209251d08472f2b37c56c168a2cad9d511e6ca2aa11a2a",
-      "es": "sha256-c02cd236acb18a1b2bd57c997d3da45b3f4bd2a8e2c75ad4f041cd3f8c9c14ac",
-      "es-419": "sha256-d0294418a78af483fdbea4f658536ab6ce9f3c04145483e015b5f8462986ab5d",
-      "fr": "sha256-9e0a29a5e9c0edbebe54a0292ef4804cbe3e1bc1b4e0d4ae9aa6a2038fa105ec",
-      "it": "sha256-ef00a19f3f29c89abf6954c3ec587598ffd9c08f6cbb4034d5e77ac972257b2d",
-      "ja": "sha256-842fa431772bf31bedb89d2a7a139b6fac5ca88b2b89452618eca1a797fa5e28",
-      "ko": "sha256-6417c825994417b5c7880ffe73d0b906448970ae513d3ab8be884d76ead1686d",
-      "pt": "sha256-edb966b3f3f0784ad9f4a1c41a1f83da35c722e518334b3a547b90d8d603d2d4",
-      "zh-Hant": "sha256-cc128cef5fb6b6e97cd5cf606f781fc1a5633160a399bc5b4daed14a30a68392"
+      "en": "sha256-fec519a140268616909987f6e07a0ad8b2af9a091ad22a3415f02bc92b934653",
+      "de": "sha256-07f92e9ea5879945ba2b79b9854d488768163cc35324da3645d295c7e72f0d90",
+      "es": "sha256-ca9f31093d18d70b523f97d2607b4318f733f83ab44f34809f68ad5c3715be19",
+      "es-419": "sha256-636fd55093b0d57228c489e9b7b9d07cf955c79bc2d332e98abf426593d8f09f",
+      "fr": "sha256-6043935359c4e51057db31bf42cf320b4bfa494bc9aeae4a489c3dd65a09cf54",
+      "it": "sha256-742ddeb6f9f0594a050932c8960d2cb57d0815766cdd14337a357ce0096b3c05",
+      "ja": "sha256-05e682c88dc6455a9617acce175a12b0ad4e7736538a5fc2545c4d14287035a5",
+      "ko": "sha256-2d70839fbf67063c8bb977cd5570c7e045ac1a7991e5ebebd88c09fb85d656e1",
+      "pt": "sha256-f63e3d7b8cb35f310b7ad2c26f1579b73dfe6ee8967c9a635c357b53d4344ba4",
+      "zh-Hant": "sha256-503dd8487da3de03a9e328e06b1cb367df0db4970d2c12a9f5f9cf53779d4ff9"
     }
   },
   "pve": {
     "schemaVersion": 1,
-    "revision": "sha256-6e9531656a7fd8549a5c4826d9704efcd83536c2b29aaba30e05e72abfa7a4ea"
+    "revision": "sha256-3afe7a9ee96fa50874fc4519c52af06c19c2dd0f569f53e5eb7af4c7de0c369a"
   },
   "raidBosses": {
     "schemaVersion": 1,
