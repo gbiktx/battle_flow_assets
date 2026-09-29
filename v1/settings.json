@@ -84,6 +84,7 @@
       "name": "colormega",
       "title": "Mega Color Cup",
       "cpLimit": "1500",
+      "badge": "images/cups/megacolor.png",
       "active": true,
       "schedule": [
         {
@@ -451,8 +452,8 @@
       "active": false
     }
   ],
-  "version": "1.26",
-  "forceAppVersion": "300",
+  "version": "1.27",
+  "forceAppVersion": "4.3.0",
   "showGblCalendar": true,
   "showMetaProfiles": true,
   "seasons": [
