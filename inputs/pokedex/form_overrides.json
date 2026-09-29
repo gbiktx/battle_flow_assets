@@ -74,6 +74,42 @@
       "names": {
         "es-419": "Rotom"
       }
+    },
+    "MORPEKO_HANGRY": {
+      "category": "battleOnly"
+    },
+    "AEGISLASH_BLADE": {
+      "category": "battleOnly"
+    },
+    "MIMIKYU_BUSTED": {
+      "category": "battleOnly"
+    },
+    "CRAMORANT_GULPING": {
+      "category": "battleOnly"
+    },
+    "CRAMORANT_GORGING": {
+      "category": "battleOnly"
+    },
+    "DARMANITAN_ZEN": {
+      "category": "battleOnly"
+    },
+    "DARMANITAN_GALARIAN_ZEN": {
+      "category": "battleOnly"
+    },
+    "WISHIWASHI_SCHOOL": {
+      "category": "battleOnly"
+    },
+    "MELOETTA_PIROUETTE": {
+      "category": "battleOnly"
+    },
+    "EISCUE_NOICE": {
+      "category": "battleOnly"
+    },
+    "NECROZMA_ULTRA": {
+      "category": "battleOnly"
+    },
+    "ETERNATUS_ETERNAMAX": {
+      "category": "battleOnly"
     }
   }
 }
