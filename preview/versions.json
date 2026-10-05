@@ -45,5 +45,13 @@
   "raidBosses": {
     "schemaVersion": 2,
     "revision": "sha256-eb811787dcd3b0a446f887b9e9b019951ba7d62b68893918a444c7137664c6aa"
+  },
+  "trioFields": {
+    "schemaVersion": 1,
+    "revision": "sha256-d90f1d629977a45ed8eedbc475e57dcaaf5db5f5547e7025ee948b35f325ebdf"
+  },
+  "roleProfiles": {
+    "schemaVersion": 1,
+    "revision": "sha256-1ec4f615fd2afecf04c59be8235ed51d46f3d12ece3cf028a76c084d3412642f"
   }
 }
