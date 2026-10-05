@@ -1,0 +1,11 @@
+[
+  {"generation": 1, "starters": [1, 4, 7]},
+  {"generation": 2, "starters": [152, 155, 158]},
+  {"generation": 3, "starters": [252, 255, 258]},
+  {"generation": 4, "starters": [387, 390, 393]},
+  {"generation": 5, "starters": [495, 498, 501]},
+  {"generation": 6, "starters": [650, 653, 656]},
+  {"generation": 7, "starters": [722, 725, 728]},
+  {"generation": 8, "starters": [810, 813, 816]},
+  {"generation": 9, "starters": [906, 909, 912]}
+]
