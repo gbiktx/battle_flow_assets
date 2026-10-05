@@ -408,7 +408,7 @@
       "active": false
     }
   ],
-  "version": "1.22",
+  "version": "1.23",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,
@@ -526,6 +526,82 @@
           "severeCore": 27.5
         }
       }
+    }
+  },
+  "generatorV5RankingTuning": {
+    "gapPenalty": 14.0,
+    "meetChanceFactor": 3.0,
+    "closerWeight": 0.02,
+    "myBattlesThreshold": 10,
+    "displayBands": {
+      "risky": 42,
+      "playable": 45,
+      "solid": 47,
+      "strong": 50,
+      "elite": 101
+    },
+    "v6": {
+      "maxTrios": 60,
+      "leagues": {
+        "1500": {
+          "coefficients": {
+            "mean_s0": 26.454392809105,
+            "mean_s12": -5.398871893841,
+            "trio_s012": 2.187060033027,
+            "fixed_s012": 9.204581567651,
+            "assignment_s012": 0.430527805222,
+            "nonhard550_s012": 1.884550585038,
+            "coverage_s2": 0.808031041905,
+            "intercept": -18.7964546282
+          },
+          "bandPercentiles": {
+            "risky": 13,
+            "playable": 26,
+            "solid": 48,
+            "strong": 73,
+            "elite": 96
+          }
+        },
+        "2500": {
+          "coefficients": {
+            "mean_s0": 26.454392809105,
+            "mean_s12": -5.398871893841,
+            "trio_s012": 2.187060033027,
+            "fixed_s012": 9.204581567651,
+            "assignment_s012": 0.430527805222,
+            "nonhard550_s012": 1.884550585038,
+            "coverage_s2": 0.808031041905,
+            "intercept": -18.7964546282
+          },
+          "bandPercentiles": {
+            "risky": 13,
+            "playable": 26,
+            "solid": 48,
+            "strong": 73,
+            "elite": 96
+          }
+        },
+        "10000": {
+          "coefficients": {
+            "mean_s0": 26.454392809105,
+            "mean_s12": -5.398871893841,
+            "trio_s012": 2.187060033027,
+            "fixed_s012": 9.204581567651,
+            "assignment_s012": 0.430527805222,
+            "nonhard550_s012": 1.884550585038,
+            "coverage_s2": 0.808031041905,
+            "intercept": -18.7964546282
+          },
+          "bandPercentiles": {
+            "risky": 13,
+            "playable": 26,
+            "solid": 48,
+            "strong": 73,
+            "elite": 96
+          }
+        }
+      },
+      "cups": {}
     }
   }
 }
