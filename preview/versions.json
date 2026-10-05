@@ -48,10 +48,10 @@
   },
   "trioFields": {
     "schemaVersion": 1,
-    "revision": "sha256-d90f1d629977a45ed8eedbc475e57dcaaf5db5f5547e7025ee948b35f325ebdf"
+    "revision": "sha256-b82acb4657df9dae870eb003266660102558514171f4abb4fc3a9a61237f3960"
   },
   "roleProfiles": {
     "schemaVersion": 1,
-    "revision": "sha256-1ec4f615fd2afecf04c59be8235ed51d46f3d12ece3cf028a76c084d3412642f"
+    "revision": "sha256-190b7dcf5b9ed6dea126a9c2254fe76731b702ddb94be460891166ba63c445f6"
   }
 }
