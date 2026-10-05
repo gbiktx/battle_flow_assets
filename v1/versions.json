@@ -1,5 +1,5 @@
 {
-  "dataVersion": "1.27",
+  "dataVersion": "1.28",
   "forceAppVersion": "4.3.0",
   "latestAppVersion": "4.4.0",
   "gameTranslations": {
@@ -8,7 +8,7 @@
       "de": "sha256-2d71d608156b28bb1a26d75c8861424edc61dc6c9ffac94f455003507f500ce5",
       "en": "sha256-3710b19723121a765d1dad5f9ed5a60b67c2c4477faf012a84cbd262a1f8a981",
       "es": "sha256-cae9bda42204cd991b8b3e344bbab2748f0b763c33b6b10bcb4983b9953d751d",
-      "es-419": "sha256-c10af5e78acd23932a2c5488121c95a7c1dfecddb00715c047e27795222a3660",
+      "es-419": "sha256-1a8145423625ad098eb8b1cda2a7b9d09501a9d8c34e2ac294e60e9ce411369b",
       "fr": "sha256-3cc7e7cea0f11b1f03db748e9c801f2a5bf4dbfccbf054aef3f7a54c9186ce96",
       "hi": "sha256-57dfef343070c183b59e9200abbf7ef638fa635216f47aff699b85511b8088a4",
       "it": "sha256-f54e92d7874d47c3fbce9920cd7de603e3ed3761c083059fbdade35a1b1702ea",

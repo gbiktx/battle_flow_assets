@@ -480,7 +480,7 @@
     "476": "Probopass",
     "477": "Dusknoir",
     "478": "Froslass",
-    "479": "Forma de Rotom",
+    "479": "Rotom",
     "480": "Uxie",
     "481": "Mesprit",
     "482": "Azelf",
@@ -1380,5 +1380,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-c10af5e78acd23932a2c5488121c95a7c1dfecddb00715c047e27795222a3660"
+  "revision": "sha256-1a8145423625ad098eb8b1cda2a7b9d09501a9d8c34e2ac294e60e9ce411369b"
 }
