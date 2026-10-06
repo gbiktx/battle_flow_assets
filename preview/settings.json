@@ -555,11 +555,11 @@
             "intercept": -18.7964546282
           },
           "bandPercentiles": {
-            "risky": 13,
-            "playable": 26,
-            "solid": 48,
-            "strong": 73,
-            "elite": 96
+            "risky": 36,
+            "playable": 44,
+            "solid": 56,
+            "strong": 67,
+            "elite": 76
           }
         },
         "2500": {
@@ -574,11 +574,11 @@
             "intercept": -18.7964546282
           },
           "bandPercentiles": {
-            "risky": 13,
-            "playable": 26,
-            "solid": 48,
-            "strong": 73,
-            "elite": 96
+            "risky": 26,
+            "playable": 32,
+            "solid": 55,
+            "strong": 67,
+            "elite": 80
           }
         },
         "10000": {
@@ -593,11 +593,11 @@
             "intercept": -18.7964546282
           },
           "bandPercentiles": {
-            "risky": 13,
-            "playable": 26,
-            "solid": 48,
-            "strong": 73,
-            "elite": 96
+            "risky": 26,
+            "playable": 32,
+            "solid": 55,
+            "strong": 67,
+            "elite": 80
           }
         }
       },
