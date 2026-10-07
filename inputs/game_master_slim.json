@@ -1236,6 +1236,10 @@
     "forms": [
      {
       "form": "MACHAMP_NORMAL"
+     },
+     {
+      "form": "MACHAMP_WILDAREA_2026_01",
+      "isCostume": true
      }
     ]
    }
@@ -10302,6 +10306,9 @@
     "forms": [
      {
       "form": "SLIGGOO_NORMAL"
+     },
+     {
+      "form": "SLIGGOO_HISUIAN"
      }
     ]
    }
@@ -10315,6 +10322,9 @@
     "forms": [
      {
       "form": "GOODRA_NORMAL"
+     },
+     {
+      "form": "GOODRA_HISUIAN"
      }
     ]
    }
