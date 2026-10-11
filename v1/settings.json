@@ -85,7 +85,7 @@
       "title": "Mega Color Cup",
       "cpLimit": "1500",
       "badge": "images/cups/megacolor.png",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-09-29T13:00:00-07:00",
@@ -452,7 +452,7 @@
       "active": false
     }
   ],
-  "version": "1.29",
+  "version": "1.30",
   "forceAppVersion": "4.3.0",
   "showGblCalendar": true,
   "showMetaProfiles": true,
