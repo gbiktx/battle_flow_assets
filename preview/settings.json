@@ -533,6 +533,10 @@
     "meetChanceFactor": 3.0,
     "closerWeight": 0.02,
     "myBattlesThreshold": 10,
+    "battleGrade": {
+      "minTeams": 30,
+      "cuts": [0.99, 0.90, 0.62, 0.26]
+    },
     "displayBands": {
       "risky": 42,
       "playable": 45,
