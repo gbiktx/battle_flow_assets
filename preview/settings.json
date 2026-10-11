@@ -243,7 +243,7 @@
       "title": "Mega Color Cup",
       "cpLimit": "1500",
       "badge": "images/cups/megacolor.png",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-09-29T13:00:00-07:00",
@@ -408,7 +408,7 @@
       "active": false
     }
   ],
-  "version": "1.24",
+  "version": "1.25",
   "forceAppVersion": "300",
   "showGblCalendar": true,
   "showMetaProfiles": true,
@@ -535,7 +535,12 @@
     "myBattlesThreshold": 10,
     "battleGrade": {
       "minTeams": 30,
-      "cuts": [0.99, 0.90, 0.62, 0.26]
+      "cuts": [
+        0.99,
+        0.9,
+        0.62,
+        0.26
+      ]
     },
     "displayBands": {
       "risky": 42,
