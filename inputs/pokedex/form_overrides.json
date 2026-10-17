@@ -145,6 +145,30 @@
       "names": {
         "en": "Phony · Halloween 2026"
       }
+    },
+    "MINIOR_METEOR": {
+      "category": "battleOnly"
+    },
+    "MINIOR_METEOR_BLUE": {
+      "category": "battleOnly"
+    },
+    "MINIOR_METEOR_GREEN": {
+      "category": "battleOnly"
+    },
+    "MINIOR_METEOR_INDIGO": {
+      "category": "battleOnly"
+    },
+    "MINIOR_METEOR_ORANGE": {
+      "category": "battleOnly"
+    },
+    "MINIOR_METEOR_RED": {
+      "category": "battleOnly"
+    },
+    "MINIOR_METEOR_VIOLET": {
+      "category": "battleOnly"
+    },
+    "MINIOR_METEOR_YELLOW": {
+      "category": "battleOnly"
     }
   }
 }
