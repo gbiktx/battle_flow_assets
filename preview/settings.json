@@ -665,10 +665,10 @@
       "zekrom",
       "zekrom_shadow"
     ],
-    "purified": [
-      "giratina_altered"
-    ],
     "moves": {
+      "RETURN": [
+        "giratina_altered"
+      ],
       "ACID": [
         "grimer",
         "grimer_alolan",
