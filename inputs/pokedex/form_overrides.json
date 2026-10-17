@@ -110,6 +110,41 @@
     },
     "ETERNATUS_ETERNAMAX": {
       "category": "battleOnly"
+    },
+    "ZUBAT_HALLOWEEN_2026_01": {
+      "names": {
+        "en": "Halloween 2026"
+      }
+    },
+    "GOLBAT_HALLOWEEN_2026_01": {
+      "names": {
+        "en": "Halloween 2026"
+      }
+    },
+    "CROBAT_HALLOWEEN_2026_01": {
+      "names": {
+        "en": "Halloween 2026"
+      }
+    },
+    "SINISTEA_A_HALLOWEEN_2026_01": {
+      "names": {
+        "en": "Antique · Halloween 2026"
+      }
+    },
+    "SINISTEA_P_HALLOWEEN_2026_01": {
+      "names": {
+        "en": "Phony · Halloween 2026"
+      }
+    },
+    "POLTEAGEIST_A_HALLOWEEN_2026_01": {
+      "names": {
+        "en": "Antique · Halloween 2026"
+      }
+    },
+    "POLTEAGEIST_P_HALLOWEEN_2026_01": {
+      "names": {
+        "en": "Phony · Halloween 2026"
+      }
     }
   }
 }

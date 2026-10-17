@@ -1150,6 +1150,54 @@
   "LC_2023_BARCELONA_CITYSAFARI_001": {
    "name": "City Safari 2023: Barcelona",
    "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_2026_GOWA": {
+   "name": "GO Wild Area 2026",
+   "reviewed": false
+  },
+  "LC_2026_GOWA_SENDAI": {
+   "name": "GO Wild Area 2026: Sendai",
+   "reviewed": false
+  },
+  "LC_2026_GOWA_MEXICOCITY": {
+   "name": "GO Wild Area 2026: Mexico City",
+   "reviewed": false
+  },
+  "LC_POKELID_NAGANO": {
+   "name": "Poké Lid Nagano",
+   "reviewed": false
+  },
+  "LC_2025_NFL_002": {
+   "name": "NFL #2 · 2025",
+   "reviewed": false
+  },
+  "LC_2026_COMICCON_MALAGA": {
+   "name": "Comic-Con Málaga · 2026",
+   "reviewed": false
+  },
+  "LC_EMEA_MUSEUM_01": {
+   "name": "EMEA Museum #1",
+   "reviewed": false
+  },
+  "LC_EMEA_MUSEUM_02": {
+   "name": "EMEA Museum #2",
+   "reviewed": false
+  },
+  "LC_EMEA_MUSEUM_03": {
+   "name": "EMEA Museum #3",
+   "reviewed": false
+  },
+  "LC_EMEA_MUSEUM_04": {
+   "name": "EMEA Museum #4",
+   "reviewed": false
+  },
+  "LC_EMEA_MUSEUM_05": {
+   "name": "EMEA Museum #5",
+   "reviewed": false
+  },
+  "LC_EMEA_MUSEUM_06": {
+   "name": "EMEA Museum #6",
+   "reviewed": false
   }
  }
 }

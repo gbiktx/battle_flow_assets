@@ -638,6 +638,10 @@
      {
       "form": "PIKACHU_GLASS_HELMET_2026",
       "isCostume": true
+     },
+     {
+      "form": "PIKACHU_HALLOWEEN_2026",
+      "isCostume": true
      }
     ]
    }
@@ -861,6 +865,10 @@
     "forms": [
      {
       "form": "ZUBAT_NORMAL"
+     },
+     {
+      "form": 3362,
+      "isCostume": true
      }
     ]
    }
@@ -874,6 +882,10 @@
     "forms": [
      {
       "form": "GOLBAT_NORMAL"
+     },
+     {
+      "form": 3363,
+      "isCostume": true
      }
     ]
    }
@@ -2666,6 +2678,10 @@
     "forms": [
      {
       "form": "CROBAT_NORMAL"
+     },
+     {
+      "form": 3364,
+      "isCostume": true
      }
     ]
    }
@@ -11331,10 +11347,13 @@
     "pokemon": "MINIOR",
     "forms": [
      {
-      "form": "MINIOR_BLUE"
+      "form": "MINIOR_RED"
      },
      {
       "form": "MINIOR_GREEN"
+     },
+     {
+      "form": "MINIOR_BLUE"
      },
      {
       "form": "MINIOR_INDIGO"
@@ -11343,13 +11362,34 @@
       "form": "MINIOR_ORANGE"
      },
      {
-      "form": "MINIOR_RED"
-     },
-     {
       "form": "MINIOR_VIOLET"
      },
      {
       "form": "MINIOR_YELLOW"
+     },
+     {
+      "form": "MINIOR_METEOR_BLUE"
+     },
+     {
+      "form": "MINIOR_METEOR_GREEN"
+     },
+     {
+      "form": "MINIOR_METEOR_INDIGO"
+     },
+     {
+      "form": "MINIOR_METEOR_ORANGE"
+     },
+     {
+      "form": "MINIOR_METEOR_RED"
+     },
+     {
+      "form": "MINIOR_METEOR_VIOLET"
+     },
+     {
+      "form": "MINIOR_METEOR_YELLOW"
+     },
+     {
+      "form": "MINIOR_METEOR"
      }
     ]
    }
@@ -12417,6 +12457,14 @@
      },
      {
       "form": "SINISTEA_ANTIQUE"
+     },
+     {
+      "form": 3365,
+      "isCostume": true
+     },
+     {
+      "form": 3366,
+      "isCostume": true
      }
     ]
    }
@@ -12433,6 +12481,14 @@
      },
      {
       "form": "POLTEAGEIST_ANTIQUE"
+     },
+     {
+      "form": 3367,
+      "isCostume": true
+     },
+     {
+      "form": 3368,
+      "isCostume": true
      }
     ]
    }
@@ -27611,6 +27667,17 @@
   }
  },
  {
+  "templateId": "VM_MOVE_TEMP_EVOLUTION_MEGA_V0310_POKEMON_MANECTRIC",
+  "data": {
+   "moveSettings": {
+    "movementId": "TEMP_EVOLUTION_MEGA_V0310_POKEMON_MANECTRIC",
+    "damageWindowStartMs": 1700,
+    "power": 150.0,
+    "durationMs": 2500
+   }
+  }
+ },
+ {
   "templateId": "VM_MOVE_TEMP_EVOLUTION_MEGA_V0398_POKEMON_STARAPTOR",
   "data": {
    "moveSettings": {
@@ -27618,6 +27685,17 @@
     "damageWindowStartMs": 1000,
     "power": 150.0,
     "durationMs": 2000
+   }
+  }
+ },
+ {
+  "templateId": "VM_MOVE_TEMP_EVOLUTION_MEGA_V0609_POKEMON_CHANDELURE",
+  "data": {
+   "moveSettings": {
+    "movementId": "TEMP_EVOLUTION_MEGA_V0609_POKEMON_CHANDELURE",
+    "damageWindowStartMs": 2050,
+    "power": 145.0,
+    "durationMs": 2500
    }
   }
  },
