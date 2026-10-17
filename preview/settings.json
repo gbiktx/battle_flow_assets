@@ -613,5 +613,90 @@
       "cups": {}
     }
   },
-  "megaSelfLevelBoost": [0, 0, 0, 2]
+  "megaSelfLevelBoost": [0, 0, 0, 2],
+  "playPokemonBans": {
+    "species": [
+      "cobalion",
+      "dialga",
+      "dialga_origin",
+      "ditto",
+      "enamorus_incarnate",
+      "enamorus_therian",
+      "groudon",
+      "kabuto_shadow",
+      "kabutops_shadow",
+      "kyogre",
+      "kyurem",
+      "kyurem_black",
+      "kyurem_white",
+      "landorus_incarnate",
+      "landorus_therian",
+      "lunala",
+      "mewtwo",
+      "mewtwo_armored",
+      "mimikyu",
+      "mimikyu_busted",
+      "mudbray",
+      "mudsdale",
+      "palkia",
+      "palkia_origin",
+      "ponyta_shadow",
+      "rapidash_shadow",
+      "reshiram",
+      "reshiram_shadow",
+      "shedinja",
+      "solgaleo",
+      "tapu_bulu",
+      "tapu_koko",
+      "tapu_lele",
+      "terrakion",
+      "thundurus_incarnate",
+      "thundurus_therian",
+      "tornadus_incarnate",
+      "tornadus_therian",
+      "virizion",
+      "volcanion",
+      "xerneas",
+      "yveltal",
+      "zacian_crowned_sword",
+      "zacian_hero",
+      "zamazenta_crowned_shield",
+      "zamazenta_hero",
+      "zekrom",
+      "zekrom_shadow"
+    ],
+    "purified": [
+      "giratina_altered"
+    ],
+    "moves": {
+      "ACID": [
+        "grimer",
+        "grimer_alolan",
+        "grimer_alolan_shadow",
+        "grimer_shadow",
+        "koffing",
+        "koffing_shadow",
+        "muk",
+        "muk_alolan",
+        "muk_alolan_shadow",
+        "muk_shadow",
+        "weezing",
+        "weezing_galarian",
+        "weezing_galarian_shadow",
+        "weezing_shadow"
+      ],
+      "PSYBEAM": [
+        "chansey"
+      ],
+      "QUICK_ATTACK": [
+        "pichu",
+        "porygon",
+        "porygon_shadow",
+        "starmie",
+        "starmie_shadow",
+        "staryu",
+        "staryu_shadow"
+      ]
+    }
+  }
 }
