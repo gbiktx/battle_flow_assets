@@ -333,7 +333,7 @@
       "name": "mega",
       "title": "Mega Ultra League",
       "cpLimit": "2500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-09-01T13:00:00-07:00",
@@ -452,7 +452,7 @@
       "active": false
     }
   ],
-  "version": "1.31",
+  "version": "1.32",
   "forceAppVersion": "4.3.0",
   "showGblCalendar": true,
   "showMetaProfiles": true,
