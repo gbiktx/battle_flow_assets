@@ -697,5 +697,11 @@
         "staryu_shadow"
       ]
     }
+  },
+  "betaJoin": {
+    "enabled": false,
+    "belowAppVersion": "5.0.0",
+    "android": "https://play.google.com/apps/testing/com.baru.software.oak",
+    "ios": ""
   }
 }
