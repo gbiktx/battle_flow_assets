@@ -731,9 +731,6 @@
           "strictCap": true
         }
       }
-    },
-    "animationMs": {
-      "minior_meteor": 5000
     }
   }
 }
