@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-26T18:28:25.554588Z",
+  "synced_at": "2026-10-27T14:02:35.606146Z",
   "groups": {
     "all-1500": "great.json",
     "fantasy-1500": "fantasy.json",
@@ -9,6 +9,7 @@
     "mega-2500": "megaultra.json",
     "all-10000": "master.json",
     "mega-10000": "mega.json",
-    "all-500": "little.json"
+    "all-500": "little.json",
+    "halloweenmega-1500": "halloweenmega.json"
   }
 }
