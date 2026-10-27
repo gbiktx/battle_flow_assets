@@ -571,5 +571,36 @@
         }
       }
     }
+  },
+  "chargedCounterTuning": {
+    "version": "2026-08-21-pvpoke",
+    "damageFractions": {
+      "cramorant": 0.15
+    },
+    "damageFlatBonuses": {
+      "cramorant": 1
+    }
+  },
+  "formChangeTuning": {
+    "version": "2026-10-24-cap-lerp",
+    "levels": {
+      "minior_meteor": {
+        "1500": {
+          "capLerp": 80,
+          "step": 0.5,
+          "strictCap": true
+        },
+        "2500": {
+          "capLerp": 80,
+          "step": 0.5,
+          "strictCap": true
+        },
+        "10000": {
+          "capLerp": 80,
+          "step": 0.5,
+          "strictCap": true
+        }
+      }
+    }
   }
 }
