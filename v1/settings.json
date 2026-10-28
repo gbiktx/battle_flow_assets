@@ -38,7 +38,7 @@
       "name": "fantasy",
       "title": "Fantasy Cup",
       "cpLimit": "1500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-10-20T13:00:00-07:00",
@@ -458,7 +458,7 @@
       "active": false
     }
   ],
-  "version": "1.34",
+  "version": "1.36",
   "forceAppVersion": "4.3.0",
   "showGblCalendar": true,
   "showMetaProfiles": true,
