@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Tête de Fer",
     "IRON_TAIL": "Queue de Fer",
     "KARATE_CHOP": "Poing Karaté",
+    "KOWTOW_CLEAVE": "Génusection",
     "LAST_RESORT": "Dernier Recours",
     "LEAFAGE": "Feuillage",
     "LEAF_BLADE": "Lame Feuille",
@@ -1241,6 +1242,7 @@
     "OBSTRUCT": "Blocage",
     "OCTAZOOKA": "Octazooka",
     "OMINOUS_WIND": "Vent Mauvais",
+    "OMINOUS_WIND_PLUS": "Vent Mauvais+",
     "ORIGIN_PULSE": "Onde Originelle",
     "OUTRAGE": "Colère",
     "OUTRAGE_PLUS": "Colère+",
@@ -1380,5 +1382,5 @@
     "ZAP_CANNON_PLUS": "Élecanon+",
     "ZEN_HEADBUTT": "Psykoud’Boul"
   },
-  "revision": "sha256-3cc7e7cea0f11b1f03db748e9c801f2a5bf4dbfccbf054aef3f7a54c9186ce96"
+  "revision": "sha256-5e3be88f7ee1619e10ea5206f83138e68b5ad2130892513daf0c13e919db0edd"
 }

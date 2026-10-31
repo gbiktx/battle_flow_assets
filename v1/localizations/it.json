@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Metaltestata",
     "IRON_TAIL": "Codacciaio",
     "KARATE_CHOP": "Colpokarate",
+    "KOWTOW_CLEAVE": "Genufendente",
     "LAST_RESORT": "Ultimascelta",
     "LEAFAGE": "Fogliame",
     "LEAF_BLADE": "Fendifoglia",
@@ -1241,6 +1242,7 @@
     "OBSTRUCT": "Sbarramento",
     "OCTAZOOKA": "Octazooka",
     "OMINOUS_WIND": "Funestovento",
+    "OMINOUS_WIND_PLUS": "Funestovento+",
     "ORIGIN_PULSE": "Primopulsar",
     "OUTRAGE": "Oltraggio",
     "OUTRAGE_PLUS": "Oltraggio+",
@@ -1380,5 +1382,5 @@
     "ZAP_CANNON_PLUS": "Falcecannone+",
     "ZEN_HEADBUTT": "Cozzata Zen"
   },
-  "revision": "sha256-f54e92d7874d47c3fbce9920cd7de603e3ed3761c083059fbdade35a1b1702ea"
+  "revision": "sha256-5cedbb4c5007dcc5282711f5103ada2067287a578f3d63a986554c7d3822f2e8"
 }

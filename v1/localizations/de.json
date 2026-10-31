@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Eisenschädel",
     "IRON_TAIL": "Eisenschweif",
     "KARATE_CHOP": "Karateschlag",
+    "KOWTOW_CLEAVE": "Kniefallspalter",
     "LAST_RESORT": "Zuflucht",
     "LEAFAGE": "Blattwerk",
     "LEAF_BLADE": "Laubklinge",
@@ -1241,6 +1242,7 @@
     "OBSTRUCT": "Abblocker",
     "OCTAZOOKA": "Octazooka",
     "OMINOUS_WIND": "Unheilböen",
+    "OMINOUS_WIND_PLUS": "Unheilböen+",
     "ORIGIN_PULSE": "Ursprungswoge",
     "OUTRAGE": "Wutanfall",
     "OUTRAGE_PLUS": "Wutanfall+",
@@ -1380,5 +1382,5 @@
     "ZAP_CANNON_PLUS": "Blitzkanone+",
     "ZEN_HEADBUTT": "Zen-Kopfstoß"
   },
-  "revision": "sha256-2d71d608156b28bb1a26d75c8861424edc61dc6c9ffac94f455003507f500ce5"
+  "revision": "sha256-6e3c31d613f41fafa98a4536ed837460eab1d166dabbe8aea9efc8aa2cb0bd38"
 }

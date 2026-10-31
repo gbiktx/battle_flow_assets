@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Cabeza de Hierro",
     "IRON_TAIL": "Cola de Hierro",
     "KARATE_CHOP": "Golpe Karate",
+    "KOWTOW_CLEAVE": "Genufendiente",
     "LAST_RESORT": "Último Recurso",
     "LEAFAGE": "Follaje",
     "LEAF_BLADE": "Hoja Aguda",
@@ -1241,6 +1242,7 @@
     "OBSTRUCT": "Obstrucción",
     "OCTAZOOKA": "Octazuca",
     "OMINOUS_WIND": "Viento Ominoso",
+    "OMINOUS_WIND_PLUS": "Viento Ominoso+",
     "ORIGIN_PULSE": "Pulso Primigenio",
     "OUTRAGE": "Enfado",
     "OUTRAGE_PLUS": "Enfado+",
@@ -1380,5 +1382,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-1a8145423625ad098eb8b1cda2a7b9d09501a9d8c34e2ac294e60e9ce411369b"
+  "revision": "sha256-ffa3a79de9b43ec12eff61027315225130d72fe8693a57032f66e1b120018b60"
 }

@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Cabeça de Ferro",
     "IRON_TAIL": "Cauda de Ferro",
     "KARATE_CHOP": "Golpe de Caratê",
+    "KOWTOW_CLEAVE": "Humilhação Dividida",
     "LAST_RESORT": "Último Recurso",
     "LEAFAGE": "Folhagem",
     "LEAF_BLADE": "Lâmina de Folha",
@@ -1241,6 +1242,7 @@
     "OBSTRUCT": "Obstruir",
     "OCTAZOOKA": "Polvo-canhão",
     "OMINOUS_WIND": "Vento Ominoso",
+    "OMINOUS_WIND_PLUS": "Vento Ominoso+",
     "ORIGIN_PULSE": "Pulso Original",
     "OUTRAGE": "Ultraje",
     "OUTRAGE_PLUS": "Ultraje+",
@@ -1380,5 +1382,5 @@
     "ZAP_CANNON_PLUS": "Canhão Zap+",
     "ZEN_HEADBUTT": "Cabeçada Zen"
   },
-  "revision": "sha256-819206b1c9d6368f0e9568ec309fa66c054cd30dffeeeecc3236dd2b8bcdf92e"
+  "revision": "sha256-766c7835cfad8882ecf92d7c98bb58847f2aff8c44acac52508320a559354ae0"
 }

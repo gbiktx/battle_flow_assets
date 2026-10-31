@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "铁头",
     "IRON_TAIL": "铁尾",
     "KARATE_CHOP": "空手劈",
+    "KOWTOW_CLEAVE": "仆刀",
     "LAST_RESORT": "珍藏",
     "LEAFAGE": "树叶",
     "LEAF_BLADE": "叶刃",
@@ -1241,6 +1242,7 @@
     "OBSTRUCT": "拦堵",
     "OCTAZOOKA": "章鱼桶炮",
     "OMINOUS_WIND": "奇异之风",
+    "OMINOUS_WIND_PLUS": "奇异之风+",
     "ORIGIN_PULSE": "根源波动",
     "OUTRAGE": "逆鳞",
     "OUTRAGE_PLUS": "逆鳞+",
@@ -1380,5 +1382,5 @@
     "ZAP_CANNON_PLUS": "电磁炮+",
     "ZEN_HEADBUTT": "意念头锤"
   },
-  "revision": "sha256-6c8f205b4ba4c8863e8a307173f08431a66da17a54b5e78169b0e7932eecdfeb"
+  "revision": "sha256-84384f0010db72373b874c9f82f40e57a16d37e72785ad702fae1cd93298ea5f"
 }

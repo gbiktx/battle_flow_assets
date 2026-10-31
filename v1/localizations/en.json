@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Iron Head",
     "IRON_TAIL": "Iron Tail",
     "KARATE_CHOP": "Karate Chop",
+    "KOWTOW_CLEAVE": "Kowtow Cleave",
     "LAST_RESORT": "Last Resort",
     "LEAFAGE": "Leafage",
     "LEAF_BLADE": "Leaf Blade",
@@ -1241,6 +1242,7 @@
     "OBSTRUCT": "Obstruct",
     "OCTAZOOKA": "Octazooka",
     "OMINOUS_WIND": "Ominous Wind",
+    "OMINOUS_WIND_PLUS": "Ominous Wind+",
     "ORIGIN_PULSE": "Origin Pulse",
     "OUTRAGE": "Outrage",
     "OUTRAGE_PLUS": "Outrage+",
@@ -1380,5 +1382,5 @@
     "ZAP_CANNON_PLUS": "Zap Cannon+",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-3710b19723121a765d1dad5f9ed5a60b67c2c4477faf012a84cbd262a1f8a981"
+  "revision": "sha256-9ec2e7598ea748ff3b1a069d16bd265b42c046fbd424bb1814c4321ae61d82c3"
 }

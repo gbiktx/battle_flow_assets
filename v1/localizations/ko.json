@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "아이언헤드",
     "IRON_TAIL": "아이언테일",
     "KARATE_CHOP": "태권당수",
+    "KOWTOW_CLEAVE": "도각참",
     "LAST_RESORT": "비장의무기",
     "LEAFAGE": "나뭇잎",
     "LEAF_BLADE": "리프블레이드",
@@ -1241,6 +1242,7 @@
     "OBSTRUCT": "블로킹",
     "OCTAZOOKA": "대포무노포",
     "OMINOUS_WIND": "괴상한바람",
+    "OMINOUS_WIND_PLUS": "괴상한바람+",
     "ORIGIN_PULSE": "근원의파동",
     "OUTRAGE": "역린",
     "OUTRAGE_PLUS": "역린+",
@@ -1380,5 +1382,5 @@
     "ZAP_CANNON_PLUS": "전자포+",
     "ZEN_HEADBUTT": "사념의박치기"
   },
-  "revision": "sha256-6b038152da6a96edf8eb8238a50237346011c20d9a1f87b36e082d4ffac6ea12"
+  "revision": "sha256-3f15dfa1850e764aad731057cf89a9300cdadcfdaa164872029dff38069d4d9a"
 }
