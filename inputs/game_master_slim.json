@@ -23911,6 +23911,17 @@
   }
  },
  {
+  "templateId": "V0615_MOVE_KOWTOW_CLEAVE",
+  "data": {
+   "moveSettings": {
+    "movementId": 615,
+    "damageWindowStartMs": 1300,
+    "power": 85.0,
+    "durationMs": 2000
+   }
+  }
+ },
+ {
   "templateId": "V0615_POKEMON_CRYOGONAL",
   "data": {
    "pokemonSettings": {
@@ -27663,6 +27674,17 @@
     "damageWindowStartMs": 1400,
     "power": 150.0,
     "durationMs": 3000
+   }
+  }
+ },
+ {
+  "templateId": "VM_MOVE_TEMP_EVOLUTION_MEGA_V0302_POKEMON_SABLEYE",
+  "data": {
+   "moveSettings": {
+    "movementId": "TEMP_EVOLUTION_MEGA_V0302_POKEMON_SABLEYE",
+    "damageWindowStartMs": 2000,
+    "power": 160.0,
+    "durationMs": 2500
    }
   }
  },

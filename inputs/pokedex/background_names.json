@@ -1,5 +1,25 @@
 {
  "names": {
+  "LC_SPECIALBACKGROUND_FOL_2026": {
+   "name": "Festival of Lights 2026",
+   "reviewed": false
+  },
+  "LC_SPECIALBACKGROUND_DIA_DE_LOS_MUERTOS_2026": {
+   "name": "Día de Muertos 2026",
+   "reviewed": true
+  },
+  "LC_2026_LOSANGELES_NO_001": {
+   "name": "Pokémon Night Out 2026: Los Angeles",
+   "reviewed": true
+  },
+  "LC_2026_LONDON_NO_001": {
+   "name": "Pokémon Night Out 2026: London",
+   "reviewed": true
+  },
+  "LC_2026_FC_SEOUL": {
+   "name": "FC Seoul · 2026",
+   "reviewed": true
+  },
   "LC_TPC30_TW": {
    "name": "TPC30 Taiwan",
    "reviewed": false,
