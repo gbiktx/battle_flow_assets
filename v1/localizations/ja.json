@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "マジカルフレイム+",
     "NATURES_MADNESS": "しぜんのいかり",
     "NIGHT_SHADE": "ナイトヘッド",
+    "NIGHT_SHADE_PLUS": "ナイトヘッド+",
     "NIGHT_SLASH": "つじぎり",
     "OBLIVION_WING": "デスウイング",
     "OBSTRUCT": "ブロッキング",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "でんじほう+",
     "ZEN_HEADBUTT": "しねんのずつき"
   },
-  "revision": "sha256-4ee7c63c29f87bc1bfe5f196df1541eafcaf5dc613c089b3c5ef7e21df74d441"
+  "revision": "sha256-c63ff990d5a5b75b9a0ed6c53b4cc3010612aaef9b9169a9b8edb0c9015b1fe2"
 }

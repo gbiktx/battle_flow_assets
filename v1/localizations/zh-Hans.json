@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "魔法火焰+",
     "NATURES_MADNESS": "自然之怒",
     "NIGHT_SHADE": "黑夜魔影",
+    "NIGHT_SHADE_PLUS": "黑夜魔影+",
     "NIGHT_SLASH": "暗袭要害",
     "OBLIVION_WING": "死亡之翼",
     "OBSTRUCT": "拦堵",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "电磁炮+",
     "ZEN_HEADBUTT": "意念头锤"
   },
-  "revision": "sha256-84384f0010db72373b874c9f82f40e57a16d37e72785ad702fae1cd93298ea5f"
+  "revision": "sha256-a4cbdafe7f41833de495bc39cef49a715285905f5dd4234ffb5d12336d4b8190"
 }

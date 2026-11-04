@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "Magieflamme+",
     "NATURES_MADNESS": "Naturzorn",
     "NIGHT_SHADE": "Nachtnebel",
+    "NIGHT_SHADE_PLUS": "Nachtnebel+",
     "NIGHT_SLASH": "Nachthieb",
     "OBLIVION_WING": "Unheilsschwingen",
     "OBSTRUCT": "Abblocker",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Blitzkanone+",
     "ZEN_HEADBUTT": "Zen-Kopfstoß"
   },
-  "revision": "sha256-6e3c31d613f41fafa98a4536ed837460eab1d166dabbe8aea9efc8aa2cb0bd38"
+  "revision": "sha256-3d15ac71437c6aeb160b3d0eb679830a18e233d1759b770dc0d82d538403df74"
 }

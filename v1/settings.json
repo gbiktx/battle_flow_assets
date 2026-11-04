@@ -191,7 +191,7 @@
       "name": "halloweenmega",
       "title": "Mega Halloween Cup",
       "cpLimit": "1500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-10-27T13:00:00-07:00",
@@ -458,7 +458,7 @@
       "active": false
     }
   ],
-  "version": "1.37",
+  "version": "1.38",
   "forceAppVersion": "4.3.0",
   "showGblCalendar": true,
   "showMetaProfiles": true,

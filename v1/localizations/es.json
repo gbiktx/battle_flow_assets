@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "Llama Embrujada+",
     "NATURES_MADNESS": "Furia Natural",
     "NIGHT_SHADE": "Tinieblas",
+    "NIGHT_SHADE_PLUS": "Tinieblas+",
     "NIGHT_SLASH": "Tajo Umbrío",
     "OBLIVION_WING": "Ala Mortífera",
     "OBSTRUCT": "Obstrucción",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-dc71650f647299523b4defe50371d5ba3e7fb38152f1b2ea6bce44a547e2aaba"
+  "revision": "sha256-851014adc2f15af9d53d3e5df5fe3ed4a1604391db206a11d3e69216fcb0d3cf"
 }

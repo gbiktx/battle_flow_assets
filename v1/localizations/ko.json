@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "매지컬플레임+",
     "NATURES_MADNESS": "자연의분노",
     "NIGHT_SHADE": "나이트헤드",
+    "NIGHT_SHADE_PLUS": "나이트헤드+",
     "NIGHT_SLASH": "깜짝베기",
     "OBLIVION_WING": "데스윙",
     "OBSTRUCT": "블로킹",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "전자포+",
     "ZEN_HEADBUTT": "사념의박치기"
   },
-  "revision": "sha256-3f15dfa1850e764aad731057cf89a9300cdadcfdaa164872029dff38069d4d9a"
+  "revision": "sha256-664cbf55f21f60daa198e3fcda39a5ce0a5ff56c2287bf93e59ec7d8b69fb83f"
 }

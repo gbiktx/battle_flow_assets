@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "아이언헤드",
     "IRON_TAIL": "아이언테일",
     "KARATE_CHOP": "태권당수",
+    "KOWTOW_CLEAVE": "도각참",
     "LAST_RESORT": "비장의무기",
     "LEAFAGE": "나뭇잎",
     "LEAF_BLADE": "리프블레이드",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "매지컬플레임+",
     "NATURES_MADNESS": "자연의분노",
     "NIGHT_SHADE": "나이트헤드",
+    "NIGHT_SHADE_PLUS": "나이트헤드+",
     "NIGHT_SLASH": "깜짝베기",
     "OBLIVION_WING": "데스윙",
     "OBSTRUCT": "블로킹",
     "OCTAZOOKA": "대포무노포",
     "OMINOUS_WIND": "괴상한바람",
+    "OMINOUS_WIND_PLUS": "괴상한바람+",
     "ORIGIN_PULSE": "근원의파동",
     "OUTRAGE": "역린",
     "OUTRAGE_PLUS": "역린+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "전자포+",
     "ZEN_HEADBUTT": "사념의박치기"
   },
-  "revision": "sha256-6b038152da6a96edf8eb8238a50237346011c20d9a1f87b36e082d4ffac6ea12"
+  "revision": "sha256-664cbf55f21f60daa198e3fcda39a5ce0a5ff56c2287bf93e59ec7d8b69fb83f"
 }

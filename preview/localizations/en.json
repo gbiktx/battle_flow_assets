@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Iron Head",
     "IRON_TAIL": "Iron Tail",
     "KARATE_CHOP": "Karate Chop",
+    "KOWTOW_CLEAVE": "Kowtow Cleave",
     "LAST_RESORT": "Last Resort",
     "LEAFAGE": "Leafage",
     "LEAF_BLADE": "Leaf Blade",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "Mystical Fire+",
     "NATURES_MADNESS": "Nature’s Madness",
     "NIGHT_SHADE": "Night Shade",
+    "NIGHT_SHADE_PLUS": "Night Shade+",
     "NIGHT_SLASH": "Night Slash",
     "OBLIVION_WING": "Oblivion Wing",
     "OBSTRUCT": "Obstruct",
     "OCTAZOOKA": "Octazooka",
     "OMINOUS_WIND": "Ominous Wind",
+    "OMINOUS_WIND_PLUS": "Ominous Wind+",
     "ORIGIN_PULSE": "Origin Pulse",
     "OUTRAGE": "Outrage",
     "OUTRAGE_PLUS": "Outrage+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Zap Cannon+",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-3710b19723121a765d1dad5f9ed5a60b67c2c4477faf012a84cbd262a1f8a981"
+  "revision": "sha256-82758b92c385e1b8bde2403d8f7f33056b7b8bbb828abebcd2c11e87b4ae92ed"
 }

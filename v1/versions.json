@@ -1,22 +1,22 @@
 {
-  "dataVersion": "1.37",
+  "dataVersion": "1.38",
   "forceAppVersion": "4.3.0",
   "latestAppVersion": "4.6.0",
   "gameTranslations": {
     "schemaVersion": 1,
     "revisions": {
-      "de": "sha256-6e3c31d613f41fafa98a4536ed837460eab1d166dabbe8aea9efc8aa2cb0bd38",
-      "en": "sha256-9ec2e7598ea748ff3b1a069d16bd265b42c046fbd424bb1814c4321ae61d82c3",
-      "es": "sha256-dc71650f647299523b4defe50371d5ba3e7fb38152f1b2ea6bce44a547e2aaba",
-      "es-419": "sha256-ffa3a79de9b43ec12eff61027315225130d72fe8693a57032f66e1b120018b60",
-      "fr": "sha256-5e3be88f7ee1619e10ea5206f83138e68b5ad2130892513daf0c13e919db0edd",
-      "hi": "sha256-69e0cf499e946612d1e317aa56e047358636b67c01ac4d45a6713f4cbc33c02e",
-      "it": "sha256-5cedbb4c5007dcc5282711f5103ada2067287a578f3d63a986554c7d3822f2e8",
-      "ja": "sha256-4ee7c63c29f87bc1bfe5f196df1541eafcaf5dc613c089b3c5ef7e21df74d441",
-      "ko": "sha256-3f15dfa1850e764aad731057cf89a9300cdadcfdaa164872029dff38069d4d9a",
-      "pt": "sha256-766c7835cfad8882ecf92d7c98bb58847f2aff8c44acac52508320a559354ae0",
-      "zh-Hans": "sha256-84384f0010db72373b874c9f82f40e57a16d37e72785ad702fae1cd93298ea5f",
-      "zh-Hant": "sha256-1bcfecac68c99962bbc2ad1fbcb869215d964a5b7cf458b4510b05197dfa4bcd"
+      "de": "sha256-3d15ac71437c6aeb160b3d0eb679830a18e233d1759b770dc0d82d538403df74",
+      "en": "sha256-82758b92c385e1b8bde2403d8f7f33056b7b8bbb828abebcd2c11e87b4ae92ed",
+      "es": "sha256-851014adc2f15af9d53d3e5df5fe3ed4a1604391db206a11d3e69216fcb0d3cf",
+      "es-419": "sha256-f1b2d98a40909bee10ec0638734096fad8863a8c14ff53a94cd659485954ba4e",
+      "fr": "sha256-f924196266c1438bfcf5b4c20bbd34cf500e3e83f63cce4a8ba19bcd2aef88ce",
+      "hi": "sha256-d8a817152d3fbfb4080c6991cf563bfc3f37edff0dc4a684207765b02c0b1b1b",
+      "it": "sha256-7dc42c32b944139b78266e9b66acdcb474b2cfaedd2648f735efc55d8449c9fe",
+      "ja": "sha256-c63ff990d5a5b75b9a0ed6c53b4cc3010612aaef9b9169a9b8edb0c9015b1fe2",
+      "ko": "sha256-664cbf55f21f60daa198e3fcda39a5ce0a5ff56c2287bf93e59ec7d8b69fb83f",
+      "pt": "sha256-91ab3cd2d6f74e30cf43faa4db734bd8b80a6007f3674f7547b87b9f9633912b",
+      "zh-Hans": "sha256-a4cbdafe7f41833de495bc39cef49a715285905f5dd4234ffb5d12336d4b8190",
+      "zh-Hant": "sha256-4918fac64bd333a925fb53eb7bd60f64174501157bddd1b67250e5986a1b3dfe"
     }
   }
 }

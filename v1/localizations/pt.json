@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "Fogo Místico+",
     "NATURES_MADNESS": "Ira da Natureza",
     "NIGHT_SHADE": "Sombra Noturna",
+    "NIGHT_SHADE_PLUS": "Sombra Noturna+",
     "NIGHT_SLASH": "Talho Noturno",
     "OBLIVION_WING": "Asa do Esquecimento",
     "OBSTRUCT": "Obstruir",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Canhão Zap+",
     "ZEN_HEADBUTT": "Cabeçada Zen"
   },
-  "revision": "sha256-766c7835cfad8882ecf92d7c98bb58847f2aff8c44acac52508320a559354ae0"
+  "revision": "sha256-91ab3cd2d6f74e30cf43faa4db734bd8b80a6007f3674f7547b87b9f9633912b"
 }

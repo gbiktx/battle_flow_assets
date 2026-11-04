@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "Feu Ensorcelé+",
     "NATURES_MADNESS": "Ire de la Nature",
     "NIGHT_SHADE": "Ombre Nocturne",
+    "NIGHT_SHADE_PLUS": "Ombre Nocturne+",
     "NIGHT_SLASH": "Tranche-Nuit",
     "OBLIVION_WING": "Mort-Ailes",
     "OBSTRUCT": "Blocage",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Élecanon+",
     "ZEN_HEADBUTT": "Psykoud’Boul"
   },
-  "revision": "sha256-5e3be88f7ee1619e10ea5206f83138e68b5ad2130892513daf0c13e919db0edd"
+  "revision": "sha256-f924196266c1438bfcf5b4c20bbd34cf500e3e83f63cce4a8ba19bcd2aef88ce"
 }

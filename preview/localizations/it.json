@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Metaltestata",
     "IRON_TAIL": "Codacciaio",
     "KARATE_CHOP": "Colpokarate",
+    "KOWTOW_CLEAVE": "Genufendente",
     "LAST_RESORT": "Ultimascelta",
     "LEAFAGE": "Fogliame",
     "LEAF_BLADE": "Fendifoglia",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "Magifiamma+",
     "NATURES_MADNESS": "Ira della Natura",
     "NIGHT_SHADE": "Ombra Notturna",
+    "NIGHT_SHADE_PLUS": "Ombra Notturna+",
     "NIGHT_SLASH": "Nottesferza",
     "OBLIVION_WING": "Ali del Fato",
     "OBSTRUCT": "Sbarramento",
     "OCTAZOOKA": "Octazooka",
     "OMINOUS_WIND": "Funestovento",
+    "OMINOUS_WIND_PLUS": "Funestovento+",
     "ORIGIN_PULSE": "Primopulsar",
     "OUTRAGE": "Oltraggio",
     "OUTRAGE_PLUS": "Oltraggio+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Falcecannone+",
     "ZEN_HEADBUTT": "Cozzata Zen"
   },
-  "revision": "sha256-f54e92d7874d47c3fbce9920cd7de603e3ed3761c083059fbdade35a1b1702ea"
+  "revision": "sha256-7dc42c32b944139b78266e9b66acdcb474b2cfaedd2648f735efc55d8449c9fe"
 }

@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "मिस्टिकल फ़ायर+",
     "NATURES_MADNESS": "नेचर मैडनेस",
     "NIGHT_SHADE": "नाइट शेड",
+    "NIGHT_SHADE_PLUS": "नाइट शेड+",
     "NIGHT_SLASH": "नाइट स्लैश",
     "OBLIVION_WING": "ऑब्लिवियन विंग",
     "OBSTRUCT": "ऑब्स्ट्रक्ट",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "ज़ैप कैनन+",
     "ZEN_HEADBUTT": "ज़ेन हेडबट"
   },
-  "revision": "sha256-69e0cf499e946612d1e317aa56e047358636b67c01ac4d45a6713f4cbc33c02e"
+  "revision": "sha256-d8a817152d3fbfb4080c6991cf563bfc3f37edff0dc4a684207765b02c0b1b1b"
 }

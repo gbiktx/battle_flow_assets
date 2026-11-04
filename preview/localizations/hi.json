@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "आयरन हेड",
     "IRON_TAIL": "आयरन टेल",
     "KARATE_CHOP": "कराटे चॉप",
+    "KOWTOW_CLEAVE": "काओटाओ क्लीव",
     "LAST_RESORT": "लास्ट रिज़ॉर्ट",
     "LEAFAGE": "लीफ़ेज",
     "LEAF_BLADE": "लीफ़ ब्लेड",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "मिस्टिकल फ़ायर+",
     "NATURES_MADNESS": "नेचर मैडनेस",
     "NIGHT_SHADE": "नाइट शेड",
+    "NIGHT_SHADE_PLUS": "नाइट शेड+",
     "NIGHT_SLASH": "नाइट स्लैश",
     "OBLIVION_WING": "ऑब्लिवियन विंग",
     "OBSTRUCT": "ऑब्स्ट्रक्ट",
     "OCTAZOOKA": "ऑक्टाज़ूका",
     "OMINOUS_WIND": "ऑमिनस",
+    "OMINOUS_WIND_PLUS": "ऑमिनस+",
     "ORIGIN_PULSE": "ऑरिजिन पल्स",
     "OUTRAGE": "आउट्रेज",
     "OUTRAGE_PLUS": "आउट्रेज+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "ज़ैप कैनन+",
     "ZEN_HEADBUTT": "ज़ेन हेडबट"
   },
-  "revision": "sha256-57dfef343070c183b59e9200abbf7ef638fa635216f47aff699b85511b8088a4"
+  "revision": "sha256-d8a817152d3fbfb4080c6991cf563bfc3f37edff0dc4a684207765b02c0b1b1b"
 }

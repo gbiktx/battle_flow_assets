@@ -1,22 +1,22 @@
 {
-  "dataVersion": "1.31",
+  "dataVersion": "1.32",
   "forceAppVersion": "4.3.0",
   "latestAppVersion": "4.4.0",
   "gameTranslations": {
     "schemaVersion": 1,
     "revisions": {
-      "de": "sha256-2d71d608156b28bb1a26d75c8861424edc61dc6c9ffac94f455003507f500ce5",
-      "en": "sha256-3710b19723121a765d1dad5f9ed5a60b67c2c4477faf012a84cbd262a1f8a981",
-      "es": "sha256-cae9bda42204cd991b8b3e344bbab2748f0b763c33b6b10bcb4983b9953d751d",
-      "es-419": "sha256-1a8145423625ad098eb8b1cda2a7b9d09501a9d8c34e2ac294e60e9ce411369b",
-      "fr": "sha256-3cc7e7cea0f11b1f03db748e9c801f2a5bf4dbfccbf054aef3f7a54c9186ce96",
-      "hi": "sha256-57dfef343070c183b59e9200abbf7ef638fa635216f47aff699b85511b8088a4",
-      "it": "sha256-f54e92d7874d47c3fbce9920cd7de603e3ed3761c083059fbdade35a1b1702ea",
-      "ja": "sha256-d1634e7b401570842b73dc955b73449ef5f41dd6b29ab68c7a99829a02287209",
-      "ko": "sha256-6b038152da6a96edf8eb8238a50237346011c20d9a1f87b36e082d4ffac6ea12",
-      "pt": "sha256-819206b1c9d6368f0e9568ec309fa66c054cd30dffeeeecc3236dd2b8bcdf92e",
-      "zh-Hans": "sha256-6c8f205b4ba4c8863e8a307173f08431a66da17a54b5e78169b0e7932eecdfeb",
-      "zh-Hant": "sha256-c158870b1a2342e6ede1aa4cd7a8f64b2de5802f327568cca9fb63369c474b84"
+      "de": "sha256-3d15ac71437c6aeb160b3d0eb679830a18e233d1759b770dc0d82d538403df74",
+      "en": "sha256-82758b92c385e1b8bde2403d8f7f33056b7b8bbb828abebcd2c11e87b4ae92ed",
+      "es": "sha256-851014adc2f15af9d53d3e5df5fe3ed4a1604391db206a11d3e69216fcb0d3cf",
+      "es-419": "sha256-f1b2d98a40909bee10ec0638734096fad8863a8c14ff53a94cd659485954ba4e",
+      "fr": "sha256-f924196266c1438bfcf5b4c20bbd34cf500e3e83f63cce4a8ba19bcd2aef88ce",
+      "hi": "sha256-d8a817152d3fbfb4080c6991cf563bfc3f37edff0dc4a684207765b02c0b1b1b",
+      "it": "sha256-7dc42c32b944139b78266e9b66acdcb474b2cfaedd2648f735efc55d8449c9fe",
+      "ja": "sha256-c63ff990d5a5b75b9a0ed6c53b4cc3010612aaef9b9169a9b8edb0c9015b1fe2",
+      "ko": "sha256-664cbf55f21f60daa198e3fcda39a5ce0a5ff56c2287bf93e59ec7d8b69fb83f",
+      "pt": "sha256-91ab3cd2d6f74e30cf43faa4db734bd8b80a6007f3674f7547b87b9f9633912b",
+      "zh-Hans": "sha256-a4cbdafe7f41833de495bc39cef49a715285905f5dd4234ffb5d12336d4b8190",
+      "zh-Hant": "sha256-4918fac64bd333a925fb53eb7bd60f64174501157bddd1b67250e5986a1b3dfe"
     }
   },
   "pokedexCatalog": {

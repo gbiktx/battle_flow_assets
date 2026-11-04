@@ -158,7 +158,7 @@
       "name": "halloweenmega",
       "title": "Mega Halloween Cup",
       "cpLimit": "1500",
-      "active": true,
+      "active": false,
       "schedule": [
         {
           "from": "2026-10-27T13:00:00-07:00",
@@ -408,7 +408,7 @@
       "active": false
     }
   ],
-  "version": "1.31",
+  "version": "1.32",
   "forceAppVersion": "300",
   "seasons": [
     {

@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Eisenschädel",
     "IRON_TAIL": "Eisenschweif",
     "KARATE_CHOP": "Karateschlag",
+    "KOWTOW_CLEAVE": "Kniefallspalter",
     "LAST_RESORT": "Zuflucht",
     "LEAFAGE": "Blattwerk",
     "LEAF_BLADE": "Laubklinge",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "Magieflamme+",
     "NATURES_MADNESS": "Naturzorn",
     "NIGHT_SHADE": "Nachtnebel",
+    "NIGHT_SHADE_PLUS": "Nachtnebel+",
     "NIGHT_SLASH": "Nachthieb",
     "OBLIVION_WING": "Unheilsschwingen",
     "OBSTRUCT": "Abblocker",
     "OCTAZOOKA": "Octazooka",
     "OMINOUS_WIND": "Unheilböen",
+    "OMINOUS_WIND_PLUS": "Unheilböen+",
     "ORIGIN_PULSE": "Ursprungswoge",
     "OUTRAGE": "Wutanfall",
     "OUTRAGE_PLUS": "Wutanfall+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Blitzkanone+",
     "ZEN_HEADBUTT": "Zen-Kopfstoß"
   },
-  "revision": "sha256-2d71d608156b28bb1a26d75c8861424edc61dc6c9ffac94f455003507f500ce5"
+  "revision": "sha256-3d15ac71437c6aeb160b3d0eb679830a18e233d1759b770dc0d82d538403df74"
 }

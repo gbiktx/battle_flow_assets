@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "Mystical Fire+",
     "NATURES_MADNESS": "Nature’s Madness",
     "NIGHT_SHADE": "Night Shade",
+    "NIGHT_SHADE_PLUS": "Night Shade+",
     "NIGHT_SLASH": "Night Slash",
     "OBLIVION_WING": "Oblivion Wing",
     "OBSTRUCT": "Obstruct",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Zap Cannon+",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-9ec2e7598ea748ff3b1a069d16bd265b42c046fbd424bb1814c4321ae61d82c3"
+  "revision": "sha256-82758b92c385e1b8bde2403d8f7f33056b7b8bbb828abebcd2c11e87b4ae92ed"
 }

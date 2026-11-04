@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Cabeza de Hierro",
     "IRON_TAIL": "Cola Férrea",
     "KARATE_CHOP": "Golpe Kárate",
+    "KOWTOW_CLEAVE": "Genufendiente",
     "LAST_RESORT": "Última Baza",
     "LEAFAGE": "Follaje",
     "LEAF_BLADE": "Hoja Aguda",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "Llama Embrujada+",
     "NATURES_MADNESS": "Furia Natural",
     "NIGHT_SHADE": "Tinieblas",
+    "NIGHT_SHADE_PLUS": "Tinieblas+",
     "NIGHT_SLASH": "Tajo Umbrío",
     "OBLIVION_WING": "Ala Mortífera",
     "OBSTRUCT": "Obstrucción",
     "OCTAZOOKA": "Pulpocañón",
     "OMINOUS_WIND": "Viento Aciago",
+    "OMINOUS_WIND_PLUS": "Viento Aciago+",
     "ORIGIN_PULSE": "Pulso Primigenio",
     "OUTRAGE": "Enfado",
     "OUTRAGE_PLUS": "Enfado+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-cae9bda42204cd991b8b3e344bbab2748f0b763c33b6b10bcb4983b9953d751d"
+  "revision": "sha256-851014adc2f15af9d53d3e5df5fe3ed4a1604391db206a11d3e69216fcb0d3cf"
 }

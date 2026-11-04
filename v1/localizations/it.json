@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "Magifiamma+",
     "NATURES_MADNESS": "Ira della Natura",
     "NIGHT_SHADE": "Ombra Notturna",
+    "NIGHT_SHADE_PLUS": "Ombra Notturna+",
     "NIGHT_SLASH": "Nottesferza",
     "OBLIVION_WING": "Ali del Fato",
     "OBSTRUCT": "Sbarramento",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Falcecannone+",
     "ZEN_HEADBUTT": "Cozzata Zen"
   },
-  "revision": "sha256-5cedbb4c5007dcc5282711f5103ada2067287a578f3d63a986554c7d3822f2e8"
+  "revision": "sha256-7dc42c32b944139b78266e9b66acdcb474b2cfaedd2648f735efc55d8449c9fe"
 }

@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "アイアンヘッド",
     "IRON_TAIL": "アイアンテール",
     "KARATE_CHOP": "からてチョップ",
+    "KOWTOW_CLEAVE": "ドゲザン",
     "LAST_RESORT": "とっておき",
     "LEAFAGE": "このは",
     "LEAF_BLADE": "リーフブレード",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "マジカルフレイム+",
     "NATURES_MADNESS": "しぜんのいかり",
     "NIGHT_SHADE": "ナイトヘッド",
+    "NIGHT_SHADE_PLUS": "ナイトヘッド+",
     "NIGHT_SLASH": "つじぎり",
     "OBLIVION_WING": "デスウイング",
     "OBSTRUCT": "ブロッキング",
     "OCTAZOOKA": "オクタンほう",
     "OMINOUS_WIND": "あやしいかぜ",
+    "OMINOUS_WIND_PLUS": "あやしいかぜ+",
     "ORIGIN_PULSE": "こんげんのはどう",
     "OUTRAGE": "げきりん",
     "OUTRAGE_PLUS": "げきりん+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "でんじほう+",
     "ZEN_HEADBUTT": "しねんのずつき"
   },
-  "revision": "sha256-d1634e7b401570842b73dc955b73449ef5f41dd6b29ab68c7a99829a02287209"
+  "revision": "sha256-c63ff990d5a5b75b9a0ed6c53b4cc3010612aaef9b9169a9b8edb0c9015b1fe2"
 }

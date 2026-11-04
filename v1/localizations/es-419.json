@@ -1237,6 +1237,7 @@
     "MYSTICAL_FIRE_PLUS": "Fuego Místico+",
     "NATURES_MADNESS": "Ira Natural",
     "NIGHT_SHADE": "Tinieblas",
+    "NIGHT_SHADE_PLUS": "Tinieblas+",
     "NIGHT_SLASH": "Corte Umbrío",
     "OBLIVION_WING": "Ala del Olvido",
     "OBSTRUCT": "Obstrucción",
@@ -1382,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-ffa3a79de9b43ec12eff61027315225130d72fe8693a57032f66e1b120018b60"
+  "revision": "sha256-f1b2d98a40909bee10ec0638734096fad8863a8c14ff53a94cd659485954ba4e"
 }

@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "Cabeça de Ferro",
     "IRON_TAIL": "Cauda de Ferro",
     "KARATE_CHOP": "Golpe de Caratê",
+    "KOWTOW_CLEAVE": "Humilhação Dividida",
     "LAST_RESORT": "Último Recurso",
     "LEAFAGE": "Folhagem",
     "LEAF_BLADE": "Lâmina de Folha",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "Fogo Místico+",
     "NATURES_MADNESS": "Ira da Natureza",
     "NIGHT_SHADE": "Sombra Noturna",
+    "NIGHT_SHADE_PLUS": "Sombra Noturna+",
     "NIGHT_SLASH": "Talho Noturno",
     "OBLIVION_WING": "Asa do Esquecimento",
     "OBSTRUCT": "Obstruir",
     "OCTAZOOKA": "Polvo-canhão",
     "OMINOUS_WIND": "Vento Ominoso",
+    "OMINOUS_WIND_PLUS": "Vento Ominoso+",
     "ORIGIN_PULSE": "Pulso Original",
     "OUTRAGE": "Ultraje",
     "OUTRAGE_PLUS": "Ultraje+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "Canhão Zap+",
     "ZEN_HEADBUTT": "Cabeçada Zen"
   },
-  "revision": "sha256-819206b1c9d6368f0e9568ec309fa66c054cd30dffeeeecc3236dd2b8bcdf92e"
+  "revision": "sha256-91ab3cd2d6f74e30cf43faa4db734bd8b80a6007f3674f7547b87b9f9633912b"
 }

@@ -1200,6 +1200,7 @@
     "IRON_HEAD": "鐵頭",
     "IRON_TAIL": "鐵尾",
     "KARATE_CHOP": "空手劈",
+    "KOWTOW_CLEAVE": "仆斬",
     "LAST_RESORT": "珍藏",
     "LEAFAGE": "樹葉",
     "LEAF_BLADE": "葉刃",
@@ -1236,11 +1237,13 @@
     "MYSTICAL_FIRE_PLUS": "魔法火焰+",
     "NATURES_MADNESS": "自然之怒",
     "NIGHT_SHADE": "黑夜魔影",
+    "NIGHT_SHADE_PLUS": "黑夜魔影+",
     "NIGHT_SLASH": "暗襲要害",
     "OBLIVION_WING": "死亡之翼",
     "OBSTRUCT": "攔堵",
     "OCTAZOOKA": "章魚桶炮",
     "OMINOUS_WIND": "奇異之風",
+    "OMINOUS_WIND_PLUS": "奇異之風+",
     "ORIGIN_PULSE": "根源波動",
     "OUTRAGE": "逆麟",
     "OUTRAGE_PLUS": "逆麟+",
@@ -1380,5 +1383,5 @@
     "ZAP_CANNON_PLUS": "電磁炮+",
     "ZEN_HEADBUTT": "意念頭錘"
   },
-  "revision": "sha256-c158870b1a2342e6ede1aa4cd7a8f64b2de5802f327568cca9fb63369c474b84"
+  "revision": "sha256-4918fac64bd333a925fb53eb7bd60f64174501157bddd1b67250e5986a1b3dfe"
 }
