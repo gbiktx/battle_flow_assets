@@ -2,7 +2,9 @@
   "_comment": "Pokémon GO client string keys carried in terms_<client-locale>.json: every key listed here, plus every key starting with one of the prefixes.",
   "prefixes": [
     "combat_title_season_",
+    "form_",
     "move_name_",
+    "pokemon_ibfc_name_",
     "pokemon_name_",
     "pokemon_type_"
   ],
