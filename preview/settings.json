@@ -253,7 +253,7 @@
     },
     {
       "name": "laic2027gbl",
-      "title": "LAIC 2027 GBL",
+      "title": "LAIC Cup GBL",
       "cpLimit": "1500",
       "active": true,
       "schedule": [
@@ -273,7 +273,7 @@
     },
     {
       "name": "laic2027",
-      "title": "LAIC 2027",
+      "title": "LAIC 2027 Megas",
       "cpLimit": "1500",
       "active": true,
       "schedule": [

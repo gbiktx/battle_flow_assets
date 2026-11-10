@@ -267,7 +267,27 @@
     },
     {
       "name": "laic2027gbl",
-      "title": "LAIC 2027",
+      "title": "LAIC Cup GBL",
+      "cpLimit": "1500",
+      "active": true,
+      "schedule": [
+        {
+          "from": "2026-09-11T13:00:00-07:00",
+          "to": "2026-11-10T13:00:00-07:00"
+        },
+        {
+          "from": "2026-11-10T13:00:00-07:00",
+          "to": "2026-11-17T13:00:00-07:00"
+        },
+        {
+          "from": "2026-11-18T13:00:00-07:00",
+          "to": "2026-11-25T13:00:00-07:00"
+        }
+      ]
+    },
+    {
+      "name": "laic2027",
+      "title": "LAIC 2027 Megas",
       "cpLimit": "1500",
       "active": true,
       "schedule": [
@@ -458,7 +478,7 @@
       "active": false
     }
   ],
-  "version": "1.39",
+  "version": "1.40",
   "forceAppVersion": "4.3.0",
   "showGblCalendar": true,
   "showMetaProfiles": true,
