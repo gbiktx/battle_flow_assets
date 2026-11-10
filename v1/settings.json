@@ -266,7 +266,7 @@
       ]
     },
     {
-      "name": "laic2027",
+      "name": "laic2027gbl",
       "title": "LAIC 2027",
       "cpLimit": "1500",
       "active": true,
@@ -458,7 +458,7 @@
       "active": false
     }
   ],
-  "version": "1.38",
+  "version": "1.39",
   "forceAppVersion": "4.3.0",
   "showGblCalendar": true,
   "showMetaProfiles": true,
