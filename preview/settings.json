@@ -428,10 +428,11 @@
       "active": false
     }
   ],
-  "version": "1.34",
+  "version": "1.35",
   "forceAppVersion": "300",
   "seasons": [
     {
+      "id": "s28",
       "name": "Twilight Trails",
       "start": "2026-09-08T13:00:00-07:00",
       "nameLocalized": {
@@ -449,6 +450,7 @@
       }
     },
     {
+      "id": "s27",
       "name": "Forever Forward",
       "start": "2026-06-02T13:00:00-07:00",
       "nameLocalized": {
@@ -466,6 +468,7 @@
       }
     },
     {
+      "id": "s26",
       "name": "Memories in Motion",
       "start": "2026-03-03T13:00:00-08:00",
       "nameLocalized": {
@@ -483,6 +486,7 @@
       }
     },
     {
+      "id": "s25",
       "name": "Precious Paths",
       "start": "2025-12-02T13:00:00-08:00",
       "nameLocalized": {
@@ -500,6 +504,7 @@
       }
     },
     {
+      "id": "s24",
       "name": "Tales of Transformation",
       "start": "2025-09-02T13:00:00-07:00",
       "nameLocalized": {
