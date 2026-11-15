@@ -169,6 +169,11 @@
     },
     "MINIOR_METEOR_YELLOW": {
       "category": "battleOnly"
+    },
+    "PIKACHU_VS_2019": {
+      "category": "costume",
+      "name": "Pikachu Libre",
+      "curated": true
     }
   }
 }
