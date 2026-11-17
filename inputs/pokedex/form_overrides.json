@@ -7,8 +7,10 @@
       }
     },
     "MEWTWO_A": {
-      "category": "regular",
-      "pvpokeId": "mewtwo_armored"
+      "category": "formVariant",
+      "pvpokeId": "mewtwo_armored",
+      "name": "Armored",
+      "curated": true
     },
     "GIMMIGHOUL_COIN_A1": {
       "category": "formVariant"
@@ -174,6 +176,30 @@
       "category": "costume",
       "name": "Pikachu Libre",
       "curated": true
+    },
+    "RAIKOU_S": {
+      "category": "shadowOnly"
+    },
+    "ENTEI_S": {
+      "category": "shadowOnly"
+    },
+    "SUICUNE_S": {
+      "category": "shadowOnly"
+    },
+    "LUGIA_S": {
+      "category": "shadowOnly"
+    },
+    "HO_OH_S": {
+      "category": "shadowOnly"
+    },
+    "LATIAS_S": {
+      "category": "shadowOnly"
+    },
+    "LATIOS_S": {
+      "category": "shadowOnly"
+    },
+    "NIDORAN_NORMAL": {
+      "category": "regular"
     }
   }
 }
