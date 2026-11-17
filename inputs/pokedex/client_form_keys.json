@@ -1,0 +1,15 @@
+{
+  "_doc": "Where the game client keeps a form's name under another key. prefixAliases: a species whose forms are named under another species' keys (form_vivillon_<pattern> names Scatterbug and Spewpa; form_burmy_<cloak> names Wormadam; form_core_<color> names Minior). regionalHeaders: a regional form takes the Pokédex header the game shows for it (alola_pokedex_header = \"Alolan Form\").",
+  "prefixAliases": {
+    "SCATTERBUG": "VIVILLON",
+    "SPEWPA": "VIVILLON",
+    "WORMADAM": "BURMY",
+    "MINIOR": "CORE"
+  },
+  "regionalHeaders": {
+    "ALOLA": "alola_pokedex_header",
+    "GALARIAN": "galarian_pokedex_header",
+    "HISUIAN": "hisuian_pokedex_header",
+    "PALDEA": "paldean_pokedex_header"
+  }
+}

@@ -175,7 +175,8 @@
     "PIKACHU_VS_2019": {
       "category": "costume",
       "name": "Pikachu Libre",
-      "curated": true
+      "curated": true,
+      "pvpokeId": "pikachu_libre"
     },
     "RAIKOU_S": {
       "category": "shadowOnly"
@@ -200,6 +201,9 @@
     },
     "NIDORAN_NORMAL": {
       "category": "regular"
+    },
+    "PIKACHU_FLYING_5TH_ANNIV": {
+      "pvpokeId": "pikachu_5th_anniversary"
     }
   }
 }
