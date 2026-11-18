@@ -628,5 +628,11 @@
         }
       }
     }
+  },
+  "betaJoin": {
+    "enabled": true,
+    "belowAppVersion": "5.0.0",
+    "android": "https://play.google.com/apps/testing/com.baru.software.oak",
+    "ios": "https://testflight.apple.com/join/gTBbC6p2"
   }
 }
