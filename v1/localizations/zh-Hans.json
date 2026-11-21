@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "镜光射击",
     "MIST_BALL": "薄雾球",
     "MOONBLAST": "月亮之力",
+    "MOONBLAST_PLUS": "月亮之力+",
     "MOONGEIST_BEAM": "暗影之光",
     "MUDDY_WATER": "浊流",
     "MUD_BOMB": "泥巴炸弹",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "击落",
     "SNARL": "大声咆哮",
     "SNIPE_SHOT": "狙击",
+    "SOAK": "浸水",
     "SOLAR_BEAM": "日光束",
     "SPACIAL_REND": "亚空裂斩",
     "SPARK": "电光",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "电磁炮+",
     "ZEN_HEADBUTT": "意念头锤"
   },
-  "revision": "sha256-a4cbdafe7f41833de495bc39cef49a715285905f5dd4234ffb5d12336d4b8190"
+  "revision": "sha256-c98c2dfe20449616fb83e44a09ea9696a3114fe25ca051e81d4e4d1e46b012f7"
 }

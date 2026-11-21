@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "ミラーショット",
     "MIST_BALL": "ミストボール",
     "MOONBLAST": "ムーンフォース",
+    "MOONBLAST_PLUS": "ムーンフォース+",
     "MOONGEIST_BEAM": "シャドーレイ",
     "MUDDY_WATER": "だくりゅう",
     "MUD_BOMB": "どろばくだん",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "うちおとす",
     "SNARL": "バークアウト",
     "SNIPE_SHOT": "ねらいうち",
+    "SOAK": "みずびたし",
     "SOLAR_BEAM": "ソーラービーム",
     "SPACIAL_REND": "あくうせつだん",
     "SPARK": "スパーク",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "でんじほう+",
     "ZEN_HEADBUTT": "しねんのずつき"
   },
-  "revision": "sha256-c63ff990d5a5b75b9a0ed6c53b4cc3010612aaef9b9169a9b8edb0c9015b1fe2"
+  "revision": "sha256-a7a57e665e7c738afbc60f62add4a85c8d40200b7c6d95ddb039a56cd5eec31e"
 }

@@ -1,9 +1,11 @@
 {
-  "synced_at": "2026-09-28T07:13:19.293031Z",
+  "synced_at": "2026-11-21T19:33:38.920327Z",
   "source": "pvpoke/src/data/groups/great.json",
   "cup_key": "all-1500",
-  "species_count": 44,
-  "duplicates_removed": [],
+  "species_count": 45,
+  "duplicates_removed": [
+    "dunsparce"
+  ],
   "entries": [
     {
       "speciesId": "altaria",
@@ -112,7 +114,7 @@
     },
     {
       "speciesId": "dunsparce",
-      "fastMove": "BITE",
+      "fastMove": "ROLLOUT",
       "chargedMoves": [
         "DRILL_RUN",
         "ROCK_SLIDE"
@@ -188,6 +190,15 @@
         "BRUTAL_SWING",
         "SLUDGE_BOMB"
       ]
+    },
+    {
+      "speciesId": "hydreigon_shadow",
+      "fastMove": "DRAGON_BREATH",
+      "chargedMoves": [
+        "BRUTAL_SWING",
+        "FLY"
+      ],
+      "shadowType": "shadow"
     },
     {
       "speciesId": "jellicent",
@@ -361,11 +372,11 @@
       ]
     },
     {
-      "speciesId": "hydreigon_shadow",
-      "fastMove": "DRAGON_BREATH",
+      "speciesId": "ursaluna_shadow",
+      "fastMove": "SCRATCH",
       "chargedMoves": [
-        "BRUTAL_SWING",
-        "FLY"
+        "SWIFT",
+        "FIRE_PUNCH"
       ],
       "shadowType": "shadow"
     }

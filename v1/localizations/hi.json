@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "मिरर शॉट",
     "MIST_BALL": "मिस्ट बॉल",
     "MOONBLAST": "मून ब्लास्ट",
+    "MOONBLAST_PLUS": "मून ब्लास्ट+",
     "MOONGEIST_BEAM": "मूनगाइस्ट बीम",
     "MUDDY_WATER": "मडी वॉटर",
     "MUD_BOMB": "मड बम",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "स्मैक डाउन",
     "SNARL": "गुर्राना",
     "SNIPE_SHOT": "स्नाइप शॉट",
+    "SOAK": "Soak",
     "SOLAR_BEAM": "सोलर बीम",
     "SPACIAL_REND": "स्पेशियल रेंड​",
     "SPARK": "स्पार्क",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "ज़ैप कैनन+",
     "ZEN_HEADBUTT": "ज़ेन हेडबट"
   },
-  "revision": "sha256-d8a817152d3fbfb4080c6991cf563bfc3f37edff0dc4a684207765b02c0b1b1b"
+  "revision": "sha256-00590c86e7ea10598b64e3321c4879238e42e456026150b4f18ec858fe9e8b6e"
 }

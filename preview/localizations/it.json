@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "Cristalcolpo",
     "MIST_BALL": "Foschisfera",
     "MOONBLAST": "Forza Lunare",
+    "MOONBLAST_PLUS": "Forza Lunare+",
     "MOONGEIST_BEAM": "Raggio d’Ombra",
     "MUDDY_WATER": "Fanghiglia",
     "MUD_BOMB": "Pantanobomba",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "Abbattimento",
     "SNARL": "Urlorabbia",
     "SNIPE_SHOT": "Tiromirato",
+    "SOAK": "Inondazione",
     "SOLAR_BEAM": "Solarraggio",
     "SPACIAL_REND": "Fendispazio",
     "SPARK": "Scintilla",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "Falcecannone+",
     "ZEN_HEADBUTT": "Cozzata Zen"
   },
-  "revision": "sha256-7dc42c32b944139b78266e9b66acdcb474b2cfaedd2648f735efc55d8449c9fe"
+  "revision": "sha256-230c5df6a2749922e4e4685b366ede4ee3c9e586a8683a90fc8b80299049cc56"
 }

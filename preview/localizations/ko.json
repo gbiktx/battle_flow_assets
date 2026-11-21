@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "미러샷",
     "MIST_BALL": "미스트볼",
     "MOONBLAST": "문포스",
+    "MOONBLAST_PLUS": "문포스+",
     "MOONGEIST_BEAM": "섀도레이",
     "MUDDY_WATER": "탁류",
     "MUD_BOMB": "진흙폭탄",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "떨어뜨리기",
     "SNARL": "바크아웃",
     "SNIPE_SHOT": "노려맞히기",
+    "SOAK": "물붓기",
     "SOLAR_BEAM": "솔라빔",
     "SPACIAL_REND": "공간절단",
     "SPARK": "스파크",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "전자포+",
     "ZEN_HEADBUTT": "사념의박치기"
   },
-  "revision": "sha256-664cbf55f21f60daa198e3fcda39a5ce0a5ff56c2287bf93e59ec7d8b69fb83f"
+  "revision": "sha256-e32a190000c8dc64f23eda79b8e0162db69ad521e8a223bf11889c7b0d6648e8"
 }

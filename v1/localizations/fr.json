@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "Miroi-Tir",
     "MIST_BALL": "Ball’Brume",
     "MOONBLAST": "Pouvoir Lunaire",
+    "MOONBLAST_PLUS": "Pouvoir Lunaire+",
     "MOONGEIST_BEAM": "Rayon Spectral",
     "MUDDY_WATER": "Ocroupi",
     "MUD_BOMB": "Boue-Bombe",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "Anti-Air",
     "SNARL": "Aboiement",
     "SNIPE_SHOT": "Tir de Précision",
+    "SOAK": "Détrempage",
     "SOLAR_BEAM": "Lance-Soleil",
     "SPACIAL_REND": "Spatio-Rift",
     "SPARK": "Étincelle",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "Élecanon+",
     "ZEN_HEADBUTT": "Psykoud’Boul"
   },
-  "revision": "sha256-f924196266c1438bfcf5b4c20bbd34cf500e3e83f63cce4a8ba19bcd2aef88ce"
+  "revision": "sha256-7e13fdb1b2c1e2af66c4c2d3007baf4df30c407dede464cc5cadcfea20e2ee30"
 }

@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "Disparo Espejo",
     "MIST_BALL": "Bola Neblina",
     "MOONBLAST": "Fuerza Lunar",
+    "MOONBLAST_PLUS": "Fuerza Lunar+",
     "MOONGEIST_BEAM": "Rayo Umbrío",
     "MUDDY_WATER": "Agua Lodosa",
     "MUD_BOMB": "Bomba Fango",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "Antiaéreo",
     "SNARL": "Alarido",
     "SNIPE_SHOT": "Disparo Certero",
+    "SOAK": "Empapar",
     "SOLAR_BEAM": "Rayo Solar",
     "SPACIAL_REND": "Corte Vacío",
     "SPARK": "Chispa",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "Electrocañón+",
     "ZEN_HEADBUTT": "Cabezazo Zen"
   },
-  "revision": "sha256-851014adc2f15af9d53d3e5df5fe3ed4a1604391db206a11d3e69216fcb0d3cf"
+  "revision": "sha256-8963893401c4daf6915f3ea14fecceb53a38bce29388c7d31b2c665345c240ea"
 }

@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "Mirror Shot",
     "MIST_BALL": "Mist Ball",
     "MOONBLAST": "Moonblast",
+    "MOONBLAST_PLUS": "Moonblast+",
     "MOONGEIST_BEAM": "Moongeist Beam",
     "MUDDY_WATER": "Muddy Water",
     "MUD_BOMB": "Mud Bomb",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "Smack Down",
     "SNARL": "Snarl",
     "SNIPE_SHOT": "Snipe Shot",
+    "SOAK": "Soak",
     "SOLAR_BEAM": "Solar Beam",
     "SPACIAL_REND": "Spacial Rend",
     "SPARK": "Spark",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "Zap Cannon+",
     "ZEN_HEADBUTT": "Zen Headbutt"
   },
-  "revision": "sha256-82758b92c385e1b8bde2403d8f7f33056b7b8bbb828abebcd2c11e87b4ae92ed"
+  "revision": "sha256-0f136ec22b87b7b57f0ff2bb582252d903ed32ecb9f7f8fa87e21f1d1bfd442c"
 }

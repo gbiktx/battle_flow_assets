@@ -1228,6 +1228,7 @@
     "MIRROR_SHOT": "Spiegelsalve",
     "MIST_BALL": "Nebelball",
     "MOONBLAST": "Mondgewalt",
+    "MOONBLAST_PLUS": "Mondgewalt+",
     "MOONGEIST_BEAM": "Schattenstrahl",
     "MUDDY_WATER": "Lehmbrühe",
     "MUD_BOMB": "Schlammbombe",
@@ -1317,6 +1318,7 @@
     "SMACK_DOWN": "Katapult",
     "SNARL": "Standpauke",
     "SNIPE_SHOT": "Präzisionsschuss",
+    "SOAK": "Überflutung",
     "SOLAR_BEAM": "Solarstrahl",
     "SPACIAL_REND": "Raumschlag",
     "SPARK": "Funkensprung",
@@ -1383,5 +1385,5 @@
     "ZAP_CANNON_PLUS": "Blitzkanone+",
     "ZEN_HEADBUTT": "Zen-Kopfstoß"
   },
-  "revision": "sha256-3d15ac71437c6aeb160b3d0eb679830a18e233d1759b770dc0d82d538403df74"
+  "revision": "sha256-9e3e28bc3a333394e4448f6acb990ce36e964d2ea7f6d6b7d92a9c557149426a"
 }
