@@ -17124,7 +17124,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.7,
-    "pokedexWeightKg": 55.4
+    "pokedexWeightKg": 55.4,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -17133,7 +17134,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.6,
-    "pokedexWeightKg": 52.6
+    "pokedexWeightKg": 52.6,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -17142,7 +17144,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.0,
-    "pokedexWeightKg": 60.0
+    "pokedexWeightKg": 60.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -17178,7 +17181,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.0,
-    "pokedexWeightKg": 122.0
+    "pokedexWeightKg": 122.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -17187,7 +17191,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.4,
-    "pokedexWeightKg": 4.0
+    "pokedexWeightKg": 4.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -18497,7 +18502,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.91,
-    "pokedexWeightKg": 178.0
+    "pokedexWeightKg": 178.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -18517,7 +18523,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.11,
-    "pokedexWeightKg": 198.0
+    "pokedexWeightKg": 198.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -18537,7 +18544,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.01,
-    "pokedexWeightKg": 187.0
+    "pokedexWeightKg": 187.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -18617,7 +18625,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 5.21,
-    "pokedexWeightKg": 216.0
+    "pokedexWeightKg": 216.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -18637,7 +18646,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.81,
-    "pokedexWeightKg": 199.0
+    "pokedexWeightKg": 199.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -18657,7 +18667,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.61,
-    "pokedexWeightKg": 5.0
+    "pokedexWeightKg": 5.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -21118,7 +21129,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.7,
-    "pokedexWeightKg": 230.0
+    "pokedexWeightKg": 230.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -21138,7 +21150,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.8,
-    "pokedexWeightKg": 175.0
+    "pokedexWeightKg": 175.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -21158,7 +21171,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.91,
-    "pokedexWeightKg": 205.0
+    "pokedexWeightKg": 205.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -21178,7 +21192,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.4,
-    "pokedexWeightKg": 40.0
+    "pokedexWeightKg": 40.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -21198,7 +21213,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.01,
-    "pokedexWeightKg": 60.0
+    "pokedexWeightKg": 60.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -21218,7 +21234,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 4.5,
-    "pokedexWeightKg": 352.0
+    "pokedexWeightKg": 352.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -21238,7 +21255,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.51,
-    "pokedexWeightKg": 950.0
+    "pokedexWeightKg": 950.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -21258,7 +21276,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 7.01,
-    "pokedexWeightKg": 206.5
+    "pokedexWeightKg": 206.5,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -21278,7 +21297,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.3,
-    "pokedexWeightKg": 1.1
+    "pokedexWeightKg": 1.1,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -21298,7 +21318,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.7,
-    "pokedexWeightKg": 60.8
+    "pokedexWeightKg": 60.8,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -22507,7 +22528,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.3,
-    "pokedexWeightKg": 0.3
+    "pokedexWeightKg": 0.3,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22516,7 +22538,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.3,
-    "pokedexWeightKg": 0.3
+    "pokedexWeightKg": 0.3,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22536,7 +22559,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.3,
-    "pokedexWeightKg": 0.3
+    "pokedexWeightKg": 0.3,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22545,7 +22569,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 5.4,
-    "pokedexWeightKg": 683.0
+    "pokedexWeightKg": 683.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22565,7 +22590,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 4.2,
-    "pokedexWeightKg": 336.0
+    "pokedexWeightKg": 336.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22585,7 +22611,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.7,
-    "pokedexWeightKg": 430.0
+    "pokedexWeightKg": 430.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22605,7 +22632,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.7,
-    "pokedexWeightKg": 420.0
+    "pokedexWeightKg": 420.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22625,7 +22653,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 4.5,
-    "pokedexWeightKg": 750.0
+    "pokedexWeightKg": 750.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22645,7 +22674,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 85.6
+    "pokedexWeightKg": 85.6,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -22665,7 +22695,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.4,
-    "pokedexWeightKg": 3.1
+    "pokedexWeightKg": 3.1,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -22685,7 +22716,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.3,
-    "pokedexWeightKg": 1.4
+    "pokedexWeightKg": 1.4,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -22705,7 +22737,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 50.5
+    "pokedexWeightKg": 50.5,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -22725,7 +22758,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.2,
-    "pokedexWeightKg": 2.1
+    "pokedexWeightKg": 2.1,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -22745,7 +22779,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.2,
-    "pokedexWeightKg": 320.0
+    "pokedexWeightKg": 320.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -22765,7 +22800,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.4,
-    "pokedexWeightKg": 4.0
+    "pokedexWeightKg": 4.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -24133,7 +24169,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.1,
-    "pokedexWeightKg": 250.0
+    "pokedexWeightKg": 250.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24142,7 +24179,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.9,
-    "pokedexWeightKg": 260.0
+    "pokedexWeightKg": 260.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24151,7 +24189,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.0,
-    "pokedexWeightKg": 200.0
+    "pokedexWeightKg": 200.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24160,7 +24199,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 63.0
+    "pokedexWeightKg": 63.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24169,7 +24209,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 61.0
+    "pokedexWeightKg": 61.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24178,7 +24219,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.2,
-    "pokedexWeightKg": 330.0
+    "pokedexWeightKg": 330.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24187,7 +24229,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.9,
-    "pokedexWeightKg": 345.0
+    "pokedexWeightKg": 345.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24196,7 +24239,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 68.0
+    "pokedexWeightKg": 68.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24205,7 +24249,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.0,
-    "pokedexWeightKg": 325.0
+    "pokedexWeightKg": 325.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24214,7 +24259,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.4,
-    "pokedexWeightKg": 48.5
+    "pokedexWeightKg": 48.5,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -24223,7 +24269,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.6,
-    "pokedexWeightKg": 6.5
+    "pokedexWeightKg": 6.5,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -24232,7 +24279,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 82.5
+    "pokedexWeightKg": 82.5,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -24835,7 +24883,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.0,
-    "pokedexWeightKg": 215.0
+    "pokedexWeightKg": 215.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24844,7 +24893,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 5.8,
-    "pokedexWeightKg": 203.0
+    "pokedexWeightKg": 203.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24853,7 +24903,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 5.0,
-    "pokedexWeightKg": 305.0
+    "pokedexWeightKg": 305.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -24862,7 +24913,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.7,
-    "pokedexWeightKg": 8.8
+    "pokedexWeightKg": 8.8,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -24871,7 +24923,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.5,
-    "pokedexWeightKg": 9.0
+    "pokedexWeightKg": 9.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -24880,7 +24933,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.7,
-    "pokedexWeightKg": 195.0
+    "pokedexWeightKg": 195.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -25339,7 +25393,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.9,
-    "pokedexWeightKg": 120.5
+    "pokedexWeightKg": 120.5,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25348,7 +25403,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.3,
-    "pokedexWeightKg": 100.5
+    "pokedexWeightKg": 100.5,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25456,7 +25512,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.8,
-    "pokedexWeightKg": 20.5
+    "pokedexWeightKg": 20.5,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25465,7 +25522,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.2,
-    "pokedexWeightKg": 18.6
+    "pokedexWeightKg": 18.6,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25474,7 +25532,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.9,
-    "pokedexWeightKg": 45.5
+    "pokedexWeightKg": 45.5,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25483,7 +25542,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.3,
-    "pokedexWeightKg": 21.2
+    "pokedexWeightKg": 21.2,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25492,7 +25552,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.2,
-    "pokedexWeightKg": 0.1
+    "pokedexWeightKg": 0.1,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25501,7 +25562,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.1,
-    "pokedexWeightKg": 999.9
+    "pokedexWeightKg": 999.9,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25510,7 +25572,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.4,
-    "pokedexWeightKg": 230.0
+    "pokedexWeightKg": 230.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25519,7 +25582,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 4.0,
-    "pokedexWeightKg": 120.0
+    "pokedexWeightKg": 120.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25528,7 +25592,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.2,
-    "pokedexWeightKg": 55.5
+    "pokedexWeightKg": 55.5,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25537,7 +25602,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.4,
-    "pokedexWeightKg": 333.6
+    "pokedexWeightKg": 333.6,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25546,7 +25612,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.8,
-    "pokedexWeightKg": 25.0
+    "pokedexWeightKg": 25.0,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25555,7 +25622,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.8,
-    "pokedexWeightKg": 100.0
+    "pokedexWeightKg": 100.0,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25564,7 +25632,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 9.2,
-    "pokedexWeightKg": 999.9
+    "pokedexWeightKg": 999.9,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25573,7 +25642,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.3,
-    "pokedexWeightKg": 0.1
+    "pokedexWeightKg": 0.1,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25582,7 +25652,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 5.5,
-    "pokedexWeightKg": 888.0
+    "pokedexWeightKg": 888.0,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25591,7 +25662,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.4,
-    "pokedexWeightKg": 230.0
+    "pokedexWeightKg": 230.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -25600,7 +25672,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.0,
-    "pokedexWeightKg": 80.5
+    "pokedexWeightKg": 80.5,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -25609,7 +25682,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.7,
-    "pokedexWeightKg": 22.2
+    "pokedexWeightKg": 22.2,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -25618,7 +25692,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.6,
-    "pokedexWeightKg": 1.8
+    "pokedexWeightKg": 1.8,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25627,7 +25702,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.6,
-    "pokedexWeightKg": 150.0
+    "pokedexWeightKg": 150.0,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25636,7 +25712,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 5.5,
-    "pokedexWeightKg": 820.0
+    "pokedexWeightKg": 820.0,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25645,7 +25722,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.8,
-    "pokedexWeightKg": 13.0
+    "pokedexWeightKg": 13.0,
+    "pokemonClass": "POKEMON_CLASS_ULTRA_BEAST"
    }
   }
  },
@@ -25654,7 +25732,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 44.5
+    "pokedexWeightKg": 44.5,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -25663,7 +25742,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.2,
-    "pokedexWeightKg": 8.0
+    "pokedexWeightKg": 8.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -25672,7 +25752,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.5,
-    "pokedexWeightKg": 800.0
+    "pokedexWeightKg": 800.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -26383,7 +26464,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.8,
-    "pokedexWeightKg": 110.0
+    "pokedexWeightKg": 110.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26392,7 +26474,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.9,
-    "pokedexWeightKg": 210.0
+    "pokedexWeightKg": 210.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26401,7 +26484,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 20.0,
-    "pokedexWeightKg": 950.0
+    "pokedexWeightKg": 950.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26410,7 +26494,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.6,
-    "pokedexWeightKg": 12.0
+    "pokedexWeightKg": 12.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26419,7 +26504,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.9,
-    "pokedexWeightKg": 105.0
+    "pokedexWeightKg": 105.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26428,7 +26514,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.8,
-    "pokedexWeightKg": 70.0
+    "pokedexWeightKg": 70.0,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
@@ -26437,7 +26524,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.2,
-    "pokedexWeightKg": 145.0
+    "pokedexWeightKg": 145.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26446,7 +26534,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.1,
-    "pokedexWeightKg": 200.0
+    "pokedexWeightKg": 200.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26455,7 +26544,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.2,
-    "pokedexWeightKg": 800.0
+    "pokedexWeightKg": 800.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26464,7 +26554,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.0,
-    "pokedexWeightKg": 44.5
+    "pokedexWeightKg": 44.5,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26473,7 +26564,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.1,
-    "pokedexWeightKg": 7.7
+    "pokedexWeightKg": 7.7,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -26527,7 +26619,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.6,
-    "pokedexWeightKg": 48.0
+    "pokedexWeightKg": 48.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27391,7 +27484,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 74.2
+    "pokedexWeightKg": 74.2,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27400,7 +27494,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.9,
-    "pokedexWeightKg": 152.2
+    "pokedexWeightKg": 152.2,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27409,7 +27504,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.7,
-    "pokedexWeightKg": 669.7
+    "pokedexWeightKg": 669.7,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27418,7 +27514,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.4,
-    "pokedexWeightKg": 4.9
+    "pokedexWeightKg": 4.9,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27445,7 +27542,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 2.5,
-    "pokedexWeightKg": 303.0
+    "pokedexWeightKg": 303.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27454,7 +27552,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.5,
-    "pokedexWeightKg": 240.0
+    "pokedexWeightKg": 240.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27463,7 +27562,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.5,
-    "pokedexWeightKg": 280.0
+    "pokedexWeightKg": 280.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27472,7 +27572,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 125.0
+    "pokedexWeightKg": 125.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27508,7 +27609,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.8,
-    "pokedexWeightKg": 92.2
+    "pokedexWeightKg": 92.2,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27517,7 +27619,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.0,
-    "pokedexWeightKg": 12.2
+    "pokedexWeightKg": 12.2,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27526,7 +27629,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.4,
-    "pokedexWeightKg": 30.1
+    "pokedexWeightKg": 30.1,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27535,7 +27639,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.2,
-    "pokedexWeightKg": 39.8
+    "pokedexWeightKg": 39.8,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27562,7 +27667,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 3.5,
-    "pokedexWeightKg": 590.0
+    "pokedexWeightKg": 590.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27571,7 +27677,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 5.2,
-    "pokedexWeightKg": 480.0
+    "pokedexWeightKg": 480.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27580,7 +27687,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.5,
-    "pokedexWeightKg": 162.5
+    "pokedexWeightKg": 162.5,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27589,7 +27697,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 1.6,
-    "pokedexWeightKg": 156.0
+    "pokedexWeightKg": 156.0,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27598,7 +27707,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.2,
-    "pokedexWeightKg": 6.5
+    "pokedexWeightKg": 6.5,
+    "pokemonClass": "POKEMON_CLASS_LEGENDARY"
    }
   }
  },
@@ -27607,7 +27717,8 @@
   "data": {
    "pokemonSettings": {
     "pokedexHeightM": 0.3,
-    "pokedexWeightKg": 0.3
+    "pokedexWeightKg": 0.3,
+    "pokemonClass": "POKEMON_CLASS_MYTHIC"
    }
   }
  },
