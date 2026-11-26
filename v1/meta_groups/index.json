@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-11-21T19:28:38.996051Z",
+  "synced_at": "2026-11-26T21:26:06.872298Z",
   "groups": {
     "all-1500": "great.json",
-    "laic2027gbl-1500": "laic2027gbl.json",
-    "laic2027-1500": "laic2027.json",
+    "mega-1500": "megagreat.json",
     "all-2500": "ultra.json",
+    "mega-2500": "megaultra.json",
     "all-10000": "master.json",
     "mega-10000": "mega.json",
     "all-500": "little.json"
